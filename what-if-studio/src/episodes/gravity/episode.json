@@ -1,0 +1,1791 @@
+{
+  "id": "Gravity",
+  "slug": "gravity",
+  "topic": "What if gravity switched off for 10 seconds?",
+  "format": "long",
+  "minutes": 5,
+  "size": "1920x1080",
+  "style": "glimpse60",
+  "reuse": [
+    "glimpse",
+    "glimpse60"
+  ],
+  "title": [
+    "WHAT IF GRAVITY",
+    "SWITCHED OFF FOR 10 SECONDS?"
+  ],
+  "accent": "10 SECONDS",
+  "power": {
+    "word": "Off.",
+    "rule": "gravity switches off for exactly ten seconds, then comes back",
+    "look": "soft white rim light, floating dust, a faint G chip counting down from 10"
+  },
+  "cast": [
+    "pipHood",
+    "mo"
+  ],
+  "script": [
+    {
+      "beat": "1 cold open",
+      "text": "Right now, something invisible is holding you down. Your chair. Your floor. Your coffee. The air in your lungs. So what happens if gravity switches off for ten seconds? Not forever. Just ten seconds. It is a normal Tuesday morning, and nobody warned you. Ready? Three. Two. One. Gone."
+    },
+    {
+      "beat": "2 the myth",
+      "text": "First, the big myth. You do not shoot into space. Movies love that picture, but physics says no. Gravity is not pulling you down like a rope. It is bending your path into a curve, so you follow the planet around. Switch it off, and you stop curving. You go in a straight line."
+    },
+    {
+      "beat": "3 the number",
+      "text": "Here is the catch. The ground is moving too. At the equator, the Earth spins at about four hundred and sixty five meters a second, and you carry that speed with you. Without gravity, you keep going straight, while the surface curves away beneath you. After ten seconds, the ground has dropped by only about one point seven meters. Five and a half feet."
+    },
+    {
+      "beat": "4 you drift",
+      "text": "So you do not blast off. You drift. Your feet leave the floor in the first second, like a slow elevator with no walls. You rotate a little. You grab at nothing. Your chair floats away from you, and so does your desk, your phone, and your cat, who is not impressed."
+    },
+    {
+      "beat": "5 liquids",
+      "text": "Now look at the coffee. It leaves the mug in one wobbling blob. Then it breaks into drops. Water does not pour anymore. It forms perfect spheres, because surface tension is suddenly the boss. Every glass, every sink, every shower turns into a cloud of tiny planets."
+    },
+    {
+      "beat": "6 your body",
+      "text": "Inside your body, things get strange too. Your heart keeps pumping, so you stay alive. But the pull that keeps your blood low is gone, so fluid shifts toward your head. Your face feels puffy. Your stomach floats inside you. Astronauts report the same feeling in their first minutes in orbit. Your body is fine. It is just confused."
+    },
+    {
+      "beat": "7 the air",
+      "text": "Then there is the air. Gravity is what holds the atmosphere down. Without it, the air starts to expand upward, and the pressure at the ground begins to fall. Your ears pop. Wind rushes up and away. But ten seconds is not long. You can still breathe. The sky looks the same. Nobody suffocates. This time."
+    },
+    {
+      "beat": "8 buildings and cars",
+      "text": "Buildings are fine. A skyscraper is held together by steel and concrete, not by its own weight. It stands there, a little confused, but it stands. Cars are another story. Without weight, tires lose their grip. Brakes barely work. Steering does almost nothing. Every car becomes a slow, silent bumper car, still moving at full speed."
+    },
+    {
+      "beat": "9 ocean",
+      "text": "Out at sea, the ocean has no weight pressing it flat. The surface keeps its shape for now, but waves start to lift and break into sheets and drops. Ships feel the water let go beneath them. Fish hang in a sea that no longer holds them down. Ten seconds is too short for anything to drift far. But the whole ocean is trembling."
+    },
+    {
+      "beat": "10 planes",
+      "text": "Up in the sky, planes keep flying. Their wings still make lift, but now nothing pulls them down, so they start to climb. Passengers lift out of their seats against the belts. Drinks float out of cups. The pilots hold on and wait. Ten seconds is long enough to scare everyone, but short enough that the plane does not go far."
+    },
+    {
+      "beat": "11 city view",
+      "text": "From a rooftop, the whole city rises together. Tables. Umbrellas. Bikes. Laundry on a line. Millions of small things lifting in silence, like a slow, strange snowfall in reverse. Shoes pop off. Hats fly. It is the quietest chaos you will ever see."
+    },
+    {
+      "beat": "12 zoom out",
+      "text": "Zoom out. The Moon moves sideways at about a thousand meters a second, and gravity is what bends its path around us. Switch gravity off, and it flies straight. After ten seconds, it is only about thirteen centimeters off its curve. The space station is closer, so it drifts about four hundred meters off its path. The astronauts inside feel nothing at all. They are already floating."
+    },
+    {
+      "beat": "13 the sun",
+      "text": "And the Sun? It is a giant ball held together by gravity, with its own pressure pushing outward all the time. Free it, and it starts to expand. But that takes the better part of an hour. In ten seconds, the Sun does not even notice."
+    },
+    {
+      "beat": "14 the return",
+      "text": "Then the ten seconds end. Gravity comes back. Everything you lifted falls. Your phone. Your chair. The blob of coffee. You drop about one point seven meters, which takes just over half a second. You land at about six meters a second. That is like hopping off a tall wall. Ouch, but you walk away."
+    },
+    {
+      "beat": "15 close",
+      "text": "So ten seconds without gravity would not end the world. But it would be the strangest ten seconds of your life. Now you know the answer. What would you do with them?"
+    }
+  ],
+  "science": [
+    {
+      "claim": "Equator speed about 465 m/s",
+      "working": "omega 7.292e-5 rad/s x R 6.378e6 m = 465 m/s",
+      "source": "NASA Earth fact sheet"
+    },
+    {
+      "claim": "Drift about 1.7 m in 10 s (equator only)",
+      "working": "d = 0.5 x omega^2 x R x t^2 = 0.5 x 5.31e-9 x 6.378e6 x 100 = 1.70 m. At latitude phi the vertical part is 1.7 x cos^2(phi), plus a sideways slide",
+      "source": "derived"
+    },
+    {
+      "claim": "Moon about 13 cm off curve",
+      "working": "a = GM/r^2 = 3.986e14/(3.844e8)^2 = 0.0027 m/s2; 0.5 x a x 100 = 0.135 m",
+      "source": "derived"
+    },
+    {
+      "claim": "ISS about 400 m off path",
+      "working": "g at 420 km = 3.986e14/(6.791e6)^2 = 8.6 m/s2; 0.5 x 8.6 x 100 = 430 m",
+      "source": "derived"
+    },
+    {
+      "claim": "Fall from 1.7 m takes 0.59 s, lands at 5.8 m/s",
+      "working": "t = sqrt(2 x 1.7/9.8) = 0.59 s; v = 9.8 x 0.59 = 5.8 m/s",
+      "source": "derived"
+    },
+    {
+      "claim": "Sun reacts over roughly an hour, not seconds",
+      "working": "dynamical time = 1/sqrt(G x density) = 1/sqrt(6.67e-11 x 1410) = about 3300 s",
+      "source": "standard stellar structure estimate, check before publishing"
+    },
+    {
+      "claim": "Air starts expanding upward, pressure at ground falls",
+      "working": "hydrostatic balance is lost, net upward force on air is the old pressure gradient. Size of the change in 10 s is NOT worked out yet",
+      "source": "TO VERIFY, soften the line if it does not hold"
+    },
+    {
+      "claim": "Ocean lifts and breaks into sheets, planes start to climb",
+      "working": "weight no longer balances water pressure gradient or wing lift, so both push up. Size of effect in 10 s NOT worked out",
+      "source": "TO VERIFY, soften lines 9 and 10 if they do not hold"
+    }
+  ],
+  "shots": [
+    {
+      "id": "S1",
+      "size": "wide",
+      "set": "kitchen",
+      "key": 18,
+      "note": "Pip at the island, steaming mug, morning light"
+    },
+    {
+      "id": "S2",
+      "size": "close-up",
+      "set": "kitchen",
+      "key": 14,
+      "note": "Pip's hand flat on the island, thin white arrows pressing down"
+    },
+    {
+      "id": "S3",
+      "size": "insert, low",
+      "set": "kitchen",
+      "key": 12,
+      "note": "chair legs planted on the floor"
+    },
+    {
+      "id": "S4",
+      "size": "insert, low",
+      "set": "kitchen",
+      "key": 12,
+      "note": "Pip's slippers on the tiles"
+    },
+    {
+      "id": "S5",
+      "size": "macro insert",
+      "set": "kitchen",
+      "key": 14,
+      "note": "coffee steam curling off the mug"
+    },
+    {
+      "id": "S6",
+      "size": "medium",
+      "set": "kitchen",
+      "key": 16,
+      "note": "Pip breathes in, dust motes in window light"
+    },
+    {
+      "id": "S7",
+      "size": "close-up",
+      "set": "kitchen",
+      "key": 14,
+      "note": "Pip looks at us, one eyebrow up"
+    },
+    {
+      "id": "S8",
+      "size": "insert",
+      "set": "kitchen (wall)",
+      "key": 16,
+      "note": "wall switch marked G, Pip's finger hovering (new prop)"
+    },
+    {
+      "id": "S9",
+      "size": "insert",
+      "set": "kitchen (wall)",
+      "key": 12,
+      "note": "big numeral 10 pops over the switch"
+    },
+    {
+      "id": "S10",
+      "size": "medium",
+      "set": "kitchen",
+      "key": 14,
+      "note": "Pip shakes his head"
+    },
+    {
+      "id": "S11",
+      "size": "insert",
+      "set": "kitchen (wall)",
+      "key": 12,
+      "note": "clock face, 10 seconds highlighted"
+    },
+    {
+      "id": "S12",
+      "size": "wide",
+      "set": "kitchen",
+      "key": 20,
+      "note": "Tuesday calendar on the wall, cat on the counter"
+    },
+    {
+      "id": "S13",
+      "size": "close-up",
+      "set": "kitchen",
+      "key": 14,
+      "note": "Pip gulps"
+    },
+    {
+      "id": "S14",
+      "size": "insert",
+      "set": "kitchen (wall)",
+      "key": 10,
+      "note": "finger on the switch, numeral 3"
+    },
+    {
+      "id": "S15",
+      "size": "insert",
+      "set": "kitchen (wall)",
+      "key": 10,
+      "note": "numeral 2"
+    },
+    {
+      "id": "S16",
+      "size": "insert",
+      "set": "kitchen (wall)",
+      "key": 10,
+      "note": "numeral 1"
+    },
+    {
+      "id": "S17",
+      "size": "wide",
+      "set": "kitchen",
+      "key": 20,
+      "note": "switch flips, white flash, dust lifts"
+    },
+    {
+      "id": "S18",
+      "size": "insert",
+      "set": "schematic",
+      "key": 14,
+      "note": "MYTH stamp slams onto a rocket-Pip drawing"
+    },
+    {
+      "id": "S19",
+      "size": "medium",
+      "set": "kitchen",
+      "key": 16,
+      "note": "movie version: Pip shooting up through the ceiling, red cross over it"
+    },
+    {
+      "id": "S20",
+      "size": "wide",
+      "set": "study",
+      "key": 18,
+      "note": "Mo on the sofa with popcorn, movie screen shows a launching Pip"
+    },
+    {
+      "id": "S21",
+      "size": "close-up",
+      "set": "study",
+      "key": 14,
+      "note": "Mo shakes his head"
+    },
+    {
+      "id": "S22",
+      "size": "wide",
+      "set": "schematic",
+      "key": 20,
+      "note": "Earth, tiny Pip standing on top, arrow pointing down"
+    },
+    {
+      "id": "S23",
+      "size": "insert",
+      "set": "schematic",
+      "key": 14,
+      "note": "a rope pulls Pip down, then the rope snaps away"
+    },
+    {
+      "id": "S24",
+      "size": "wide",
+      "set": "schematic",
+      "key": 22,
+      "note": "a curved dotted path wraps around the Earth"
+    },
+    {
+      "id": "S25",
+      "size": "high wide",
+      "set": "schematic",
+      "key": 22,
+      "note": "Pip walks around the globe, path curving with it"
+    },
+    {
+      "id": "S26",
+      "size": "insert",
+      "set": "kitchen (wall)",
+      "key": 12,
+      "note": "hand flips the G switch"
+    },
+    {
+      "id": "S27",
+      "size": "wide",
+      "set": "schematic",
+      "key": 24,
+      "note": "the curved path breaks and a straight line shoots off"
+    },
+    {
+      "id": "S28",
+      "size": "wide",
+      "set": "schematic",
+      "key": 26,
+      "note": "straight arrow leaves the circle, label STRAIGHT LINE"
+    },
+    {
+      "id": "S29",
+      "size": "wide",
+      "set": "schematic",
+      "key": 20,
+      "note": "Pip with a magnifying glass over a globe, the word CATCH"
+    },
+    {
+      "id": "S30",
+      "size": "insert",
+      "set": "schematic",
+      "key": 12,
+      "note": "the ground under Pip's feet slides sideways, arrows"
+    },
+    {
+      "id": "S31",
+      "size": "wide",
+      "set": "schematic",
+      "key": 20,
+      "note": "globe with the equator line glowing"
+    },
+    {
+      "id": "S32",
+      "size": "wide",
+      "set": "schematic",
+      "key": 20,
+      "note": "globe spinning, speed lines at the equator"
+    },
+    {
+      "id": "S33",
+      "size": "insert",
+      "set": "schematic",
+      "key": 12,
+      "note": "big label 465 m/s pops up"
+    },
+    {
+      "id": "S34",
+      "size": "medium",
+      "set": "schematic",
+      "key": 16,
+      "note": "Pip riding the surface, speed lines trail him"
+    },
+    {
+      "id": "S35",
+      "size": "wide",
+      "set": "schematic",
+      "key": 20,
+      "note": "Pip's arrow goes straight while the ground curves under"
+    },
+    {
+      "id": "S36",
+      "size": "high wide",
+      "set": "schematic",
+      "key": 22,
+      "note": "tiny Pip, ground curving away below him"
+    },
+    {
+      "id": "S37",
+      "size": "insert",
+      "set": "schematic",
+      "key": 12,
+      "note": "a gap opens between Pip's feet and the ground, ruler appears"
+    },
+    {
+      "id": "S38",
+      "size": "medium",
+      "set": "schematic",
+      "key": 16,
+      "note": "ruler reads 1.7 m next to Pip, label 5.5 ft"
+    },
+    {
+      "id": "S39",
+      "size": "wide",
+      "set": "kitchen",
+      "key": 20,
+      "note": "Pip stands still, a tiny puff of dust, nothing launches"
+    },
+    {
+      "id": "S40",
+      "size": "wide",
+      "set": "kitchen",
+      "key": 20,
+      "note": "Pip slowly rises from the floor"
+    },
+    {
+      "id": "S41",
+      "size": "insert, low",
+      "set": "kitchen",
+      "key": 16,
+      "note": "slippers lift off the tiles"
+    },
+    {
+      "id": "S42",
+      "size": "medium",
+      "set": "kitchen",
+      "key": 16,
+      "note": "Pip rises like in a glass elevator, ghost doors"
+    },
+    {
+      "id": "S43",
+      "size": "high wide",
+      "set": "kitchen",
+      "key": 22,
+      "note": "Pip tilts and rotates slowly"
+    },
+    {
+      "id": "S44",
+      "size": "close-up",
+      "set": "kitchen",
+      "key": 14,
+      "note": "Pip's hand grabs at empty air"
+    },
+    {
+      "id": "S45",
+      "size": "wide",
+      "set": "kitchen",
+      "key": 20,
+      "note": "the chair lifts off the floor"
+    },
+    {
+      "id": "S46",
+      "size": "wide",
+      "set": "study",
+      "key": 20,
+      "note": "the desk and papers lift off"
+    },
+    {
+      "id": "S47",
+      "size": "insert",
+      "set": "kitchen",
+      "key": 12,
+      "note": "phone slips out of a pocket and floats"
+    },
+    {
+      "id": "S48",
+      "size": "close-up",
+      "set": "kitchen",
+      "key": 14,
+      "note": "the cat floats past, unimpressed face"
+    },
+    {
+      "id": "S49",
+      "size": "macro insert",
+      "set": "kitchen",
+      "key": 14,
+      "note": "rim of the mug, coffee wobbles"
+    },
+    {
+      "id": "S50",
+      "size": "macro insert",
+      "set": "kitchen",
+      "key": 14,
+      "note": "coffee leaves the mug as one wobbling blob"
+    },
+    {
+      "id": "S51",
+      "size": "macro insert",
+      "set": "kitchen",
+      "key": 14,
+      "note": "the blob splits into drops"
+    },
+    {
+      "id": "S52",
+      "size": "insert",
+      "set": "kitchen",
+      "key": 12,
+      "note": "a tilted glass, the water just stays put"
+    },
+    {
+      "id": "S53",
+      "size": "macro insert",
+      "set": "kitchen",
+      "key": 14,
+      "note": "perfect spheres of water drift and shine"
+    },
+    {
+      "id": "S54",
+      "size": "insert",
+      "set": "schematic",
+      "key": 12,
+      "note": "water molecules pull inward on a drop"
+    },
+    {
+      "id": "S55",
+      "size": "insert",
+      "set": "kitchen",
+      "key": 12,
+      "note": "water bubble floats out of the sink"
+    },
+    {
+      "id": "S56",
+      "size": "insert",
+      "set": "kitchen",
+      "key": 12,
+      "note": "showerhead spray hangs as a cloud of beads (new prop)"
+    },
+    {
+      "id": "S57",
+      "size": "wide",
+      "set": "kitchen",
+      "key": 20,
+      "note": "Pip in the middle of a cloud of floating droplets"
+    },
+    {
+      "id": "S58",
+      "size": "medium",
+      "set": "schematic",
+      "key": 16,
+      "note": "stick x-ray outline of Pip's body"
+    },
+    {
+      "id": "S59",
+      "size": "insert",
+      "set": "schematic",
+      "key": 12,
+      "note": "heart icon beating"
+    },
+    {
+      "id": "S60",
+      "size": "insert",
+      "set": "schematic",
+      "key": 12,
+      "note": "blood arrows flow through the body"
+    },
+    {
+      "id": "S61",
+      "size": "insert",
+      "set": "schematic",
+      "key": 12,
+      "note": "downward arrows on the blood fade away"
+    },
+    {
+      "id": "S62",
+      "size": "medium",
+      "set": "schematic",
+      "key": 16,
+      "note": "blood shifts up into the head, head tints red"
+    },
+    {
+      "id": "S63",
+      "size": "close-up",
+      "set": "kitchen",
+      "key": 14,
+      "note": "Pip's cheeks puffy, eyes wide"
+    },
+    {
+      "id": "S64",
+      "size": "insert",
+      "set": "schematic",
+      "key": 12,
+      "note": "x-ray stomach floats inside the body"
+    },
+    {
+      "id": "S65",
+      "size": "wide",
+      "set": "schematic",
+      "key": 20,
+      "note": "space station, astronaut waves from a window"
+    },
+    {
+      "id": "S66",
+      "size": "medium",
+      "set": "kitchen",
+      "key": 16,
+      "note": "Pip gives a shaky thumbs up"
+    },
+    {
+      "id": "S67",
+      "size": "close-up",
+      "set": "kitchen",
+      "key": 14,
+      "note": "Pip, question marks circle his head"
+    },
+    {
+      "id": "S68",
+      "size": "wide",
+      "set": "rooftop",
+      "key": 20,
+      "note": "Pip looks up at a clear dusk sky"
+    },
+    {
+      "id": "S69",
+      "size": "wide",
+      "set": "schematic",
+      "key": 20,
+      "note": "Earth with a thin blue layer pressed against it"
+    },
+    {
+      "id": "S70",
+      "size": "wide",
+      "set": "schematic",
+      "key": 20,
+      "note": "the blue layer swells upward"
+    },
+    {
+      "id": "S71",
+      "size": "insert",
+      "set": "schematic",
+      "key": 12,
+      "note": "pressure gauge, needle drops"
+    },
+    {
+      "id": "S72",
+      "size": "close-up",
+      "set": "rooftop",
+      "key": 14,
+      "note": "Pip's ears pop, little pop lines"
+    },
+    {
+      "id": "S73",
+      "size": "wide",
+      "set": "rooftop",
+      "key": 20,
+      "note": "loose papers whip upward into the sky"
+    },
+    {
+      "id": "S74",
+      "size": "close-up",
+      "set": "rooftop",
+      "key": 14,
+      "note": "Pip breathes in, relieved"
+    },
+    {
+      "id": "S75",
+      "size": "wide",
+      "set": "rooftop",
+      "key": 20,
+      "note": "the sky looks perfectly normal"
+    },
+    {
+      "id": "S76",
+      "size": "medium",
+      "set": "rooftop",
+      "key": 16,
+      "note": "Pip and Mo look around, all fine"
+    },
+    {
+      "id": "S77",
+      "size": "close-up",
+      "set": "rooftop",
+      "key": 14,
+      "note": "Pip side-eyes the camera"
+    },
+    {
+      "id": "S78",
+      "size": "wide",
+      "set": "rooftop",
+      "key": 20,
+      "note": "city skyline at dusk"
+    },
+    {
+      "id": "S79",
+      "size": "low angle, wide",
+      "set": "rooftop",
+      "key": 20,
+      "note": "a skyscraper towers over Pip"
+    },
+    {
+      "id": "S80",
+      "size": "insert",
+      "set": "schematic",
+      "key": 12,
+      "note": "steel beam, bolts and concrete"
+    },
+    {
+      "id": "S81",
+      "size": "wide",
+      "set": "rooftop",
+      "key": 20,
+      "note": "the tower stands, a small cloud drifts past"
+    },
+    {
+      "id": "S82",
+      "size": "wide",
+      "set": "street",
+      "key": 20,
+      "note": "a busy street full of cars (new set)"
+    },
+    {
+      "id": "S83",
+      "size": "insert",
+      "set": "street",
+      "key": 12,
+      "note": "a tire lifts off the road"
+    },
+    {
+      "id": "S84",
+      "size": "insert",
+      "set": "street",
+      "key": 12,
+      "note": "a foot floats over the brake pedal"
+    },
+    {
+      "id": "S85",
+      "size": "insert",
+      "set": "street",
+      "key": 12,
+      "note": "steering wheel spins loose"
+    },
+    {
+      "id": "S86",
+      "size": "wide",
+      "set": "street",
+      "key": 20,
+      "note": "cars drift into each other softly"
+    },
+    {
+      "id": "S87",
+      "size": "wide",
+      "set": "street",
+      "key": 20,
+      "note": "speed lines on the cars, silent"
+    },
+    {
+      "id": "S88",
+      "size": "wide",
+      "set": "sea",
+      "key": 20,
+      "note": "open ocean at dusk (new set)"
+    },
+    {
+      "id": "S89",
+      "size": "insert",
+      "set": "schematic",
+      "key": 12,
+      "note": "arrows of water weight fade out"
+    },
+    {
+      "id": "S90",
+      "size": "wide",
+      "set": "sea",
+      "key": 20,
+      "note": "waves lift and wobble"
+    },
+    {
+      "id": "S91",
+      "size": "macro insert",
+      "set": "sea",
+      "key": 14,
+      "note": "a sheet of water peels off a wave"
+    },
+    {
+      "id": "S92",
+      "size": "wide",
+      "set": "sea",
+      "key": 20,
+      "note": "a ship rocks as the water loosens under it"
+    },
+    {
+      "id": "S93",
+      "size": "wide",
+      "set": "underwater",
+      "key": 20,
+      "note": "fish hang in loose water (new set)"
+    },
+    {
+      "id": "S94",
+      "size": "wide",
+      "set": "sea",
+      "key": 20,
+      "note": "timer 10 s next to the calm-looking sea"
+    },
+    {
+      "id": "S95",
+      "size": "wide",
+      "set": "sea",
+      "key": 20,
+      "note": "the whole ocean shimmers and trembles"
+    },
+    {
+      "id": "S96",
+      "size": "wide",
+      "set": "sky",
+      "key": 20,
+      "note": "a plane cruises above the clouds (new set)"
+    },
+    {
+      "id": "S97",
+      "size": "insert",
+      "set": "sky",
+      "key": 12,
+      "note": "a wing with lift arrows"
+    },
+    {
+      "id": "S98",
+      "size": "wide",
+      "set": "sky",
+      "key": 20,
+      "note": "the plane nose rises into a climb"
+    },
+    {
+      "id": "S99",
+      "size": "medium",
+      "set": "cabin",
+      "key": 16,
+      "note": "passengers lift against their seatbelts (new set)"
+    },
+    {
+      "id": "S100",
+      "size": "insert",
+      "set": "cabin",
+      "key": 12,
+      "note": "a drink floats out of a cup"
+    },
+    {
+      "id": "S101",
+      "size": "close-up",
+      "set": "cabin",
+      "key": 14,
+      "note": "pilot hands grip the controls"
+    },
+    {
+      "id": "S102",
+      "size": "close-up",
+      "set": "cabin",
+      "key": 14,
+      "note": "a passenger with wide eyes"
+    },
+    {
+      "id": "S103",
+      "size": "wide",
+      "set": "sky",
+      "key": 20,
+      "note": "the plane small in a huge sky"
+    },
+    {
+      "id": "S104",
+      "size": "wide",
+      "set": "rooftop",
+      "key": 20,
+      "note": "Pip and Mo on the parapet, the city rising behind them"
+    },
+    {
+      "id": "S105",
+      "size": "wide",
+      "set": "street",
+      "key": 20,
+      "note": "tables lift off a cafe terrace"
+    },
+    {
+      "id": "S106",
+      "size": "wide",
+      "set": "street",
+      "key": 20,
+      "note": "umbrellas float up"
+    },
+    {
+      "id": "S107",
+      "size": "wide",
+      "set": "street",
+      "key": 20,
+      "note": "bikes rise from a rack"
+    },
+    {
+      "id": "S108",
+      "size": "wide",
+      "set": "street",
+      "key": 20,
+      "note": "laundry lifts off the line"
+    },
+    {
+      "id": "S109",
+      "size": "wide",
+      "set": "rooftop",
+      "key": 20,
+      "note": "the city lifting in silence"
+    },
+    {
+      "id": "S110",
+      "size": "high wide",
+      "set": "rooftop",
+      "key": 22,
+      "note": "things rise like snowfall in reverse"
+    },
+    {
+      "id": "S111",
+      "size": "insert",
+      "set": "street",
+      "key": 12,
+      "note": "shoes pop off feet"
+    },
+    {
+      "id": "S112",
+      "size": "insert",
+      "set": "street",
+      "key": 12,
+      "note": "hats fly off heads"
+    },
+    {
+      "id": "S113",
+      "size": "close-up",
+      "set": "rooftop",
+      "key": 14,
+      "note": "Mo whispers wow"
+    },
+    {
+      "id": "S114",
+      "size": "wide",
+      "set": "space",
+      "key": 20,
+      "note": "Earth and Moon pulling back, stars (new set)"
+    },
+    {
+      "id": "S115",
+      "size": "wide",
+      "set": "space",
+      "key": 20,
+      "note": "the Moon on its orbit"
+    },
+    {
+      "id": "S116",
+      "size": "insert",
+      "set": "space",
+      "key": 12,
+      "note": "arrow showing the Moon moving sideways"
+    },
+    {
+      "id": "S117",
+      "size": "wide",
+      "set": "space",
+      "key": 20,
+      "note": "the orbit path bends around Earth"
+    },
+    {
+      "id": "S118",
+      "size": "wide",
+      "set": "space",
+      "key": 20,
+      "note": "the Moon flies off on a straight line"
+    },
+    {
+      "id": "S119",
+      "size": "insert",
+      "set": "space",
+      "key": 12,
+      "note": "ruler shows 13 cm gap, about a hand"
+    },
+    {
+      "id": "S120",
+      "size": "wide",
+      "set": "space",
+      "key": 20,
+      "note": "space station over Earth"
+    },
+    {
+      "id": "S121",
+      "size": "wide",
+      "set": "space",
+      "key": 20,
+      "note": "the station drifts off its curved path"
+    },
+    {
+      "id": "S122",
+      "size": "medium",
+      "set": "schematic",
+      "key": 16,
+      "note": "two astronauts calm inside the station"
+    },
+    {
+      "id": "S123",
+      "size": "close-up",
+      "set": "schematic",
+      "key": 14,
+      "note": "an astronaut smiles, floating"
+    },
+    {
+      "id": "S124",
+      "size": "wide",
+      "set": "space",
+      "key": 20,
+      "note": "the Sun glows"
+    },
+    {
+      "id": "S125",
+      "size": "wide",
+      "set": "space",
+      "key": 20,
+      "note": "the Sun huge next to a tiny Earth"
+    },
+    {
+      "id": "S126",
+      "size": "insert",
+      "set": "space",
+      "key": 12,
+      "note": "arrows push outward and gravity pulls inward"
+    },
+    {
+      "id": "S127",
+      "size": "insert",
+      "set": "space",
+      "key": 12,
+      "note": "the inward arrows vanish"
+    },
+    {
+      "id": "S128",
+      "size": "wide",
+      "set": "space",
+      "key": 20,
+      "note": "the Sun swells slightly"
+    },
+    {
+      "id": "S129",
+      "size": "insert",
+      "set": "schematic",
+      "key": 12,
+      "note": "clock face almost full circle"
+    },
+    {
+      "id": "S130",
+      "size": "close-up",
+      "set": "space",
+      "key": 14,
+      "note": "the Sun with a raised eyebrow"
+    },
+    {
+      "id": "S131",
+      "size": "wide",
+      "set": "kitchen",
+      "key": 20,
+      "note": "the G switch timer hits zero, floating objects pause"
+    },
+    {
+      "id": "S132",
+      "size": "insert",
+      "set": "kitchen",
+      "key": 12,
+      "note": "the switch flips back"
+    },
+    {
+      "id": "S133",
+      "size": "wide",
+      "set": "kitchen",
+      "key": 20,
+      "note": "everything starts to sink"
+    },
+    {
+      "id": "S134",
+      "size": "wide",
+      "set": "kitchen",
+      "key": 20,
+      "note": "objects fall, Pip drops"
+    },
+    {
+      "id": "S135",
+      "size": "high wide",
+      "set": "kitchen",
+      "key": 22,
+      "note": "Pip falls, ruler shows 1.7 m"
+    },
+    {
+      "id": "S136",
+      "size": "insert",
+      "set": "schematic",
+      "key": 12,
+      "note": "stopwatch reads 0.59 s"
+    },
+    {
+      "id": "S137",
+      "size": "low angle, wide",
+      "set": "kitchen",
+      "key": 20,
+      "note": "Pip lands with a thud, dust puff"
+    },
+    {
+      "id": "S138",
+      "size": "medium",
+      "set": "schematic",
+      "key": 16,
+      "note": "diagram of hopping off a tall wall"
+    },
+    {
+      "id": "S139",
+      "size": "close-up",
+      "set": "kitchen",
+      "key": 14,
+      "note": "Pip winces, Ouch"
+    },
+    {
+      "id": "S140",
+      "size": "wide",
+      "set": "kitchen",
+      "key": 20,
+      "note": "Pip limps away fine, mess around him"
+    },
+    {
+      "id": "S141",
+      "size": "medium",
+      "set": "rooftop",
+      "key": 16,
+      "note": "Pip and Mo at dusk"
+    },
+    {
+      "id": "S142",
+      "size": "wide",
+      "set": "space",
+      "key": 20,
+      "note": "Earth fine from far away"
+    },
+    {
+      "id": "S143",
+      "size": "medium",
+      "set": "rooftop",
+      "key": 16,
+      "note": "Pip nods"
+    },
+    {
+      "id": "S144",
+      "size": "wide",
+      "set": "kitchen",
+      "key": 20,
+      "note": "the mess of settled objects"
+    },
+    {
+      "id": "S145",
+      "size": "close-up",
+      "set": "rooftop",
+      "key": 14,
+      "note": "Pip looks thoughtful"
+    },
+    {
+      "id": "S146",
+      "size": "medium",
+      "set": "rooftop",
+      "key": 16,
+      "note": "Pip points at us"
+    },
+    {
+      "id": "S147",
+      "size": "insert",
+      "set": "schematic",
+      "key": 12,
+      "note": "answer: stamp reads 10 SECONDS"
+    },
+    {
+      "id": "S148",
+      "size": "close-up",
+      "set": "rooftop",
+      "key": 14,
+      "note": "Pip asks the camera"
+    },
+    {
+      "id": "S149",
+      "size": "medium",
+      "set": "rooftop",
+      "key": 16,
+      "note": "Pip and Mo look at the sky"
+    },
+    {
+      "id": "S150",
+      "size": "wide",
+      "set": "rooftop",
+      "key": 20,
+      "note": "end card, title over the dusk city"
+    }
+  ],
+  "edit": [
+    {
+      "shot": "S1",
+      "at": "Right"
+    },
+    {
+      "shot": "S2",
+      "at": "something"
+    },
+    {
+      "shot": "S3",
+      "at": "chair"
+    },
+    {
+      "shot": "S4",
+      "at": "floor"
+    },
+    {
+      "shot": "S5",
+      "at": "coffee"
+    },
+    {
+      "shot": "S6",
+      "at": "air"
+    },
+    {
+      "shot": "S7",
+      "at": "So"
+    },
+    {
+      "shot": "S8",
+      "at": "gravity"
+    },
+    {
+      "shot": "S9",
+      "at": "ten"
+    },
+    {
+      "shot": "S10",
+      "at": "Not"
+    },
+    {
+      "shot": "S11",
+      "at": "Just"
+    },
+    {
+      "shot": "S12",
+      "at": "normal"
+    },
+    {
+      "shot": "S13",
+      "at": "Ready"
+    },
+    {
+      "shot": "S14",
+      "at": "Three"
+    },
+    {
+      "shot": "S15",
+      "at": "Two"
+    },
+    {
+      "shot": "S16",
+      "at": "One"
+    },
+    {
+      "shot": "S17",
+      "at": "Gone"
+    },
+    {
+      "shot": "S18",
+      "at": "First"
+    },
+    {
+      "shot": "S19",
+      "at": "shoot"
+    },
+    {
+      "shot": "S20",
+      "at": "Movies"
+    },
+    {
+      "shot": "S21",
+      "at": "but"
+    },
+    {
+      "shot": "S22",
+      "at": "Gravity"
+    },
+    {
+      "shot": "S23",
+      "at": "rope"
+    },
+    {
+      "shot": "S24",
+      "at": "bending"
+    },
+    {
+      "shot": "S25",
+      "at": "planet"
+    },
+    {
+      "shot": "S26",
+      "at": "Switch"
+    },
+    {
+      "shot": "S27",
+      "at": "stop"
+    },
+    {
+      "shot": "S28",
+      "at": "straight"
+    },
+    {
+      "shot": "S29",
+      "at": "Here"
+    },
+    {
+      "shot": "S30",
+      "at": "moving"
+    },
+    {
+      "shot": "S31",
+      "at": "equator"
+    },
+    {
+      "shot": "S32",
+      "at": "spins"
+    },
+    {
+      "shot": "S33",
+      "at": "four"
+    },
+    {
+      "shot": "S34",
+      "at": "carry"
+    },
+    {
+      "shot": "S35",
+      "at": "Without"
+    },
+    {
+      "shot": "S36",
+      "at": "curves"
+    },
+    {
+      "shot": "S37",
+      "at": "dropped"
+    },
+    {
+      "shot": "S38",
+      "at": "Five"
+    },
+    {
+      "shot": "S39",
+      "at": "blast"
+    },
+    {
+      "shot": "S40",
+      "at": "drift"
+    },
+    {
+      "shot": "S41",
+      "at": "feet"
+    },
+    {
+      "shot": "S42",
+      "at": "elevator"
+    },
+    {
+      "shot": "S43",
+      "at": "rotate"
+    },
+    {
+      "shot": "S44",
+      "at": "grab"
+    },
+    {
+      "shot": "S45",
+      "at": "chair"
+    },
+    {
+      "shot": "S46",
+      "at": "desk"
+    },
+    {
+      "shot": "S47",
+      "at": "phone"
+    },
+    {
+      "shot": "S48",
+      "at": "cat"
+    },
+    {
+      "shot": "S49",
+      "at": "Now"
+    },
+    {
+      "shot": "S50",
+      "at": "blob"
+    },
+    {
+      "shot": "S51",
+      "at": "breaks"
+    },
+    {
+      "shot": "S52",
+      "at": "pour"
+    },
+    {
+      "shot": "S53",
+      "at": "spheres"
+    },
+    {
+      "shot": "S54",
+      "at": "tension"
+    },
+    {
+      "shot": "S55",
+      "at": "sink"
+    },
+    {
+      "shot": "S56",
+      "at": "shower"
+    },
+    {
+      "shot": "S57",
+      "at": "planets"
+    },
+    {
+      "shot": "S58",
+      "at": "Inside"
+    },
+    {
+      "shot": "S59",
+      "at": "heart"
+    },
+    {
+      "shot": "S60",
+      "at": "pumping"
+    },
+    {
+      "shot": "S61",
+      "at": "pull"
+    },
+    {
+      "shot": "S62",
+      "at": "shifts"
+    },
+    {
+      "shot": "S63",
+      "at": "puffy"
+    },
+    {
+      "shot": "S64",
+      "at": "stomach"
+    },
+    {
+      "shot": "S65",
+      "at": "Astronauts"
+    },
+    {
+      "shot": "S66",
+      "at": "fine"
+    },
+    {
+      "shot": "S67",
+      "at": "confused"
+    },
+    {
+      "shot": "S68",
+      "at": "Then"
+    },
+    {
+      "shot": "S69",
+      "at": "atmosphere"
+    },
+    {
+      "shot": "S70",
+      "at": "expand"
+    },
+    {
+      "shot": "S71",
+      "at": "pressure"
+    },
+    {
+      "shot": "S72",
+      "at": "ears"
+    },
+    {
+      "shot": "S73",
+      "at": "Wind"
+    },
+    {
+      "shot": "S74",
+      "at": "breathe"
+    },
+    {
+      "shot": "S75",
+      "at": "sky"
+    },
+    {
+      "shot": "S76",
+      "at": "Nobody"
+    },
+    {
+      "shot": "S77",
+      "at": "This"
+    },
+    {
+      "shot": "S78",
+      "at": "Buildings"
+    },
+    {
+      "shot": "S79",
+      "at": "skyscraper"
+    },
+    {
+      "shot": "S80",
+      "at": "steel"
+    },
+    {
+      "shot": "S81",
+      "at": "stands"
+    },
+    {
+      "shot": "S82",
+      "at": "Cars"
+    },
+    {
+      "shot": "S83",
+      "at": "tires"
+    },
+    {
+      "shot": "S84",
+      "at": "Brakes"
+    },
+    {
+      "shot": "S85",
+      "at": "Steering"
+    },
+    {
+      "shot": "S86",
+      "at": "bumper"
+    },
+    {
+      "shot": "S87",
+      "at": "speed"
+    },
+    {
+      "shot": "S88",
+      "at": "sea"
+    },
+    {
+      "shot": "S89",
+      "at": "weight"
+    },
+    {
+      "shot": "S90",
+      "at": "waves"
+    },
+    {
+      "shot": "S91",
+      "at": "sheets"
+    },
+    {
+      "shot": "S92",
+      "at": "Ships"
+    },
+    {
+      "shot": "S93",
+      "at": "Fish"
+    },
+    {
+      "shot": "S94",
+      "at": "short"
+    },
+    {
+      "shot": "S95",
+      "at": "trembling"
+    },
+    {
+      "shot": "S96",
+      "at": "planes"
+    },
+    {
+      "shot": "S97",
+      "at": "wings"
+    },
+    {
+      "shot": "S98",
+      "at": "climb"
+    },
+    {
+      "shot": "S99",
+      "at": "Passengers"
+    },
+    {
+      "shot": "S100",
+      "at": "Drinks"
+    },
+    {
+      "shot": "S101",
+      "at": "pilots"
+    },
+    {
+      "shot": "S102",
+      "at": "scare"
+    },
+    {
+      "shot": "S103",
+      "at": "far"
+    },
+    {
+      "shot": "S104",
+      "at": "rooftop"
+    },
+    {
+      "shot": "S105",
+      "at": "Tables"
+    },
+    {
+      "shot": "S106",
+      "at": "Umbrellas"
+    },
+    {
+      "shot": "S107",
+      "at": "Bikes"
+    },
+    {
+      "shot": "S108",
+      "at": "Laundry"
+    },
+    {
+      "shot": "S109",
+      "at": "silence"
+    },
+    {
+      "shot": "S110",
+      "at": "snowfall"
+    },
+    {
+      "shot": "S111",
+      "at": "Shoes"
+    },
+    {
+      "shot": "S112",
+      "at": "Hats"
+    },
+    {
+      "shot": "S113",
+      "at": "quietest"
+    },
+    {
+      "shot": "S114",
+      "at": "Zoom"
+    },
+    {
+      "shot": "S115",
+      "at": "Moon"
+    },
+    {
+      "shot": "S116",
+      "at": "sideways"
+    },
+    {
+      "shot": "S117",
+      "at": "bends"
+    },
+    {
+      "shot": "S118",
+      "at": "flies"
+    },
+    {
+      "shot": "S119",
+      "at": "thirteen"
+    },
+    {
+      "shot": "S120",
+      "at": "station"
+    },
+    {
+      "shot": "S121",
+      "at": "drifts"
+    },
+    {
+      "shot": "S122",
+      "at": "astronauts"
+    },
+    {
+      "shot": "S123",
+      "at": "floating"
+    },
+    {
+      "shot": "S124",
+      "at": "Sun"
+    },
+    {
+      "shot": "S125",
+      "at": "giant"
+    },
+    {
+      "shot": "S126",
+      "at": "pressure"
+    },
+    {
+      "shot": "S127",
+      "at": "Free"
+    },
+    {
+      "shot": "S128",
+      "at": "expand"
+    },
+    {
+      "shot": "S129",
+      "at": "hour"
+    },
+    {
+      "shot": "S130",
+      "at": "notice"
+    },
+    {
+      "shot": "S131",
+      "at": "end"
+    },
+    {
+      "shot": "S132",
+      "at": "comes"
+    },
+    {
+      "shot": "S133",
+      "at": "lifted"
+    },
+    {
+      "shot": "S134",
+      "at": "falls"
+    },
+    {
+      "shot": "S135",
+      "at": "drop"
+    },
+    {
+      "shot": "S136",
+      "at": "half"
+    },
+    {
+      "shot": "S137",
+      "at": "land"
+    },
+    {
+      "shot": "S138",
+      "at": "hopping"
+    },
+    {
+      "shot": "S139",
+      "at": "Ouch"
+    },
+    {
+      "shot": "S140",
+      "at": "walk"
+    },
+    {
+      "shot": "S141",
+      "at": "So"
+    },
+    {
+      "shot": "S142",
+      "at": "world"
+    },
+    {
+      "shot": "S143",
+      "at": "But"
+    },
+    {
+      "shot": "S144",
+      "at": "strangest"
+    },
+    {
+      "shot": "S145",
+      "at": "life"
+    },
+    {
+      "shot": "S146",
+      "at": "Now"
+    },
+    {
+      "shot": "S147",
+      "at": "answer"
+    },
+    {
+      "shot": "S148",
+      "at": "What"
+    },
+    {
+      "shot": "S149",
+      "at": "would"
+    },
+    {
+      "shot": "S150",
+      "at": "them"
+    }
+  ],
+  "fx": [
+    {
+      "at": "S17+2",
+      "kind": "flash"
+    }
+  ]
+}

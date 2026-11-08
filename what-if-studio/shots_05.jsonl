@@ -1,0 +1,29 @@
+{"id": "S122", "size": "medium", "set": "schematic", "key": 16, "note": "two astronauts calm inside the station", "at": "astronauts"}
+{"id": "S123", "size": "close-up", "set": "schematic", "key": 14, "note": "an astronaut smiles, floating", "at": "floating"}
+{"id": "S124", "size": "wide", "set": "space", "key": 20, "note": "the Sun glows", "at": "Sun"}
+{"id": "S125", "size": "wide", "set": "space", "key": 20, "note": "the Sun huge next to a tiny Earth", "at": "giant"}
+{"id": "S126", "size": "insert", "set": "space", "key": 12, "note": "arrows push outward and gravity pulls inward", "at": "pressure"}
+{"id": "S127", "size": "insert", "set": "space", "key": 12, "note": "the inward arrows vanish", "at": "Free"}
+{"id": "S128", "size": "wide", "set": "space", "key": 20, "note": "the Sun swells slightly", "at": "expand"}
+{"id": "S129", "size": "insert", "set": "schematic", "key": 12, "note": "clock face almost full circle", "at": "hour"}
+{"id": "S130", "size": "close-up", "set": "space", "key": 14, "note": "the Sun with a raised eyebrow", "at": "notice"}
+{"id": "S131", "size": "wide", "set": "kitchen", "key": 20, "note": "the G switch timer hits zero, floating objects pause", "at": "end"}
+{"id": "S132", "size": "insert", "set": "kitchen", "key": 12, "note": "the switch flips back", "at": "comes"}
+{"id": "S133", "size": "wide", "set": "kitchen", "key": 20, "note": "everything starts to sink", "at": "lifted"}
+{"id": "S134", "size": "wide", "set": "kitchen", "key": 20, "note": "objects fall, Pip drops", "at": "falls"}
+{"id": "S135", "size": "high wide", "set": "kitchen", "key": 22, "note": "Pip falls, ruler shows 1.7 m", "at": "drop"}
+{"id": "S136", "size": "insert", "set": "schematic", "key": 12, "note": "stopwatch reads 0.59 s", "at": "half"}
+{"id": "S137", "size": "low angle, wide", "set": "kitchen", "key": 20, "note": "Pip lands with a thud, dust puff", "at": "land"}
+{"id": "S138", "size": "medium", "set": "schematic", "key": 16, "note": "diagram of hopping off a tall wall", "at": "hopping"}
+{"id": "S139", "size": "close-up", "set": "kitchen", "key": 14, "note": "Pip winces, Ouch", "at": "Ouch"}
+{"id": "S140", "size": "wide", "set": "kitchen", "key": 20, "note": "Pip limps away fine, mess around him", "at": "walk"}
+{"id": "S141", "size": "medium", "set": "rooftop", "key": 16, "note": "Pip and Mo at dusk", "at": "So"}
+{"id": "S142", "size": "wide", "set": "space", "key": 20, "note": "Earth fine from far away", "at": "world"}
+{"id": "S143", "size": "medium", "set": "rooftop", "key": 16, "note": "Pip nods", "at": "But"}
+{"id": "S144", "size": "wide", "set": "kitchen", "key": 20, "note": "the mess of settled objects", "at": "strangest"}
+{"id": "S145", "size": "close-up", "set": "rooftop", "key": 14, "note": "Pip looks thoughtful", "at": "life"}
+{"id": "S146", "size": "medium", "set": "rooftop", "key": 16, "note": "Pip points at us", "at": "Now"}
+{"id": "S147", "size": "insert", "set": "schematic", "key": 12, "note": "answer: stamp reads 10 SECONDS", "at": "answer"}
+{"id": "S148", "size": "close-up", "set": "rooftop", "key": 14, "note": "Pip asks the camera", "at": "What"}
+{"id": "S149", "size": "medium", "set": "rooftop", "key": 16, "note": "Pip and Mo look at the sky", "at": "would"}
+{"id": "S150", "size": "wide", "set": "rooftop", "key": 20, "note": "end card, title over the dusk city", "at": "them"}

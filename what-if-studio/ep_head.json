@@ -1,0 +1,131 @@
+{
+ "id": "Gravity",
+ "slug": "gravity",
+ "topic": "What if gravity switched off for 10 seconds?",
+ "format": "long",
+ "minutes": 5,
+ "size": "1920x1080",
+ "style": "glimpse60",
+ "reuse": [
+  "glimpse",
+  "glimpse60"
+ ],
+ "title": [
+  "WHAT IF GRAVITY",
+  "SWITCHED OFF FOR 10 SECONDS?"
+ ],
+ "accent": "10 SECONDS",
+ "power": {
+  "word": "Off.",
+  "rule": "gravity switches off for exactly ten seconds, then comes back",
+  "look": "soft white rim light, floating dust, a faint G chip counting down from 10"
+ },
+ "cast": [
+  "pipHood",
+  "mo"
+ ],
+ "script": [
+  {
+   "beat": "1 cold open",
+   "text": "Right now, something invisible is holding you down. Your chair. Your floor. Your coffee. The air in your lungs. So what happens if gravity switches off for ten seconds? Not forever. Just ten seconds. It is a normal Tuesday morning, and nobody warned you. Ready? Three. Two. One. Gone."
+  },
+  {
+   "beat": "2 the myth",
+   "text": "First, the big myth. You do not shoot into space. Movies love that picture, but physics says no. Gravity is not pulling you down like a rope. It is bending your path into a curve, so you follow the planet around. Switch it off, and you stop curving. You go in a straight line."
+  },
+  {
+   "beat": "3 the number",
+   "text": "Here is the catch. The ground is moving too. At the equator, the Earth spins at about four hundred and sixty five meters a second, and you carry that speed with you. Without gravity, you keep going straight, while the surface curves away beneath you. After ten seconds, the ground has dropped by only about one point seven meters. Five and a half feet."
+  },
+  {
+   "beat": "4 you drift",
+   "text": "So you do not blast off. You drift. Your feet leave the floor in the first second, like a slow elevator with no walls. You rotate a little. You grab at nothing. Your chair floats away from you, and so does your desk, your phone, and your cat, who is not impressed."
+  },
+  {
+   "beat": "5 liquids",
+   "text": "Now look at the coffee. It leaves the mug in one wobbling blob. Then it breaks into drops. Water does not pour anymore. It forms perfect spheres, because surface tension is suddenly the boss. Every glass, every sink, every shower turns into a cloud of tiny planets."
+  },
+  {
+   "beat": "6 your body",
+   "text": "Inside your body, things get strange too. Your heart keeps pumping, so you stay alive. But the pull that keeps your blood low is gone, so fluid shifts toward your head. Your face feels puffy. Your stomach floats inside you. Astronauts report the same feeling in their first minutes in orbit. Your body is fine. It is just confused."
+  },
+  {
+   "beat": "7 the air",
+   "text": "Then there is the air. Gravity is what holds the atmosphere down. Without it, the air starts to expand upward, and the pressure at the ground begins to fall. Your ears pop. Wind rushes up and away. But ten seconds is not long. You can still breathe. The sky looks the same. Nobody suffocates. This time."
+  },
+  {
+   "beat": "8 buildings and cars",
+   "text": "Buildings are fine. A skyscraper is held together by steel and concrete, not by its own weight. It stands there, a little confused, but it stands. Cars are another story. Without weight, tires lose their grip. Brakes barely work. Steering does almost nothing. Every car becomes a slow, silent bumper car, still moving at full speed."
+  },
+  {
+   "beat": "9 ocean",
+   "text": "Out at sea, the ocean has no weight pressing it flat. The surface keeps its shape for now, but waves start to lift and break into sheets and drops. Ships feel the water let go beneath them. Fish hang in a sea that no longer holds them down. Ten seconds is too short for anything to drift far. But the whole ocean is trembling."
+  },
+  {
+   "beat": "10 planes",
+   "text": "Up in the sky, planes keep flying. Their wings still make lift, but now nothing pulls them down, so they start to climb. Passengers lift out of their seats against the belts. Drinks float out of cups. The pilots hold on and wait. Ten seconds is long enough to scare everyone, but short enough that the plane does not go far."
+  },
+  {
+   "beat": "11 city view",
+   "text": "From a rooftop, the whole city rises together. Tables. Umbrellas. Bikes. Laundry on a line. Millions of small things lifting in silence, like a slow, strange snowfall in reverse. Shoes pop off. Hats fly. It is the quietest chaos you will ever see."
+  },
+  {
+   "beat": "12 zoom out",
+   "text": "Zoom out. The Moon moves sideways at about a thousand meters a second, and gravity is what bends its path around us. Switch gravity off, and it flies straight. After ten seconds, it is only about thirteen centimeters off its curve. The space station is closer, so it drifts about four hundred meters off its path. The astronauts inside feel nothing at all. They are already floating."
+  },
+  {
+   "beat": "13 the sun",
+   "text": "And the Sun? It is a giant ball held together by gravity, with its own pressure pushing outward all the time. Free it, and it starts to expand. But that takes the better part of an hour. In ten seconds, the Sun does not even notice."
+  },
+  {
+   "beat": "14 the return",
+   "text": "Then the ten seconds end. Gravity comes back. Everything you lifted falls. Your phone. Your chair. The blob of coffee. You drop about one point seven meters, which takes just over half a second. You land at about six meters a second. That is like hopping off a tall wall. Ouch, but you walk away."
+  },
+  {
+   "beat": "15 close",
+   "text": "So ten seconds without gravity would not end the world. But it would be the strangest ten seconds of your life. Now you know the answer. What would you do with them?"
+  }
+ ],
+ "science": [
+  {
+   "claim": "Equator speed about 465 m/s",
+   "working": "omega 7.292e-5 rad/s x R 6.378e6 m = 465 m/s",
+   "source": "NASA Earth fact sheet"
+  },
+  {
+   "claim": "Drift about 1.7 m in 10 s (equator only)",
+   "working": "d = 0.5 x omega^2 x R x t^2 = 0.5 x 5.31e-9 x 6.378e6 x 100 = 1.70 m. At latitude phi the vertical part is 1.7 x cos^2(phi), plus a sideways slide",
+   "source": "derived"
+  },
+  {
+   "claim": "Moon about 13 cm off curve",
+   "working": "a = GM/r^2 = 3.986e14/(3.844e8)^2 = 0.0027 m/s2; 0.5 x a x 100 = 0.135 m",
+   "source": "derived"
+  },
+  {
+   "claim": "ISS about 400 m off path",
+   "working": "g at 420 km = 3.986e14/(6.791e6)^2 = 8.6 m/s2; 0.5 x 8.6 x 100 = 430 m",
+   "source": "derived"
+  },
+  {
+   "claim": "Fall from 1.7 m takes 0.59 s, lands at 5.8 m/s",
+   "working": "t = sqrt(2 x 1.7/9.8) = 0.59 s; v = 9.8 x 0.59 = 5.8 m/s",
+   "source": "derived"
+  },
+  {
+   "claim": "Sun reacts over roughly an hour, not seconds",
+   "working": "dynamical time = 1/sqrt(G x density) = 1/sqrt(6.67e-11 x 1410) = about 3300 s",
+   "source": "standard stellar structure estimate, check before publishing"
+  },
+  {
+   "claim": "Air starts expanding upward, pressure at ground falls",
+   "working": "hydrostatic balance is lost, net upward force on air is the old pressure gradient. Size of the change in 10 s is NOT worked out yet",
+   "source": "TO VERIFY, soften the line if it does not hold"
+  },
+  {
+   "claim": "Ocean lifts and breaks into sheets, planes start to climb",
+   "working": "weight no longer balances water pressure gradient or wing lift, so both push up. Size of effect in 10 s NOT worked out",
+   "source": "TO VERIFY, soften lines 9 and 10 if they do not hold"
+  }
+ ]
+}

@@ -1,0 +1,491 @@
+{
+ "slug": "promo2",
+ "title": "BEFORE AND AFTER ONE TOPIC LINE",
+ "fps": 30,
+ "total": 1276,
+ "segments": [
+  {
+   "shot": "S1",
+   "a": 0,
+   "b": 20,
+   "t0": 0,
+   "t1": 20,
+   "line": "Hours"
+  },
+  {
+   "shot": "S2",
+   "a": 20,
+   "b": 32,
+   "t0": 0,
+   "t1": 12,
+   "line": "of manual"
+  },
+  {
+   "shot": "S3",
+   "a": 32,
+   "b": 57,
+   "t0": 0,
+   "t1": 25,
+   "line": "editing for one"
+  },
+  {
+   "shot": "S4",
+   "a": 57,
+   "b": 87,
+   "t0": 0,
+   "t1": 30,
+   "line": "short video."
+  },
+  {
+   "shot": "S5",
+   "a": 87,
+   "b": 134,
+   "t0": 0,
+   "t1": 47,
+   "line": "Tomorrow you do it again."
+  },
+  {
+   "shot": "S6",
+   "a": 134,
+   "b": 188,
+   "t0": 0,
+   "t1": 54,
+   "line": "Now picture this instead. You"
+  },
+  {
+   "shot": "S7",
+   "a": 188,
+   "b": 243,
+   "t0": 0,
+   "t1": 55,
+   "line": "type one topic line, and that"
+  },
+  {
+   "shot": "S8",
+   "a": 243,
+   "b": 267,
+   "t0": 0,
+   "t1": 24,
+   "line": "is all. The"
+  },
+  {
+   "shot": "S9",
+   "a": 267,
+   "b": 281,
+   "t0": 0,
+   "t1": 14,
+   "line": "pipeline"
+  },
+  {
+   "shot": "S10",
+   "a": 281,
+   "b": 344,
+   "t0": 0,
+   "t1": 63,
+   "line": "writes the script from your line. Then"
+  },
+  {
+   "shot": "S11",
+   "a": 344,
+   "b": 389,
+   "t0": 0,
+   "t1": 45,
+   "line": "it records the voice. It"
+  },
+  {
+   "shot": "S12",
+   "a": 389,
+   "b": 473,
+   "t0": 0,
+   "t1": 84,
+   "line": "cuts a shot list on every spoken word. Then"
+  },
+  {
+   "shot": "S13",
+   "a": 473,
+   "b": 493,
+   "t0": 0,
+   "t1": 20,
+   "line": "it builds every"
+  },
+  {
+   "shot": "S14",
+   "a": 493,
+   "b": 516,
+   "t0": 0,
+   "t1": 23,
+   "line": "scene."
+  },
+  {
+   "shot": "S15",
+   "a": 516,
+   "b": 621,
+   "t0": 0,
+   "t1": 105,
+   "line": "Every frame is animated in code. Nothing is filmed."
+  },
+  {
+   "shot": "S16",
+   "a": 621,
+   "b": 700,
+   "t0": 0,
+   "t1": 79,
+   "line": "Sound is built to match the picture. Audio"
+  },
+  {
+   "shot": "S17",
+   "a": 700,
+   "b": 727,
+   "t0": 0,
+   "t1": 27,
+   "line": "is mastered to minus"
+  },
+  {
+   "shot": "S18",
+   "a": 727,
+   "b": 778,
+   "t0": 0,
+   "t1": 51,
+   "line": "fourteen LUFS. And"
+  },
+  {
+   "shot": "S19",
+   "a": 778,
+   "b": 793,
+   "t0": 0,
+   "t1": 15,
+   "line": "out comes"
+  },
+  {
+   "shot": "S20",
+   "a": 793,
+   "b": 871,
+   "t0": 0,
+   "t1": 78,
+   "line": "a finished video. Like this one. You get the"
+  },
+  {
+   "shot": "S21",
+   "a": 871,
+   "b": 890,
+   "t0": 0,
+   "t1": 19,
+   "line": "engine, the"
+  },
+  {
+   "shot": "S22",
+   "a": 890,
+   "b": 910,
+   "t0": 0,
+   "t1": 20,
+   "line": "cast, the"
+  },
+  {
+   "shot": "S23",
+   "a": 910,
+   "b": 980,
+   "t0": 0,
+   "t1": 70,
+   "line": "sets, the scripts, and the guides. You"
+  },
+  {
+   "shot": "S24",
+   "a": 980,
+   "b": 1054,
+   "t0": 0,
+   "t1": 74,
+   "line": "bring your own keys for voice and writing."
+  },
+  {
+   "shot": "S25",
+   "a": 1054,
+   "b": 1109,
+   "t0": 0,
+   "t1": 55,
+   "line": "No keys come inside. One"
+  },
+  {
+   "shot": "S26",
+   "a": 1109,
+   "b": 1214,
+   "t0": 0,
+   "t1": 105,
+   "line": "topic line in. One finished video out. That is"
+  },
+  {
+   "shot": "S27",
+   "a": 1214,
+   "b": 1276,
+   "t0": 0,
+   "t1": 62,
+   "line": "the whole idea."
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "key": 14,
+   "len": 20,
+   "first": 0,
+   "line": "Hours",
+   "note": "Pip slumped at the desk, edit timer"
+  },
+  {
+   "id": "S2",
+   "size": "close-up",
+   "key": 10,
+   "len": 12,
+   "first": 20,
+   "line": "of manual",
+   "note": "Pip tired face"
+  },
+  {
+   "id": "S3",
+   "size": "insert, top-down",
+   "key": 20,
+   "len": 25,
+   "first": 32,
+   "line": "editing for one",
+   "note": "messy edit tracks"
+  },
+  {
+   "id": "S4",
+   "size": "medium",
+   "key": 12,
+   "len": 30,
+   "first": 57,
+   "line": "short video.",
+   "note": "Pip typing, dark foreground"
+  },
+  {
+   "id": "S5",
+   "size": "macro",
+   "key": 20,
+   "len": 47,
+   "first": 87,
+   "line": "Tomorrow you do it again.",
+   "note": "big clock hand sweeping"
+  },
+  {
+   "id": "S6",
+   "size": "wide",
+   "key": 14,
+   "len": 54,
+   "first": 134,
+   "line": "Now picture this instead. You",
+   "note": "Pip sits up, smug"
+  },
+  {
+   "id": "S7",
+   "size": "insert",
+   "key": 24,
+   "len": 55,
+   "first": 188,
+   "line": "type one topic line, and that",
+   "note": "topic line typed into a field"
+  },
+  {
+   "id": "S8",
+   "size": "macro",
+   "key": 14,
+   "len": 24,
+   "first": 243,
+   "line": "is all. The",
+   "note": "enter key pressed"
+  },
+  {
+   "id": "S9",
+   "size": "wide",
+   "key": 8,
+   "len": 14,
+   "first": 267,
+   "line": "pipeline",
+   "note": "seven stage cards pop in"
+  },
+  {
+   "id": "S10",
+   "size": "close-up",
+   "key": 20,
+   "len": 63,
+   "first": 281,
+   "line": "writes the script from your line. Then",
+   "note": "script lines writing"
+  },
+  {
+   "id": "S11",
+   "size": "insert",
+   "key": 14,
+   "len": 45,
+   "first": 344,
+   "line": "it records the voice. It",
+   "note": "voice waveform"
+  },
+  {
+   "id": "S12",
+   "size": "macro",
+   "key": 14,
+   "len": 84,
+   "first": 389,
+   "line": "cuts a shot list on every spoken word. Then",
+   "note": "cut marks on word blocks"
+  },
+  {
+   "id": "S13",
+   "size": "wide",
+   "key": 24,
+   "len": 20,
+   "first": 473,
+   "line": "it builds every",
+   "note": "storyboard frames pop in"
+  },
+  {
+   "id": "S14",
+   "size": "medium",
+   "key": 12,
+   "len": 23,
+   "first": 493,
+   "line": "scene.",
+   "note": "Pip checks, happy"
+  },
+  {
+   "id": "S15",
+   "size": "insert",
+   "key": 30,
+   "len": 105,
+   "first": 516,
+   "line": "Every frame is animated in code. Nothing is filmed.",
+   "note": "shot code typing"
+  },
+  {
+   "id": "S16",
+   "size": "close-up",
+   "key": 14,
+   "len": 79,
+   "first": 621,
+   "line": "Sound is built to match the picture. Audio",
+   "note": "sound waves"
+  },
+  {
+   "id": "S17",
+   "size": "medium",
+   "key": 12,
+   "len": 27,
+   "first": 700,
+   "line": "is mastered to minus",
+   "note": "Mo nods in headphones"
+  },
+  {
+   "id": "S18",
+   "size": "macro",
+   "key": 14,
+   "len": 51,
+   "first": 727,
+   "line": "fourteen LUFS. And",
+   "note": "level counts to -14 LUFS"
+  },
+  {
+   "id": "S19",
+   "size": "wide",
+   "key": 14,
+   "len": 15,
+   "first": 778,
+   "line": "out comes",
+   "note": "finished clip in a player"
+  },
+  {
+   "id": "S20",
+   "size": "close-up",
+   "key": 12,
+   "len": 78,
+   "first": 793,
+   "line": "a finished video. Like this one. You get the",
+   "note": "player pushes in on Pip"
+  },
+  {
+   "id": "S21",
+   "size": "insert",
+   "key": 14,
+   "len": 19,
+   "first": 871,
+   "line": "engine, the",
+   "note": "gear turning, ENGINE"
+  },
+  {
+   "id": "S22",
+   "size": "medium",
+   "key": 12,
+   "len": 20,
+   "first": 890,
+   "line": "cast, the",
+   "note": "Pip and Mo side by side"
+  },
+  {
+   "id": "S23",
+   "size": "wide",
+   "key": 30,
+   "len": 70,
+   "first": 910,
+   "line": "sets, the scripts, and the guides. You",
+   "note": "seven set chips light up"
+  },
+  {
+   "id": "S24",
+   "size": "insert",
+   "key": 20,
+   "len": 74,
+   "first": 980,
+   "line": "bring your own keys for voice and writing.",
+   "note": "voice key and AI key cards, YOURS"
+  },
+  {
+   "id": "S25",
+   "size": "macro",
+   "key": 20,
+   "len": 55,
+   "first": 1054,
+   "line": "No keys come inside. One",
+   "note": "key crossed out"
+  },
+  {
+   "id": "S26",
+   "size": "wide",
+   "key": 30,
+   "len": 105,
+   "first": 1109,
+   "line": "topic line in. One finished video out. That is",
+   "note": "topic field, arrow, finished player"
+  },
+  {
+   "id": "S27",
+   "size": "medium",
+   "key": 12,
+   "len": 62,
+   "first": 1214,
+   "line": "the whole idea.",
+   "note": "Pip happy at the desk"
+  }
+ ],
+ "fx": [
+  {
+   "kind": "flash",
+   "color": "#FFE7B3",
+   "o": 0.35,
+   "f": 253
+  },
+  {
+   "kind": "flash",
+   "color": "#FFFFFF",
+   "o": 0.3,
+   "f": 780
+  }
+ ],
+ "audio": {
+  "voice": "promo2/voice.wav",
+  "voiceVol": 0.8,
+  "sfx": "promo2/sfx.wav",
+  "sfxVol": 0.6503,
+  "music": "promo2/music.wav",
+  "musicVol": 0.0962
+ }
+}

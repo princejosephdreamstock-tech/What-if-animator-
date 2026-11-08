@@ -1,0 +1,650 @@
+{
+ "id": "PromoThree",
+ "slug": "promo3",
+ "pack": "promo",
+ "topic": "Promo: a pipeline diagram that builds itself, one topic line in, one finished animated video out, what the buyer gets and supplies",
+ "format": "long",
+ "minutes": 1,
+ "title": [
+  "ONE LINE IN",
+  "ONE VIDEO OUT"
+ ],
+ "accent": "PIPELINE",
+ "cast": [
+  "pip",
+  "mo"
+ ],
+ "script": [
+  {
+   "beat": "1 hook: the pain",
+   "text": "One animated video means writing, recording, drawing, mixing and exporting. Every single time."
+  },
+  {
+   "beat": "2 the question",
+   "text": "What if it all ran as one connected chain?"
+  },
+  {
+   "beat": "3 one topic line in",
+   "text": "Type one topic line. It slides in from the left."
+  },
+  {
+   "beat": "4 stage: Claude writes",
+   "text": "First, Claude writes the script, the shot list, the cuts and the sound plan."
+  },
+  {
+   "beat": "5 stage: voice",
+   "text": "Next, the voice is recorded from that script."
+  },
+  {
+   "beat": "6 stage: frames in code",
+   "text": "Then every frame is drawn in code and rendered."
+  },
+  {
+   "beat": "7 stage: audio, diagram complete",
+   "text": "The audio is mixed and mastered, and the diagram is complete."
+  },
+  {
+   "beat": "8 finished video out",
+   "text": "A finished video comes out on the right."
+  },
+  {
+   "beat": "9 real steps",
+   "text": "Every stage you just watched is a real step in the system."
+  },
+  {
+   "beat": "10 what you get",
+   "text": "You get the engine, the cast, the sets, the scripts and the guides."
+  },
+  {
+   "beat": "11 what you supply",
+   "text": "You supply your own keys for the voice and the writing."
+  },
+  {
+   "beat": "12 close",
+   "text": "No keys are included. One line in, one video out."
+  }
+ ],
+ "science": [
+  {
+   "claim": "One animated video means writing, recording, drawing, mixing and exporting.",
+   "working": "Names five chores (writing, recording, drawing, mixing, exporting). No duration, cost or count of hours is stated.",
+   "source": "brief_promo3.md, Topic and Pack sections"
+  },
+  {
+   "claim": "What if it all ran as one connected chain?",
+   "working": "A question. The diagram shows six linked boxes: topic, write, voice, render, master, video.",
+   "source": "brief_promo3.md, Topic and Pack sections"
+  },
+  {
+   "claim": "Type one topic line. It slides in from the left.",
+   "working": "The pipeline takes one topic line as its input, on the left of the diagram.",
+   "source": "brief_promo3.md, Topic and Pack sections"
+  },
+  {
+   "claim": "Claude writes the script, the shot list, the cuts and the sound plan.",
+   "working": "First stage in the topic: Claude writes script, shot list, cuts and sound plan.",
+   "source": "brief_promo3.md, Topic and Pack sections"
+  },
+  {
+   "claim": "The voice is recorded from that script.",
+   "working": "Second stage in the topic: the voice is recorded.",
+   "source": "brief_promo3.md, Topic and Pack sections"
+  },
+  {
+   "claim": "Every frame is drawn in code and rendered.",
+   "working": "Third stage in the topic: every frame is drawn in code and rendered.",
+   "source": "brief_promo3.md, Topic and Pack sections"
+  },
+  {
+   "claim": "The audio is mixed and mastered, and the diagram is complete.",
+   "working": "Fourth stage in the topic: the audio is mixed and mastered. No loudness figure is spoken.",
+   "source": "brief_promo3.md, Topic and Pack sections"
+  },
+  {
+   "claim": "A finished video comes out on the right.",
+   "working": "Last box of the diagram is the finished video. No speed, income, views or virality claimed.",
+   "source": "brief_promo3.md, Topic and Pack sections"
+  },
+  {
+   "claim": "Every stage you just watched is a real step in the system.",
+   "working": "The six boxes are the stages named in the topic. No storyboard, preview or review step is shown.",
+   "source": "brief_promo3.md, Topic and Pack sections"
+  },
+  {
+   "claim": "You get the engine, the cast, the sets, the scripts and the guides.",
+   "working": "What the buyer gets, as listed in the topic.",
+   "source": "brief_promo3.md, Topic and Pack sections"
+  },
+  {
+   "claim": "You supply your own keys for the voice and the writing. No keys are included.",
+   "working": "What the buyer supplies, as listed in the topic: their own keys for voice and writing.",
+   "source": "brief_promo3.md, Topic and Pack sections"
+  },
+  {
+   "claim": "One line in, one video out.",
+   "working": "Restates the diagram: one topic line enters, one finished video leaves.",
+   "source": "brief_promo3.md, Topic and Pack sections"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "hand-drawn",
+   "key": 20,
+   "note": "Pip small beside a blank sheet with a dimension mark"
+  },
+  {
+   "id": "S2",
+   "size": "insert",
+   "set": "hand-drawn",
+   "key": 20,
+   "note": "a page filling with lines"
+  },
+  {
+   "id": "S3",
+   "size": "close-up insert",
+   "set": "hand-drawn",
+   "key": 20,
+   "note": "a microphone with sound rings"
+  },
+  {
+   "id": "S4",
+   "size": "medium",
+   "set": "hand-drawn",
+   "key": 20,
+   "note": "six frames drawing on"
+  },
+  {
+   "id": "S5",
+   "size": "macro insert",
+   "set": "hand-drawn",
+   "key": 20,
+   "note": "mixer sliders moving"
+  },
+  {
+   "id": "S6",
+   "size": "medium",
+   "set": "hand-drawn",
+   "key": 20,
+   "note": "export bar fills, loop arrow draws"
+  },
+  {
+   "id": "S7",
+   "size": "close-up",
+   "set": "hand-drawn",
+   "key": 20,
+   "note": "Pip wonders, coral question mark"
+  },
+  {
+   "id": "S8",
+   "size": "wide",
+   "set": "hand-drawn",
+   "key": 20,
+   "note": "empty chain builds on the grid"
+  },
+  {
+   "id": "S9",
+   "size": "medium",
+   "set": "hand-drawn",
+   "key": 20,
+   "note": "topic line types and slides into the first box"
+  },
+  {
+   "id": "S10",
+   "size": "wide",
+   "set": "hand-drawn",
+   "key": 20,
+   "note": "stage one lights coral"
+  },
+  {
+   "id": "S11",
+   "size": "close",
+   "set": "hand-drawn",
+   "key": 20,
+   "note": "script page writes on"
+  },
+  {
+   "id": "S12",
+   "size": "medium",
+   "set": "schematic",
+   "key": 20,
+   "note": "shot list rows draw on"
+  },
+  {
+   "id": "S13",
+   "size": "close",
+   "set": "hand-drawn",
+   "key": 20,
+   "note": "cuts on a timeline"
+  },
+  {
+   "id": "S14",
+   "size": "macro",
+   "set": "hand-drawn",
+   "key": 20,
+   "note": "sound plan bars"
+  },
+  {
+   "id": "S15",
+   "size": "medium",
+   "set": "hand-drawn",
+   "key": 20,
+   "note": "voice waveform with playhead"
+  },
+  {
+   "id": "S16",
+   "size": "close",
+   "set": "schematic",
+   "key": 20,
+   "note": "twelve frames draw one by one"
+  },
+  {
+   "id": "S17",
+   "size": "medium",
+   "set": "schematic",
+   "key": 20,
+   "note": "code types, shape draws"
+  },
+  {
+   "id": "S18",
+   "size": "wide",
+   "set": "hand-drawn",
+   "key": 20,
+   "note": "render tiles fill, counter runs"
+  },
+  {
+   "id": "S19",
+   "size": "close",
+   "set": "hand-drawn",
+   "key": 20,
+   "note": "three mix lanes"
+  },
+  {
+   "id": "S20",
+   "size": "macro",
+   "set": "hand-drawn",
+   "key": 20,
+   "note": "level meter hits the target mark"
+  },
+  {
+   "id": "S21",
+   "size": "wide",
+   "set": "hand-drawn",
+   "key": 20,
+   "note": "chain complete, coral flow"
+  },
+  {
+   "id": "S22",
+   "size": "medium",
+   "set": "hand-drawn",
+   "key": 20,
+   "note": "finished clip pops out on the right"
+  },
+  {
+   "id": "S23",
+   "size": "wide",
+   "set": "hand-drawn",
+   "key": 20,
+   "note": "Pip and Mo small beside the diagram"
+  },
+  {
+   "id": "S24",
+   "size": "medium",
+   "set": "schematic",
+   "key": 20,
+   "note": "stage names ticked off"
+  },
+  {
+   "id": "S25",
+   "size": "close",
+   "set": "hand-drawn",
+   "key": 20,
+   "note": "engine gear turns"
+  },
+  {
+   "id": "S26",
+   "size": "medium",
+   "set": "hand-drawn",
+   "key": 20,
+   "note": "the cast: Pip and Mo"
+  },
+  {
+   "id": "S27",
+   "size": "wide",
+   "set": "hand-drawn",
+   "key": 20,
+   "note": "sets, scripts and guides tiles pop in"
+  },
+  {
+   "id": "S28",
+   "size": "close",
+   "set": "schematic",
+   "key": 20,
+   "note": "a key slides toward a slot"
+  },
+  {
+   "id": "S29",
+   "size": "medium",
+   "set": "hand-drawn",
+   "key": 20,
+   "note": "two key slots, voice and writing"
+  },
+  {
+   "id": "S30",
+   "size": "insert",
+   "set": "schematic",
+   "key": 20,
+   "note": "package with no key, struck through"
+  },
+  {
+   "id": "S31",
+   "size": "wide",
+   "set": "hand-drawn",
+   "key": 20,
+   "note": "one line in, one video out"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "writing"
+  },
+  {
+   "shot": "S3",
+   "at": "recording"
+  },
+  {
+   "shot": "S4",
+   "at": "drawing"
+  },
+  {
+   "shot": "S5",
+   "at": "mixing"
+  },
+  {
+   "shot": "S6",
+   "at": "exporting"
+  },
+  {
+   "shot": "S7",
+   "at": "What"
+  },
+  {
+   "shot": "S8",
+   "at": "connected"
+  },
+  {
+   "shot": "S9",
+   "at": "Type"
+  },
+  {
+   "shot": "S10",
+   "at": "First"
+  },
+  {
+   "shot": "S11",
+   "at": "script"
+  },
+  {
+   "shot": "S12",
+   "at": "shot"
+  },
+  {
+   "shot": "S13",
+   "at": "cuts"
+  },
+  {
+   "shot": "S14",
+   "at": "sound"
+  },
+  {
+   "shot": "S15",
+   "at": "voice"
+  },
+  {
+   "shot": "S16",
+   "at": "frame"
+  },
+  {
+   "shot": "S17",
+   "at": "code"
+  },
+  {
+   "shot": "S18",
+   "at": "rendered"
+  },
+  {
+   "shot": "S19",
+   "at": "audio"
+  },
+  {
+   "shot": "S20",
+   "at": "mastered"
+  },
+  {
+   "shot": "S21",
+   "at": "diagram"
+  },
+  {
+   "shot": "S22",
+   "at": "finished"
+  },
+  {
+   "shot": "S23",
+   "at": "Every"
+  },
+  {
+   "shot": "S24",
+   "at": "real"
+  },
+  {
+   "shot": "S25",
+   "at": "engine"
+  },
+  {
+   "shot": "S26",
+   "at": "cast"
+  },
+  {
+   "shot": "S27",
+   "at": "sets"
+  },
+  {
+   "shot": "S28",
+   "at": "supply"
+  },
+  {
+   "shot": "S29",
+   "at": "voice"
+  },
+  {
+   "shot": "S30",
+   "at": "No"
+  },
+  {
+   "shot": "S31",
+   "at": "One"
+  }
+ ],
+ "tail": 1.0,
+ "fx": [
+  {
+   "at": "S21+8",
+   "kind": "flash",
+   "color": "#2BA6A0",
+   "o": 0.3
+  },
+  {
+   "at": "S31+2",
+   "kind": "flash",
+   "color": "#E8F1F3",
+   "o": 0.25
+  }
+ ],
+ "sound": {
+  "clips": {
+   "key_tick": [
+    "a single crisp mechanical keyboard key click, very short, no voices",
+    0.5
+   ],
+   "whoosh": [
+    "a short soft airy whoosh transition, no voices",
+    0.6
+   ],
+   "node_snap": [
+    "a crisp precise mechanical click, a part snapping into a grid, very short, no voices",
+    0.5
+   ],
+   "chime": [
+    "a bright short confirmation chime, two soft notes",
+    0.8
+   ],
+   "low_tone": [
+    "a low soft calm tone swelling and fading, smooth, no voices",
+    2.0
+   ],
+   "music_calm": [
+    "calm precise minimal electronic background music for a technical product video, soft pulse, gentle bass, 90 bpm, no vocals",
+    17.0
+   ]
+  },
+  "events": [
+   [
+    "S2+10",
+    "key_tick",
+    0.5
+   ],
+   [
+    "S3+10",
+    "key_tick",
+    0.5
+   ],
+   [
+    "S4+10",
+    "key_tick",
+    0.5
+   ],
+   [
+    "S5+10",
+    "key_tick",
+    0.5
+   ],
+   [
+    "S6+10",
+    "key_tick",
+    0.5
+   ],
+   [
+    "S8+6",
+    "whoosh",
+    0.35,
+    "peak"
+   ],
+   [
+    "S9+8",
+    "key_tick",
+    0.4
+   ],
+   [
+    "S9+14",
+    "key_tick",
+    0.4
+   ],
+   [
+    "slides+6",
+    "whoosh",
+    0.35,
+    "peak"
+   ],
+   [
+    "S10+10",
+    "node_snap",
+    0.6
+   ],
+   [
+    "S11+10",
+    "key_tick",
+    0.5
+   ],
+   [
+    "S12+10",
+    "key_tick",
+    0.5
+   ],
+   [
+    "S13+10",
+    "key_tick",
+    0.5
+   ],
+   [
+    "S14+10",
+    "key_tick",
+    0.5
+   ],
+   [
+    "S15+10",
+    "node_snap",
+    0.6
+   ],
+   [
+    "S16+10",
+    "node_snap",
+    0.6
+   ],
+   [
+    "S19+10",
+    "node_snap",
+    0.6
+   ],
+   [
+    "S20+10",
+    "key_tick",
+    0.5
+   ],
+   [
+    "S21+6",
+    "low_tone",
+    0.6,
+    "onset",
+    "S22+8"
+   ],
+   [
+    "S22+10",
+    "chime",
+    0.5
+   ],
+   [
+    "S25+10",
+    "node_snap",
+    0.55
+   ],
+   [
+    "S26+10",
+    "node_snap",
+    0.55
+   ],
+   [
+    "S27+10",
+    "node_snap",
+    0.55
+   ],
+   [
+    "S30+10",
+    "key_tick",
+    0.6
+   ]
+  ],
+  "music": {
+   "clip": "music_calm"
+  },
+  "levels": {
+   "sfx_lu": -5,
+   "music_lu": -13
+  }
+ }
+}

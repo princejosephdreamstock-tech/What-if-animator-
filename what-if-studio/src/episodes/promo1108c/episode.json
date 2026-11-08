@@ -1,0 +1,779 @@
+{
+ "id": "Promo1108c",
+ "slug": "promo1108c",
+ "pack": "promo",
+ "topic": "Promo: one typed topic line in, one finished animated video out, what you get and what you bring",
+ "format": "long",
+ "minutes": 1,
+ "fps": 30,
+ "title": [
+  "ONE LINE IN",
+  "ONE VIDEO OUT"
+ ],
+ "accent": "VIDEO",
+ "cast": [
+  "pip",
+  "mo"
+ ],
+ "script": [
+  {
+   "beat": "1 hook",
+   "text": "Still dragging clips on a timeline at midnight?"
+  },
+  {
+   "beat": "2 the chore",
+   "text": "Writing, recording, cutting, mixing, exporting, then doing it all again tomorrow."
+  },
+  {
+   "beat": "3 who it is for",
+   "text": "This is for faceless creators who are comfortable with a terminal."
+  },
+  {
+   "beat": "4 one typed line",
+   "text": "You type one topic line. Then the real stages run."
+  },
+  {
+   "beat": "5 script",
+   "text": "First, it writes the script from your line."
+  },
+  {
+   "beat": "6 voice",
+   "text": "Next, it records the voice and times every single word."
+  },
+  {
+   "beat": "7 shot list",
+   "text": "Then it plans a shot list, cut right on the words."
+  },
+  {
+   "beat": "8 animate",
+   "text": "Every frame is animated in code, using your own cast and sets."
+  },
+  {
+   "beat": "9 sound and master",
+   "text": "The sound is built to match, then mastered to a clean level."
+  },
+  {
+   "beat": "10 plain scripts",
+   "text": "Every stage is a plain script you own."
+  },
+  {
+   "beat": "11 finished video",
+   "text": "And out comes your finished video. Take a good look.",
+   "pause": 3
+  },
+  {
+   "beat": "12 what you get",
+   "text": "You get the files you own: the engine, the cast, the sets, the scripts and the guides."
+  },
+  {
+   "beat": "13 what you bring",
+   "text": "You bring your own keys for the voice and the AI writer."
+  },
+  {
+   "beat": "14 none included",
+   "text": "No keys come inside the package, so yours stay yours."
+  },
+  {
+   "beat": "15 recap",
+   "text": "One line in. One finished video out."
+  },
+  {
+   "beat": "16 call to action",
+   "text": "Get the full system. The link is in the about section."
+  }
+ ],
+ "science": [
+  {
+   "claim": "Dragging clips on a timeline at midnight is a familiar chore.",
+   "working": "A feeling, not a statistic: no figure is stated or implied.",
+   "source": "none needed (no number)"
+  },
+  {
+   "claim": "The system is for faceless creators comfortable with a terminal.",
+   "working": "The pipeline is started from a terminal command (bash run_episode.sh) and draws an animated cast, so no face is needed.",
+   "source": "pack brief, who it is for"
+  },
+  {
+   "claim": "One typed topic line goes in and the real stages run.",
+   "working": "One topic line in; the stages are voice, plan, sound, render, master.",
+   "source": "brief, what the VM does with your files"
+  },
+  {
+   "claim": "The voice is recorded and every word is timed.",
+   "working": "One voice call per script line builds words.json, the time of every spoken word.",
+   "source": "brief, voice step"
+  },
+  {
+   "claim": "The shot list is cut on the words.",
+   "working": "The plan step turns cues into frames; a word cut lands 2 frames before its word.",
+   "source": "brief, plan step and cue rules"
+  },
+  {
+   "claim": "Every frame is animated in code.",
+   "working": "Shots are React and SVG functions of their own clock, rendered frame by frame.",
+   "source": "kit reference, a shot"
+  },
+  {
+   "claim": "The sound is built to match and mastered to a clean level.",
+   "working": "The sound step generates clips and places events; the master step brings the mix to minus fourteen LUFS.",
+   "source": "brief, what the VM does with your files"
+  },
+  {
+   "claim": "You get the engine, the cast, the sets, the scripts and the guides.",
+   "working": "Five items, as listed in the pack brief. No count of sets is stated.",
+   "source": "pack brief, what you get"
+  },
+  {
+   "claim": "You bring your own keys for the voice and the AI writer; none are included.",
+   "working": "No key is inside the package; voice and writing run on the buyer's own accounts.",
+   "source": "pack brief, what you bring"
+  },
+  {
+   "claim": "One line in, one finished video out.",
+   "working": "One topic line in, one mastered video out.",
+   "source": "brief, what the VM does with your files"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 14,
+   "note": "sample clip: Pip walks the roof at dusk"
+  },
+  {
+   "id": "S2",
+   "size": "close-up",
+   "set": "rooftop",
+   "key": 14,
+   "note": "sample clip: Pip's face, slow push in"
+  },
+  {
+   "id": "S3",
+   "size": "medium low angle",
+   "set": "rooftop",
+   "key": 14,
+   "note": "sample clip: Pip and Mo against the sky"
+  },
+  {
+   "id": "S4",
+   "size": "insert",
+   "set": "hand-drawn",
+   "key": 14,
+   "note": "timeline sticker, a clip slides, 12:00 tag"
+  },
+  {
+   "id": "S5",
+   "size": "close-up",
+   "set": "hand-drawn",
+   "key": 14,
+   "note": "moon sticker, tired Pip, clock tag"
+  },
+  {
+   "id": "S6",
+   "size": "medium",
+   "set": "hand-drawn",
+   "key": 18,
+   "note": "page writing itself, WRITE tag"
+  },
+  {
+   "id": "S7",
+   "size": "insert",
+   "set": "hand-drawn",
+   "key": 18,
+   "note": "mic and sound bars, REC tag"
+  },
+  {
+   "id": "S8",
+   "size": "close-up",
+   "set": "hand-drawn",
+   "key": 18,
+   "note": "film strip and snipping scissors"
+  },
+  {
+   "id": "S9",
+   "size": "top-down insert",
+   "set": "hand-drawn",
+   "key": 14,
+   "note": "mixer sliders moving"
+  },
+  {
+   "id": "S10",
+   "size": "medium",
+   "set": "hand-drawn",
+   "key": 24,
+   "note": "export box with a filling bar"
+  },
+  {
+   "id": "S11",
+   "size": "close-up",
+   "set": "hand-drawn",
+   "key": 14,
+   "note": "blank faceless head sticker"
+  },
+  {
+   "id": "S12",
+   "size": "wide",
+   "set": "hand-drawn",
+   "key": 14,
+   "note": "empty terminal, blinking cursor"
+  },
+  {
+   "id": "S13",
+   "size": "close-up",
+   "set": "hand-drawn",
+   "key": 30,
+   "note": "one topic line typed in"
+  },
+  {
+   "id": "S14",
+   "size": "wide",
+   "set": "hand-drawn",
+   "key": 40,
+   "note": "four stage stickers pop in a row"
+  },
+  {
+   "id": "S15",
+   "size": "medium",
+   "set": "hand-drawn",
+   "key": 24,
+   "note": "script page writes, SCRIPT tag"
+  },
+  {
+   "id": "S16",
+   "size": "close-up",
+   "set": "hand-drawn",
+   "key": 18,
+   "note": "mic and voice waves"
+  },
+  {
+   "id": "S17",
+   "size": "top-down insert",
+   "set": "hand-drawn",
+   "key": 18,
+   "note": "word chips on a strip, clock"
+  },
+  {
+   "id": "S18",
+   "size": "medium",
+   "set": "hand-drawn",
+   "key": 24,
+   "note": "shot list ticks, SHOTS tag"
+  },
+  {
+   "id": "S19",
+   "size": "close-up",
+   "set": "hand-drawn",
+   "key": 18,
+   "note": "film strip, scissors, ON THE WORD tag"
+  },
+  {
+   "id": "S20",
+   "size": "wide",
+   "set": "hand-drawn",
+   "key": 18,
+   "note": "code sticker and a screen"
+  },
+  {
+   "id": "S21",
+   "size": "medium",
+   "set": "hand-drawn",
+   "key": 18,
+   "note": "Pip bust on a sticker disc, YOURS tag"
+  },
+  {
+   "id": "S22",
+   "size": "close-up",
+   "set": "hand-drawn",
+   "key": 18,
+   "note": "sound bars, SOUND tag"
+  },
+  {
+   "id": "S23",
+   "size": "insert",
+   "set": "hand-drawn",
+   "key": 30,
+   "note": "level meter rises, tick lands"
+  },
+  {
+   "id": "S24",
+   "size": "wide",
+   "set": "hand-drawn",
+   "key": 30,
+   "note": "three script file chips"
+  },
+  {
+   "id": "S25",
+   "size": "close-up",
+   "set": "hand-drawn",
+   "key": 14,
+   "note": "screen reveal with sparkles"
+  },
+  {
+   "id": "S26",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 14,
+   "note": "sample clip again: Mo crosses the roof"
+  },
+  {
+   "id": "S27",
+   "size": "close-up",
+   "set": "rooftop",
+   "key": 14,
+   "note": "sample clip again: Mo's face"
+  },
+  {
+   "id": "S28",
+   "size": "medium low angle",
+   "set": "rooftop",
+   "key": 14,
+   "note": "sample clip again: Pip and Mo"
+  },
+  {
+   "id": "S29",
+   "size": "medium",
+   "set": "study",
+   "key": 14,
+   "note": "sample clip again: Pip at a night desk"
+  },
+  {
+   "id": "S30",
+   "size": "insert",
+   "set": "hand-drawn",
+   "key": 14,
+   "note": "package box, YOURS tag"
+  },
+  {
+   "id": "S31",
+   "size": "close-up",
+   "set": "hand-drawn",
+   "key": 18,
+   "note": "turning gears, ENGINE tag"
+  },
+  {
+   "id": "S32",
+   "size": "medium",
+   "set": "hand-drawn",
+   "key": 18,
+   "note": "Pip and Mo busts, CAST tag"
+  },
+  {
+   "id": "S33",
+   "size": "wide",
+   "set": "hand-drawn",
+   "key": 30,
+   "note": "three little room cards, SETS tag"
+  },
+  {
+   "id": "S34",
+   "size": "insert",
+   "set": "hand-drawn",
+   "key": 30,
+   "note": "terminal runs the run script"
+  },
+  {
+   "id": "S35",
+   "size": "close-up",
+   "set": "hand-drawn",
+   "key": 14,
+   "note": "open book, GUIDES tag"
+  },
+  {
+   "id": "S36",
+   "size": "medium",
+   "set": "hand-drawn",
+   "key": 40,
+   "note": "two keys, VOICE and WRITER tags"
+  },
+  {
+   "id": "S37",
+   "size": "insert",
+   "set": "hand-drawn",
+   "key": 40,
+   "note": "package, key crossed out, NONE INSIDE tag"
+  },
+  {
+   "id": "S38",
+   "size": "close-up",
+   "set": "hand-drawn",
+   "key": 24,
+   "note": "the one topic line, cursor blinking"
+  },
+  {
+   "id": "S39",
+   "size": "medium",
+   "set": "hand-drawn",
+   "key": 18,
+   "note": "screen with sparkle"
+  },
+  {
+   "id": "S40",
+   "size": "wide",
+   "set": "hand-drawn",
+   "key": 24,
+   "note": "package, gear and book in a row"
+  },
+  {
+   "id": "S41",
+   "size": "close-up",
+   "set": "hand-drawn",
+   "key": 24,
+   "note": "Pip on a disc, LINK IN ABOUT SECTION tag"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "+40"
+  },
+  {
+   "shot": "S3",
+   "at": "+40"
+  },
+  {
+   "shot": "S4",
+   "at": "Still"
+  },
+  {
+   "shot": "S5",
+   "at": "midnight"
+  },
+  {
+   "shot": "S6",
+   "at": "writing"
+  },
+  {
+   "shot": "S7",
+   "at": "recording"
+  },
+  {
+   "shot": "S8",
+   "at": "cutting"
+  },
+  {
+   "shot": "S9",
+   "at": "mixing"
+  },
+  {
+   "shot": "S10",
+   "at": "exporting"
+  },
+  {
+   "shot": "S11",
+   "at": "faceless"
+  },
+  {
+   "shot": "S12",
+   "at": "terminal"
+  },
+  {
+   "shot": "S13",
+   "at": "type"
+  },
+  {
+   "shot": "S14",
+   "at": "stages"
+  },
+  {
+   "shot": "S15",
+   "at": "writes"
+  },
+  {
+   "shot": "S16",
+   "at": "records"
+  },
+  {
+   "shot": "S17",
+   "at": "times"
+  },
+  {
+   "shot": "S18",
+   "at": "plans"
+  },
+  {
+   "shot": "S19",
+   "at": "cut"
+  },
+  {
+   "shot": "S20",
+   "at": "animated"
+  },
+  {
+   "shot": "S21",
+   "at": "using"
+  },
+  {
+   "shot": "S22",
+   "at": "sound"
+  },
+  {
+   "shot": "S23",
+   "at": "mastered"
+  },
+  {
+   "shot": "S24",
+   "at": "plain"
+  },
+  {
+   "shot": "S25",
+   "at": "comes"
+  },
+  {
+   "shot": "S26",
+   "at": "take"
+  },
+  {
+   "shot": "S27",
+   "at": "good"
+  },
+  {
+   "shot": "S28",
+   "at": "+32"
+  },
+  {
+   "shot": "S29",
+   "at": "+36"
+  },
+  {
+   "shot": "S30",
+   "at": "files"
+  },
+  {
+   "shot": "S31",
+   "at": "engine"
+  },
+  {
+   "shot": "S32",
+   "at": "cast"
+  },
+  {
+   "shot": "S33",
+   "at": "sets"
+  },
+  {
+   "shot": "S34",
+   "at": "scripts"
+  },
+  {
+   "shot": "S35",
+   "at": "guides"
+  },
+  {
+   "shot": "S36",
+   "at": "bring"
+  },
+  {
+   "shot": "S37",
+   "at": "inside"
+  },
+  {
+   "shot": "S38",
+   "at": "line"
+  },
+  {
+   "shot": "S39",
+   "at": "video"
+  },
+  {
+   "shot": "S40",
+   "at": "system"
+  },
+  {
+   "shot": "S41",
+   "at": "about"
+  }
+ ],
+ "tail": 1,
+ "fx": [
+  {
+   "at": "S25+2",
+   "kind": "flash",
+   "color": "#FFFFFF",
+   "o": 0.4
+  },
+  {
+   "at": "S41+2",
+   "kind": "flash",
+   "color": "#2BA6A0",
+   "o": 0.3
+  }
+ ],
+ "sound": {
+  "clips": {
+   "music": [
+    "playful quirky cartoon background music, pizzicato strings, glockenspiel and soft bass, light and curious, 110 bpm, no vocals",
+    17
+   ],
+   "pop": [
+    "a cartoon speech bubble pop, short and bright",
+    0.5
+   ],
+   "chime": [
+    "a bright short confirmation chime, two soft notes",
+    0.8
+   ],
+   "whoosh": [
+    "a short soft airy whoosh transition, no voices",
+    0.6
+   ],
+   "key_tick": [
+    "a single crisp mechanical keyboard key click, very short, no voices",
+    0.5
+   ],
+   "sparkle": [
+    "a short bright magical sparkle twinkle, cartoon",
+    0.8
+   ],
+   "select_draw": [
+    "a quick digital selection sound, a soft rising electronic shimmer as a box is drawn on screen, short",
+    0.6
+   ]
+  },
+  "events": [
+   [
+    "S2+3",
+    "whoosh",
+    0.3,
+    "peak"
+   ],
+   [
+    "S3+3",
+    "whoosh",
+    0.3,
+    "peak"
+   ],
+   [
+    "S4+12",
+    "pop",
+    0.3
+   ],
+   [
+    "S5+12",
+    "pop",
+    0.3
+   ],
+   [
+    "S6+12",
+    "pop",
+    0.3
+   ],
+   [
+    "S7+12",
+    "pop",
+    0.3
+   ],
+   [
+    "S8+12",
+    "pop",
+    0.3
+   ],
+   [
+    "S10+12",
+    "pop",
+    0.3
+   ],
+   [
+    "S12+12",
+    "pop",
+    0.3
+   ],
+   [
+    "S14+12",
+    "pop",
+    0.3
+   ],
+   [
+    "S14+26",
+    "pop",
+    0.3
+   ],
+   [
+    "S18+12",
+    "select_draw",
+    0.3
+   ],
+   [
+    "S20+12",
+    "pop",
+    0.3
+   ],
+   [
+    "S23+22",
+    "chime",
+    0.25
+   ],
+   [
+    "S25+2",
+    "whoosh",
+    0.4,
+    "peak"
+   ],
+   [
+    "S25+14",
+    "chime",
+    0.5
+   ],
+   [
+    "S26+3",
+    "whoosh",
+    0.25,
+    "peak"
+   ],
+   [
+    "S30+12",
+    "pop",
+    0.3
+   ],
+   [
+    "S36+12",
+    "pop",
+    0.3
+   ],
+   [
+    "S37+24",
+    "pop",
+    0.35
+   ],
+   [
+    "S39+12",
+    "sparkle",
+    0.3
+   ],
+   [
+    "S41+12",
+    "chime",
+    0.45
+   ]
+  ],
+  "repeats": [
+   {
+    "at": "S13+8",
+    "clip": "key_tick",
+    "n": 18,
+    "every": 2,
+    "gain": [
+     0.2,
+     0.35
+    ],
+    "pitch": [
+     0.9,
+     1.1
+    ]
+   }
+  ],
+  "music": {
+   "clip": "music"
+  },
+  "levels": {
+   "sfx_lu": -6,
+   "music_lu": -12
+  }
+ },
+ "intro": 4.2
+}

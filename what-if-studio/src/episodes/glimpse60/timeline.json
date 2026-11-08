@@ -1,0 +1,586 @@
+{
+ "slug": "glimpse60",
+ "title": "WHAT IF YOU COULD GLIMPSE ONE MINUTE AHEAD?",
+ "fps": 30,
+ "total": 1764,
+ "segments": [
+  {
+   "shot": "S1",
+   "a": 0,
+   "b": 29,
+   "t0": 0,
+   "t1": 29,
+   "line": "Coffee tips."
+  },
+  {
+   "shot": "S2",
+   "a": 29,
+   "b": 52,
+   "t0": 0,
+   "t1": 23,
+   "line": "Glimpse.",
+   "look": "glimpse"
+  },
+  {
+   "shot": "S3",
+   "a": 52,
+   "b": 79,
+   "t0": 0,
+   "t1": 27,
+   "line": "You catch it."
+  },
+  {
+   "shot": "S4",
+   "a": 79,
+   "b": 110,
+   "t0": 0,
+   "t1": 31,
+   "line": "Bus pulls off."
+  },
+  {
+   "shot": "S5",
+   "a": 110,
+   "b": 128,
+   "t0": 0,
+   "t1": 18,
+   "line": "Glimpse.",
+   "look": "glimpse"
+  },
+  {
+   "shot": "S6",
+   "a": 128,
+   "b": 153,
+   "t0": 0,
+   "t1": 25,
+   "line": "You make it."
+  },
+  {
+   "shot": "S7",
+   "a": 153,
+   "b": 184,
+   "t0": 0,
+   "t1": 31,
+   "line": "Friend speaks."
+  },
+  {
+   "shot": "S8",
+   "a": 184,
+   "b": 240,
+   "t0": 0,
+   "t1": 56,
+   "line": "Glimpse. You said it first.",
+   "look": "glimpse"
+  },
+  {
+   "shot": "S9",
+   "a": 240,
+   "b": 269,
+   "t0": 0,
+   "t1": 29,
+   "line": "Phone buzzes."
+  },
+  {
+   "shot": "S10",
+   "a": 269,
+   "b": 294,
+   "t0": 0,
+   "t1": 25,
+   "line": "Glimpse.",
+   "look": "glimpse"
+  },
+  {
+   "shot": "S11",
+   "a": 294,
+   "b": 349,
+   "t0": 0,
+   "t1": 55,
+   "line": "It's mum. You let it ring."
+  },
+  {
+   "shot": "S12",
+   "a": 349,
+   "b": 418,
+   "t0": 0,
+   "t1": 69,
+   "line": "What if you could glimpse one minute ahead?"
+  },
+  {
+   "shot": "S13",
+   "a": 418,
+   "b": 496,
+   "t0": 0,
+   "t1": 78,
+   "line": "Sounds amazing. Honestly, it does. You"
+  },
+  {
+   "shot": "S14",
+   "a": 496,
+   "b": 536,
+   "t0": 0,
+   "t1": 40,
+   "line": "win every argument. You"
+  },
+  {
+   "shot": "S15",
+   "a": 536,
+   "b": 581,
+   "t0": 0,
+   "t1": 45,
+   "line": "dodge every puddle. You"
+  },
+  {
+   "shot": "S16",
+   "a": 581,
+   "b": 619,
+   "t0": 0,
+   "t1": 38,
+   "line": "ace every test. You're"
+  },
+  {
+   "shot": "S17",
+   "a": 619,
+   "b": 662,
+   "t0": 0,
+   "t1": 43,
+   "line": "basically a wizard."
+  },
+  {
+   "shot": "S18",
+   "a": 662,
+   "b": 739,
+   "t0": 0,
+   "t1": 77,
+   "line": "But here's the catch. A glimpse isn't free."
+  },
+  {
+   "shot": "S19",
+   "a": 739,
+   "b": 813,
+   "t0": 0,
+   "t1": 74,
+   "line": "Your brain is two percent of your body weight, and"
+  },
+  {
+   "shot": "S20",
+   "a": 813,
+   "b": 865,
+   "t0": 0,
+   "t1": 52,
+   "line": "it burns a fifth of all your energy."
+  },
+  {
+   "shot": "S21",
+   "a": 865,
+   "b": 958,
+   "t0": 0,
+   "t1": 93,
+   "line": "Twenty watts, nonstop. About a dim light bulb."
+  },
+  {
+   "shot": "S22",
+   "a": 958,
+   "b": 1091,
+   "t0": 0,
+   "t1": 133,
+   "line": "Now run a whole minute of life in one second. Every single time you glimpse."
+  },
+  {
+   "shot": "S23",
+   "a": 1091,
+   "b": 1134,
+   "t0": 0,
+   "t1": 43,
+   "line": "Sixty times the power."
+  },
+  {
+   "shot": "S24",
+   "a": 1134,
+   "b": 1243,
+   "t0": 0,
+   "t1": 109,
+   "line": "Twelve hundred watts. A space heater, running inside your skull."
+  },
+  {
+   "shot": "S25",
+   "a": 1243,
+   "b": 1270,
+   "t0": 0,
+   "t1": 27,
+   "line": "That's real."
+  },
+  {
+   "shot": "S26",
+   "a": 1270,
+   "b": 1360,
+   "t0": 0,
+   "t1": 90,
+   "line": "At first, a headache. A dull, pounding one."
+  },
+  {
+   "shot": "S27",
+   "a": 1360,
+   "b": 1458,
+   "t0": 0,
+   "t1": 98,
+   "line": "Then the world stutters. Like a video that won't load."
+  },
+  {
+   "shot": "S28",
+   "a": 1458,
+   "b": 1569,
+   "t0": 0,
+   "t1": 111,
+   "line": "Then the glimpses won't stop. One after another after another."
+  },
+  {
+   "shot": "S29",
+   "a": 1569,
+   "b": 1680,
+   "t0": 0,
+   "t1": 111,
+   "line": "Your head is hot. Your vision is white. Your ears are ringing."
+  },
+  {
+   "shot": "S30",
+   "a": 1680,
+   "b": 1764,
+   "t0": 0,
+   "t1": 84,
+   "line": "So what happens when the power fails?"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "medium",
+   "key": 18,
+   "len": 29,
+   "first": 0,
+   "line": "Coffee tips.",
+   "note": "Pip at the island, coffee mug tipping over the edge"
+  },
+  {
+   "id": "S2",
+   "size": "macro insert, high angle",
+   "key": 10,
+   "len": 23,
+   "first": 29,
+   "line": "Glimpse.",
+   "note": "the mug caught mid-air, a cyan selection box around it, GLIMPSE chip"
+  },
+  {
+   "id": "S3",
+   "size": "wide",
+   "key": 24,
+   "len": 27,
+   "first": 52,
+   "line": "You catch it.",
+   "note": "Pip sets the mug down, exhales; cat on the counter looks up"
+  },
+  {
+   "id": "S4",
+   "size": "medium wide",
+   "key": 20,
+   "len": 31,
+   "first": 79,
+   "line": "Bus pulls off.",
+   "note": "bus visible through the doorway pulling away; Pip sprints into frame"
+  },
+  {
+   "id": "S5",
+   "size": "close-up",
+   "key": 14,
+   "len": 18,
+   "first": 110,
+   "line": "Glimpse.",
+   "note": "Pip's eyes, a cyan GLIMPSE chip pulses, a ghost bus door holds in the reflection"
+  },
+  {
+   "id": "S6",
+   "size": "low angle, medium",
+   "key": 22,
+   "len": 25,
+   "first": 128,
+   "line": "You make it.",
+   "note": "Pip catches the bus door, hauls himself on; the bus lurches forward"
+  },
+  {
+   "id": "S7",
+   "size": "medium",
+   "key": 18,
+   "len": 31,
+   "first": 153,
+   "line": "Friend speaks.",
+   "note": "Mo at the desk turns to speak; Pip's hand already raising"
+  },
+  {
+   "id": "S8",
+   "size": "two-shot",
+   "key": 20,
+   "len": 56,
+   "first": 184,
+   "line": "Glimpse. You said it first.",
+   "note": "Mo's mouth opens, Pip's voice comes out first; both freeze, staring"
+  },
+  {
+   "id": "S9",
+   "size": "macro insert, top-down",
+   "key": 14,
+   "len": 29,
+   "first": 240,
+   "line": "Phone buzzes.",
+   "note": "the phone buzzes on the desk, MUM calling"
+  },
+  {
+   "id": "S10",
+   "size": "close-up",
+   "key": 12,
+   "len": 25,
+   "first": 269,
+   "line": "Glimpse.",
+   "note": "Pip's eyes, a cyan box round the call to come, the future holds"
+  },
+  {
+   "id": "S11",
+   "size": "medium",
+   "key": 16,
+   "len": 55,
+   "first": 294,
+   "line": "It's mum. You let it ring.",
+   "note": "Pip leans back, smug, the phone buzzing unanswered"
+  },
+  {
+   "id": "S12",
+   "size": "title, wide",
+   "key": 52,
+   "len": 69,
+   "first": 349,
+   "line": "What if you could glimpse one minute ahead?",
+   "note": "the premise over the city at dusk; Pip on the parapet, a faint cyan afterimage trailing his hand"
+  },
+  {
+   "id": "S13",
+   "size": "medium, low angle",
+   "key": 16,
+   "len": 78,
+   "first": 418,
+   "line": "Sounds amazing. Honestly, it does. You",
+   "note": "Pip looks at his hand, the afterimage fading; he smiles, then frowns"
+  },
+  {
+   "id": "S14",
+   "size": "two-shot",
+   "key": 14,
+   "len": 40,
+   "first": 496,
+   "line": "win every argument. You",
+   "note": "Mo argues, Pip leans back with his arms folded"
+  },
+  {
+   "id": "S15",
+   "size": "wide",
+   "key": 24,
+   "len": 45,
+   "first": 536,
+   "line": "dodge every puddle. You",
+   "note": "Pip hops clean over a puddle the box had already drawn round"
+  },
+  {
+   "id": "S16",
+   "size": "macro insert, top-down",
+   "key": 16,
+   "len": 38,
+   "first": 581,
+   "line": "ace every test. You're",
+   "note": "the blank paper is boxed, the A+ pops in"
+  },
+  {
+   "id": "S17",
+   "size": "medium, low angle",
+   "key": 16,
+   "len": 43,
+   "first": 619,
+   "line": "basically a wizard.",
+   "note": "arms up, sparkles all round: basically a wizard"
+  },
+  {
+   "id": "S18",
+   "size": "close-up",
+   "key": 14,
+   "len": 77,
+   "first": 662,
+   "line": "But here's the catch. A glimpse isn't free.",
+   "note": "But here's the catch: Pip, uneasy"
+  },
+  {
+   "id": "S19",
+   "size": "schematic",
+   "key": 22,
+   "len": 74,
+   "first": 739,
+   "line": "Your brain is two percent of your body weight, and",
+   "note": "a body outline, the brain lit: 2% of your body"
+  },
+  {
+   "id": "S20",
+   "size": "schematic",
+   "key": 30,
+   "len": 52,
+   "first": 813,
+   "line": "it burns a fifth of all your energy.",
+   "note": "two bars: 2% of the weight, 20% of the energy"
+  },
+  {
+   "id": "S21",
+   "size": "schematic",
+   "key": 24,
+   "len": 93,
+   "first": 865,
+   "line": "Twenty watts, nonstop. About a dim light bulb.",
+   "note": "the brain, a warm glow: 20 W, nonstop"
+  },
+  {
+   "id": "S22",
+   "size": "schematic",
+   "key": 24,
+   "len": 133,
+   "first": 958,
+   "line": "Now run a whole minute of life in one second. Every single time you glimpse.",
+   "note": "a dial runs one minute in one second"
+  },
+  {
+   "id": "S23",
+   "size": "schematic",
+   "key": 20,
+   "len": 43,
+   "first": 1091,
+   "line": "Sixty times the power.",
+   "note": "x 60, huge, glowing"
+  },
+  {
+   "id": "S24",
+   "size": "schematic",
+   "key": 40,
+   "len": 109,
+   "first": 1134,
+   "line": "Twelve hundred watts. A space heater, running inside your skull.",
+   "note": "a space heater inside a skull, 1,200 W counting up"
+  },
+  {
+   "id": "S25",
+   "size": "extreme close-up",
+   "key": 14,
+   "len": 27,
+   "first": 1243,
+   "line": "That's real.",
+   "note": "Pip, worried; the cyan rim light shifts to red, the sky begins to turn"
+  },
+  {
+   "id": "S26",
+   "size": "medium",
+   "key": 16,
+   "len": 90,
+   "first": 1270,
+   "line": "At first, a headache. A dull, pounding one.",
+   "note": "a headache: his hand to his head, stars circling"
+  },
+  {
+   "id": "S27",
+   "size": "medium",
+   "key": 16,
+   "len": 98,
+   "first": 1360,
+   "line": "Then the world stutters. Like a video that won't load.",
+   "note": "the world stutters: jittering ghosts, the city flickers"
+  },
+  {
+   "id": "S28",
+   "size": "close-up",
+   "key": 14,
+   "len": 111,
+   "first": 1458,
+   "line": "Then the glimpses won't stop. One after another after another.",
+   "note": "the glimpses won't stop: boxes flicker all round him"
+  },
+  {
+   "id": "S29",
+   "size": "extreme close-up",
+   "key": 20,
+   "len": 111,
+   "first": 1569,
+   "line": "Your head is hot. Your vision is white. Your ears are ringing.",
+   "note": "his head is hot, his vision white: the frame bleaches out"
+  },
+  {
+   "id": "S30",
+   "size": "wide, low angle",
+   "key": 48,
+   "len": 84,
+   "first": 1680,
+   "line": "So what happens when the power fails?",
+   "note": "the city's lights go out in a sweep toward him, string lights die one by one, the sky goes red"
+  }
+ ],
+ "fx": [
+  {
+   "kind": "flash",
+   "color": "#00F5FF",
+   "o": 0.5,
+   "f": 37
+  },
+  {
+   "kind": "flash",
+   "color": "#00F5FF",
+   "o": 0.4,
+   "f": 116
+  },
+  {
+   "kind": "flash",
+   "color": "#00F5FF",
+   "o": 0.45,
+   "f": 194
+  },
+  {
+   "kind": "flash",
+   "color": "#00F5FF",
+   "o": 0.4,
+   "f": 277
+  },
+  {
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "f": 349
+  },
+  {
+   "kind": "shake",
+   "len": 10,
+   "amp": 10,
+   "f": 1360
+  },
+  {
+   "kind": "flash",
+   "color": "#FF3344",
+   "o": 0.4,
+   "f": 1569
+  },
+  {
+   "kind": "flash",
+   "color": "#FF3344",
+   "f": 1680
+  },
+  {
+   "kind": "shake",
+   "len": 12,
+   "amp": 12,
+   "f": 1680
+  }
+ ],
+ "audio": {
+  "voice": "glimpse60/voice.wav",
+  "sfx": "glimpse60/sfx.wav",
+  "voiceVol": 0.8,
+  "sfxVol": 0.2806,
+  "music": "glimpse60/music.wav",
+  "musicVol": 0.0887
+ }
+}

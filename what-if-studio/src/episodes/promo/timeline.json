@@ -1,0 +1,695 @@
+{
+ "slug": "promo",
+ "title": "ONE LINE IN ONE VIDEO OUT",
+ "fps": 30,
+ "total": 1614,
+ "segments": [
+  {
+   "shot": "S1",
+   "a": 0,
+   "b": 44,
+   "t0": 0,
+   "t1": 44,
+   "line": "One animated video can"
+  },
+  {
+   "shot": "S2",
+   "a": 44,
+   "b": 97,
+   "t0": 0,
+   "t1": 53,
+   "line": "feel like a full time job."
+  },
+  {
+   "shot": "S3",
+   "a": 97,
+   "b": 122,
+   "t0": 0,
+   "t1": 25,
+   "line": "Writing it."
+  },
+  {
+   "shot": "S4",
+   "a": 122,
+   "b": 150,
+   "t0": 0,
+   "t1": 28,
+   "line": "Recording it."
+  },
+  {
+   "shot": "S5",
+   "a": 150,
+   "b": 174,
+   "t0": 0,
+   "t1": 24,
+   "line": "Cutting it."
+  },
+  {
+   "shot": "S6",
+   "a": 174,
+   "b": 207,
+   "t0": 0,
+   "t1": 33,
+   "line": "Adding sound."
+  },
+  {
+   "shot": "S7",
+   "a": 207,
+   "b": 243,
+   "t0": 0,
+   "t1": 36,
+   "line": "Exporting it."
+  },
+  {
+   "shot": "S8",
+   "a": 243,
+   "b": 302,
+   "t0": 0,
+   "t1": 59,
+   "line": "Then doing it all again tomorrow."
+  },
+  {
+   "shot": "S9",
+   "a": 302,
+   "b": 327,
+   "t0": 0,
+   "t1": 25,
+   "line": "Now try this."
+  },
+  {
+   "shot": "S10",
+   "a": 327,
+   "b": 361,
+   "t0": 0,
+   "t1": 34,
+   "line": "Type one line."
+  },
+  {
+   "shot": "S11",
+   "a": 361,
+   "b": 379,
+   "t0": 0,
+   "t1": 18,
+   "line": "What if you could"
+  },
+  {
+   "shot": "S12",
+   "a": 379,
+   "b": 419,
+   "t0": 0,
+   "t1": 40,
+   "line": "see one minute ahead?"
+  },
+  {
+   "shot": "S13",
+   "a": 419,
+   "b": 440,
+   "t0": 0,
+   "t1": 21,
+   "line": "The pipeline"
+  },
+  {
+   "shot": "S14",
+   "a": 440,
+   "b": 477,
+   "t0": 0,
+   "t1": 37,
+   "line": "writes the script."
+  },
+  {
+   "shot": "S15",
+   "a": 477,
+   "b": 519,
+   "t0": 0,
+   "t1": 42,
+   "line": "Records the voice."
+  },
+  {
+   "shot": "S16",
+   "a": 519,
+   "b": 592,
+   "t0": 0,
+   "t1": 73,
+   "line": "Cuts a shot list on every word."
+  },
+  {
+   "shot": "S17",
+   "a": 592,
+   "b": 637,
+   "t0": 0,
+   "t1": 45,
+   "line": "Then draws a storyboard you can"
+  },
+  {
+   "shot": "S18",
+   "a": 637,
+   "b": 694,
+   "t0": 0,
+   "t1": 57,
+   "line": "check before anything renders."
+  },
+  {
+   "shot": "S19",
+   "a": 694,
+   "b": 718,
+   "t0": 0,
+   "t1": 24,
+   "line": "Every frame"
+  },
+  {
+   "shot": "S20",
+   "a": 718,
+   "b": 763,
+   "t0": 0,
+   "t1": 45,
+   "line": "is animated in code. The"
+  },
+  {
+   "shot": "S21",
+   "a": 763,
+   "b": 833,
+   "t0": 0,
+   "t1": 70,
+   "line": "sound is built to match. And the audio is"
+  },
+  {
+   "shot": "S22",
+   "a": 833,
+   "b": 908,
+   "t0": 0,
+   "t1": 75,
+   "line": "mastered to minus fourteen LUFS."
+  },
+  {
+   "shot": "S23",
+   "a": 908,
+   "b": 933,
+   "t0": 0,
+   "t1": 25,
+   "line": "And out comes"
+  },
+  {
+   "shot": "S24",
+   "a": 933,
+   "b": 969,
+   "t0": 0,
+   "t1": 36,
+   "line": "this."
+  },
+  {
+   "shot": "S25",
+   "a": 969,
+   "b": 1005,
+   "t0": 0,
+   "t1": 36,
+   "line": ""
+  },
+  {
+   "shot": "S26",
+   "a": 1005,
+   "b": 1041,
+   "t0": 0,
+   "t1": 36,
+   "line": ""
+  },
+  {
+   "shot": "S27",
+   "a": 1041,
+   "b": 1094,
+   "t0": 0,
+   "t1": 53,
+   "line": "You get"
+  },
+  {
+   "shot": "S28",
+   "a": 1094,
+   "b": 1126,
+   "t0": 0,
+   "t1": 32,
+   "line": "the full system: the"
+  },
+  {
+   "shot": "S29",
+   "a": 1126,
+   "b": 1145,
+   "t0": 0,
+   "t1": 19,
+   "line": "engine,"
+  },
+  {
+   "shot": "S30",
+   "a": 1145,
+   "b": 1166,
+   "t0": 0,
+   "t1": 21,
+   "line": "the cast,"
+  },
+  {
+   "shot": "S31",
+   "a": 1166,
+   "b": 1194,
+   "t0": 0,
+   "t1": 28,
+   "line": "seven sets, the"
+  },
+  {
+   "shot": "S32",
+   "a": 1194,
+   "b": 1223,
+   "t0": 0,
+   "t1": 29,
+   "line": "scripts, and"
+  },
+  {
+   "shot": "S33",
+   "a": 1223,
+   "b": 1283,
+   "t0": 0,
+   "t1": 60,
+   "line": "the guides that tie it together. You"
+  },
+  {
+   "shot": "S34",
+   "a": 1283,
+   "b": 1374,
+   "t0": 0,
+   "t1": 91,
+   "line": "bring your own ElevenLabs and Claude access. No"
+  },
+  {
+   "shot": "S35",
+   "a": 1374,
+   "b": 1415,
+   "t0": 0,
+   "t1": 41,
+   "line": "keys come inside."
+  },
+  {
+   "shot": "S36",
+   "a": 1415,
+   "b": 1458,
+   "t0": 0,
+   "t1": 43,
+   "line": "One line in. One"
+  },
+  {
+   "shot": "S37",
+   "a": 1458,
+   "b": 1497,
+   "t0": 0,
+   "t1": 39,
+   "line": "finished video out."
+  },
+  {
+   "shot": "S38",
+   "a": 1497,
+   "b": 1538,
+   "t0": 0,
+   "t1": 41,
+   "line": "Get the full system."
+  },
+  {
+   "shot": "S39",
+   "a": 1538,
+   "b": 1614,
+   "t0": 0,
+   "t1": 76,
+   "line": "Link in the description."
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "key": 14,
+   "len": 44,
+   "first": 0,
+   "line": "One animated video can",
+   "note": "Pip slumped at the desk"
+  },
+  {
+   "id": "S2",
+   "size": "close-up",
+   "key": 10,
+   "len": 53,
+   "first": 44,
+   "line": "feel like a full time job.",
+   "note": "Pip, tired, face fills the frame"
+  },
+  {
+   "id": "S3",
+   "size": "insert, top-down",
+   "key": 20,
+   "len": 25,
+   "first": 97,
+   "line": "Writing it.",
+   "note": "a page writing itself, a pile growing"
+  },
+  {
+   "id": "S4",
+   "size": "medium",
+   "key": 12,
+   "len": 28,
+   "first": 122,
+   "line": "Recording it.",
+   "note": "Mo with headphones, a REC chip"
+  },
+  {
+   "id": "S5",
+   "size": "insert",
+   "key": 24,
+   "len": 24,
+   "first": 150,
+   "line": "Cutting it.",
+   "note": "a timeline clip gets cut"
+  },
+  {
+   "id": "S6",
+   "size": "insert, close",
+   "key": 12,
+   "len": 33,
+   "first": 174,
+   "line": "Adding sound.",
+   "note": "sound bars pulsing"
+  },
+  {
+   "id": "S7",
+   "size": "insert",
+   "key": 22,
+   "len": 36,
+   "first": 207,
+   "line": "Exporting it.",
+   "note": "export bar fills to 100%"
+  },
+  {
+   "id": "S8",
+   "size": "medium",
+   "key": 14,
+   "len": 59,
+   "first": 243,
+   "line": "Then doing it all again tomorrow.",
+   "note": "Pip face down on the desk, dizzy"
+  },
+  {
+   "id": "S9",
+   "size": "wide",
+   "key": 12,
+   "len": 25,
+   "first": 302,
+   "line": "Now try this.",
+   "note": "Pip points at us, sparkle"
+  },
+  {
+   "id": "S10",
+   "size": "insert",
+   "key": 28,
+   "len": 34,
+   "first": 327,
+   "line": "Type one line.",
+   "note": "terminal: the topic line starts to type"
+  },
+  {
+   "id": "S11",
+   "size": "close-up",
+   "key": 20,
+   "len": 18,
+   "first": 361,
+   "line": "What if you could",
+   "note": "the finished line, caret, ENTER toast"
+  },
+  {
+   "id": "S12",
+   "size": "wide",
+   "key": 30,
+   "len": 40,
+   "first": 379,
+   "line": "see one minute ahead?",
+   "note": "title card: WHAT IF YOU COULD / SEE ONE MINUTE AHEAD?"
+  },
+  {
+   "id": "S13",
+   "size": "insert",
+   "key": 30,
+   "len": 21,
+   "first": 419,
+   "line": "The pipeline",
+   "note": "the eight steps pop on"
+  },
+  {
+   "id": "S14",
+   "size": "insert, high",
+   "key": 40,
+   "len": 37,
+   "first": 440,
+   "line": "writes the script.",
+   "note": "step 1: episode.json typed, real field names"
+  },
+  {
+   "id": "S15",
+   "size": "insert",
+   "key": 24,
+   "len": 42,
+   "first": 477,
+   "line": "Records the voice.",
+   "note": "step 2: voice.wav waveform, words.json toast"
+  },
+  {
+   "id": "S16",
+   "size": "macro",
+   "key": 20,
+   "len": 73,
+   "first": 519,
+   "line": "Cuts a shot list on every word.",
+   "note": "step 3: word chips, cut ticks, CUT LANDS 2 FRAMES EARLY"
+  },
+  {
+   "id": "S17",
+   "size": "insert",
+   "key": 20,
+   "len": 45,
+   "first": 592,
+   "line": "Then draws a storyboard you can",
+   "note": "step 4: six storyboard stills pop on"
+  },
+  {
+   "id": "S18",
+   "size": "close-up",
+   "key": 20,
+   "len": 57,
+   "first": 637,
+   "line": "check before anything renders.",
+   "note": "one still, OK with a tick"
+  },
+  {
+   "id": "S19",
+   "size": "insert, low",
+   "key": 20,
+   "len": 24,
+   "first": 694,
+   "line": "Every frame",
+   "note": "a film strip rolls, a frame counter runs"
+  },
+  {
+   "id": "S20",
+   "size": "medium",
+   "key": 30,
+   "len": 45,
+   "first": 718,
+   "line": "is animated in code. The",
+   "note": "shots.tsx typing next to the frame it draws"
+  },
+  {
+   "id": "S21",
+   "size": "insert",
+   "key": 20,
+   "len": 70,
+   "first": 763,
+   "line": "sound is built to match. And the audio is",
+   "note": "sfx.py: hit markers sit on the cuts"
+  },
+  {
+   "id": "S22",
+   "size": "close-up",
+   "key": 24,
+   "len": 75,
+   "first": 833,
+   "line": "mastered to minus fourteen LUFS.",
+   "note": "dial: -14 LUFS, true peak under -1 dBTP"
+  },
+  {
+   "id": "S23",
+   "size": "wide",
+   "key": 12,
+   "len": 25,
+   "first": 908,
+   "line": "And out comes",
+   "note": "play button slate"
+  },
+  {
+   "id": "S24",
+   "size": "wide",
+   "key": 20,
+   "len": 36,
+   "first": 933,
+   "line": "this.",
+   "note": "real clip: Pip hops the puddle"
+  },
+  {
+   "id": "S25",
+   "size": "insert, top-down",
+   "key": 14,
+   "len": 36,
+   "first": 969,
+   "line": "",
+   "note": "real clip: the paper gets its A+"
+  },
+  {
+   "id": "S26",
+   "size": "medium, low",
+   "key": 12,
+   "len": 36,
+   "first": 1005,
+   "line": "",
+   "note": "real clip: arms up on the roof"
+  },
+  {
+   "id": "S27",
+   "size": "medium",
+   "key": 12,
+   "len": 53,
+   "first": 1041,
+   "line": "You get",
+   "note": "real clip: Pip leans back, phone buzzing"
+  },
+  {
+   "id": "S28",
+   "size": "wide",
+   "key": 24,
+   "len": 32,
+   "first": 1094,
+   "line": "the full system: the",
+   "note": "THE FULL SYSTEM, five slots"
+  },
+  {
+   "id": "S29",
+   "size": "insert",
+   "key": 20,
+   "len": 19,
+   "first": 1126,
+   "line": "engine,",
+   "note": "ENGINE lit, file names"
+  },
+  {
+   "id": "S30",
+   "size": "medium wide",
+   "key": 12,
+   "len": 21,
+   "first": 1145,
+   "line": "the cast,",
+   "note": "Pip, Mo, Sis, Mom, Suit"
+  },
+  {
+   "id": "S31",
+   "size": "insert",
+   "key": 30,
+   "len": 28,
+   "first": 1166,
+   "line": "seven sets, the",
+   "note": "seven set tiles"
+  },
+  {
+   "id": "S32",
+   "size": "insert, high",
+   "key": 34,
+   "len": 29,
+   "first": 1194,
+   "line": "scripts, and",
+   "note": "six scripts, each with a tick"
+  },
+  {
+   "id": "S33",
+   "size": "insert, low",
+   "key": 30,
+   "len": 60,
+   "first": 1223,
+   "line": "the guides that tie it together. You",
+   "note": "five guide pages fan out"
+  },
+  {
+   "id": "S34",
+   "size": "insert",
+   "key": 30,
+   "len": 91,
+   "first": 1283,
+   "line": "bring your own ElevenLabs and Claude access. No",
+   "note": "ELEVENLABS and CLAUDE: YOUR OWN ACCESS, ticks"
+  },
+  {
+   "id": "S35",
+   "size": "close-up",
+   "key": 22,
+   "len": 41,
+   "first": 1374,
+   "line": "keys come inside.",
+   "note": "a key with a line through it: NO KEYS INSIDE"
+  },
+  {
+   "id": "S36",
+   "size": "medium",
+   "key": 20,
+   "len": 43,
+   "first": 1415,
+   "line": "One line in. One",
+   "note": "ONE LINE IN, the topic line under it"
+  },
+  {
+   "id": "S37",
+   "size": "wide",
+   "key": 24,
+   "len": 39,
+   "first": 1458,
+   "line": "finished video out.",
+   "note": "a finished video, play bar full: ONE FINISHED VIDEO OUT"
+  },
+  {
+   "id": "S38",
+   "size": "wide",
+   "key": 30,
+   "len": 41,
+   "first": 1497,
+   "line": "Get the full system.",
+   "note": "Pip waves, GET THE FULL SYSTEM"
+  },
+  {
+   "id": "S39",
+   "size": "insert",
+   "key": 20,
+   "len": 76,
+   "first": 1538,
+   "line": "Link in the description.",
+   "note": "LINK IN THE DESCRIPTION, arrow down"
+  }
+ ],
+ "fx": [
+  {
+   "kind": "flash",
+   "color": "#FFFFFF",
+   "o": 0.45,
+   "f": 910
+  },
+  {
+   "kind": "flash",
+   "color": "#FFE7B3",
+   "o": 0.4,
+   "f": 1499
+  }
+ ],
+ "audio": {
+  "voice": "promo/voice.wav",
+  "voiceVol": 0.8,
+  "sfx": "promo/sfx.wav",
+  "sfxVol": 0.5999,
+  "music": "promo/music.wav",
+  "musicVol": 0.1117
+ }
+}

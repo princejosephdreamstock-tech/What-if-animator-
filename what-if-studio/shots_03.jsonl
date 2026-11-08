@@ -1,0 +1,31 @@
+{"id": "S60", "size": "insert", "set": "schematic", "key": 12, "note": "blood arrows flow through the body", "at": "pumping"}
+{"id": "S61", "size": "insert", "set": "schematic", "key": 12, "note": "downward arrows on the blood fade away", "at": "pull"}
+{"id": "S62", "size": "medium", "set": "schematic", "key": 16, "note": "blood shifts up into the head, head tints red", "at": "shifts"}
+{"id": "S63", "size": "close-up", "set": "kitchen", "key": 14, "note": "Pip's cheeks puffy, eyes wide", "at": "puffy"}
+{"id": "S64", "size": "insert", "set": "schematic", "key": 12, "note": "x-ray stomach floats inside the body", "at": "stomach"}
+{"id": "S65", "size": "wide", "set": "schematic", "key": 20, "note": "space station, astronaut waves from a window", "at": "Astronauts"}
+{"id": "S66", "size": "medium", "set": "kitchen", "key": 16, "note": "Pip gives a shaky thumbs up", "at": "fine"}
+{"id": "S67", "size": "close-up", "set": "kitchen", "key": 14, "note": "Pip, question marks circle his head", "at": "confused"}
+{"id": "S68", "size": "wide", "set": "rooftop", "key": 20, "note": "Pip looks up at a clear dusk sky", "at": "Then"}
+{"id": "S69", "size": "wide", "set": "schematic", "key": 20, "note": "Earth with a thin blue layer pressed against it", "at": "atmosphere"}
+{"id": "S70", "size": "wide", "set": "schematic", "key": 20, "note": "the blue layer swells upward", "at": "expand"}
+{"id": "S71", "size": "insert", "set": "schematic", "key": 12, "note": "pressure gauge, needle drops", "at": "pressure"}
+{"id": "S72", "size": "close-up", "set": "rooftop", "key": 14, "note": "Pip's ears pop, little pop lines", "at": "ears"}
+{"id": "S73", "size": "wide", "set": "rooftop", "key": 20, "note": "loose papers whip upward into the sky", "at": "Wind"}
+{"id": "S74", "size": "close-up", "set": "rooftop", "key": 14, "note": "Pip breathes in, relieved", "at": "breathe"}
+{"id": "S75", "size": "wide", "set": "rooftop", "key": 20, "note": "the sky looks perfectly normal", "at": "sky"}
+{"id": "S76", "size": "medium", "set": "rooftop", "key": 16, "note": "Pip and Mo look around, all fine", "at": "Nobody"}
+{"id": "S77", "size": "close-up", "set": "rooftop", "key": 14, "note": "Pip side-eyes the camera", "at": "This"}
+{"id": "S78", "size": "wide", "set": "rooftop", "key": 20, "note": "city skyline at dusk", "at": "Buildings"}
+{"id": "S79", "size": "low angle, wide", "set": "rooftop", "key": 20, "note": "a skyscraper towers over Pip", "at": "skyscraper"}
+{"id": "S80", "size": "insert", "set": "schematic", "key": 12, "note": "steel beam, bolts and concrete", "at": "steel"}
+{"id": "S81", "size": "wide", "set": "rooftop", "key": 20, "note": "the tower stands, a small cloud drifts past", "at": "stands"}
+{"id": "S82", "size": "wide", "set": "street", "key": 20, "note": "a busy street full of cars (new set)", "at": "Cars"}
+{"id": "S83", "size": "insert", "set": "street", "key": 12, "note": "a tire lifts off the road", "at": "tires"}
+{"id": "S84", "size": "insert", "set": "street", "key": 12, "note": "a foot floats over the brake pedal", "at": "Brakes"}
+{"id": "S85", "size": "insert", "set": "street", "key": 12, "note": "steering wheel spins loose", "at": "Steering"}
+{"id": "S86", "size": "wide", "set": "street", "key": 20, "note": "cars drift into each other softly", "at": "bumper"}
+{"id": "S87", "size": "wide", "set": "street", "key": 20, "note": "speed lines on the cars, silent", "at": "speed"}
+{"id": "S88", "size": "wide", "set": "sea", "key": 20, "note": "open ocean at dusk (new set)", "at": "sea"}
+{"id": "S89", "size": "insert", "set": "schematic", "key": 12, "note": "arrows of water weight fade out", "at": "weight"}
+{"id": "S90", "size": "wide", "set": "sea", "key": 20, "note": "waves lift and wobble", "at": "waves"}

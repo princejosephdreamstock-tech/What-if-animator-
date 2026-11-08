@@ -1,0 +1,840 @@
+{
+ "id": "PromoPipeline",
+ "slug": "promo",
+ "pack": "promo",
+ "topic": "Promo: one topic line in, one finished animated video out, and what the buyer gets",
+ "format": "long",
+ "minutes": 1,
+ "style": "glimpse60",
+ "title": [
+  "ONE LINE IN",
+  "ONE VIDEO OUT"
+ ],
+ "accent": "VIDEO",
+ "cast": [
+  "pipHood",
+  "mo",
+  "sis",
+  "mom",
+  "suit"
+ ],
+ "script": [
+  {
+   "beat": "1 hook: the pain",
+   "text": "One animated video can feel like a full time job. Writing it. Recording it. Cutting it. Adding sound. Exporting it. Then doing it all again tomorrow."
+  },
+  {
+   "beat": "2 one topic line typed",
+   "text": "Now try this. Type one line. What if you could see one minute ahead?"
+  },
+  {
+   "beat": "3 stages: script, voice, shot list, storyboard",
+   "text": "The pipeline writes the script. Records the voice. Cuts a shot list on every word. Then draws a storyboard you can check before anything renders."
+  },
+  {
+   "beat": "4 stages: animate, sound, master",
+   "text": "Every frame is animated in code. The sound is built to match. And the audio is mastered to minus fourteen LUFS."
+  },
+  {
+   "beat": "5 a finished clip",
+   "text": "And out comes this.",
+   "pause": 4.6
+  },
+  {
+   "beat": "6 what you get and what you bring",
+   "text": "You get the full system: the engine, the cast, seven sets, the scripts, and the guides that tie it together. You bring your own ElevenLabs and Claude access. No keys come inside."
+  },
+  {
+   "beat": "7 call to action",
+   "text": "One line in. One finished video out. Get the full system. Link in the description."
+  }
+ ],
+ "science": [
+  {
+   "claim": "Making one animated video can feel like a full time job.",
+   "working": "Opinion, not a statistic: no figure is stated or implied. Kept as a feeling, not a number.",
+   "source": "none needed (no number)"
+  },
+  {
+   "claim": "One topic line in, one finished animated video out.",
+   "working": "The pipeline takes a topic line and produces a mastered video: script, voice, shot list, storyboard, animation, sound, master.",
+   "source": "skill brief SKILL.md, description and section 3"
+  },
+  {
+   "claim": "The pipeline cuts a shot list on every word, and a cut lands two frames before its cue word.",
+   "working": "plan.py resolves each edit cue against word timings; lead defaults to 2 frames (LEAD = ep.get('lead', 2)).",
+   "source": "scripts/plan.py"
+  },
+  {
+   "claim": "A storyboard is checked before anything renders.",
+   "working": "Steps 4 and 5 (stills, then the look self-check) come before the video render; the brief says no video render until the stills pass.",
+   "source": "SKILL.md sections 0 and 3; references/look.md"
+  },
+  {
+   "claim": "Every frame is animated in code.",
+   "working": "Each shot is a React/SVG component, a pure function of its clock t, rendered by Remotion.",
+   "source": "src/engine/episode.tsx; references/kit.md"
+  },
+  {
+   "claim": "The sound is built to match: effects are cued to shots and words.",
+   "working": "sound.events use cues such as S3+2 or a word; sfx.py resolves them to frames.",
+   "source": "references/sound.md; references/machine.md"
+  },
+  {
+   "claim": "The audio is mastered to minus fourteen LUFS, true peak under minus one dBTP.",
+   "working": "master.py brings the mix to -14 LUFS integrated, true peak -1 dBTP (loudnorm).",
+   "source": "SKILL.md step 8; references/machine.md (master.py)"
+  },
+  {
+   "claim": "The system includes seven sets.",
+   "working": "src/engine/index.ts exports: study, stairwell, classroom, rooftop, kitchen, schematic, bedroom = 7. Re-count before publishing if sets are added.",
+   "source": "src/engine/index.ts"
+  },
+  {
+   "claim": "The system includes the engine, the cast, the scripts and the guides.",
+   "working": "engine/ (rig, props, light, room, ui), cast = LOOKS (pip, pipHood, pipInk, mo, sis, mom, suit), scripts/ (voice, plan, stills, board, sfx, mixcheck, master), references/ (formula, look, kit, sound, traps).",
+   "source": "bundle contents; SKILL.md section 1 and Where an episode lives"
+  },
+  {
+   "claim": "Buyers bring their own ElevenLabs and Claude access; no keys are bundled.",
+   "working": "The brief forbids bundling anyone's API key; keys are read from the environment or a .env by name only.",
+   "source": "SKILL.md section 5; scripts/wi.py api_key()"
+  },
+  {
+   "claim": "The clip shown is a real episode.",
+   "working": "S24 to S27 are shots 15, 16, 17 and 11 of src/episodes/glimpse60/shots.tsx, drawn by this engine.",
+   "source": "src/episodes/glimpse60/shots.tsx"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "study",
+   "key": 14,
+   "note": "Pip slumped at the desk"
+  },
+  {
+   "id": "S2",
+   "size": "close-up",
+   "set": "study (blurred)",
+   "key": 10,
+   "note": "Pip, tired, face fills the frame"
+  },
+  {
+   "id": "S3",
+   "size": "insert, top-down",
+   "set": "tabletop",
+   "key": 20,
+   "note": "a page writing itself, a pile growing"
+  },
+  {
+   "id": "S4",
+   "size": "medium",
+   "set": "study",
+   "key": 12,
+   "note": "Mo with headphones, a REC chip"
+  },
+  {
+   "id": "S5",
+   "size": "insert",
+   "set": "schematic",
+   "key": 24,
+   "note": "a timeline clip gets cut"
+  },
+  {
+   "id": "S6",
+   "size": "insert, close",
+   "set": "schematic",
+   "key": 12,
+   "note": "sound bars pulsing"
+  },
+  {
+   "id": "S7",
+   "size": "insert",
+   "set": "schematic",
+   "key": 22,
+   "note": "export bar fills to 100%"
+  },
+  {
+   "id": "S8",
+   "size": "medium",
+   "set": "study",
+   "key": 14,
+   "note": "Pip face down on the desk, dizzy"
+  },
+  {
+   "id": "S9",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 12,
+   "note": "Pip points at us, sparkle"
+  },
+  {
+   "id": "S10",
+   "size": "insert",
+   "set": "schematic",
+   "key": 28,
+   "note": "terminal: the topic line starts to type"
+  },
+  {
+   "id": "S11",
+   "size": "close-up",
+   "set": "schematic",
+   "key": 20,
+   "note": "the finished line, caret, ENTER toast"
+  },
+  {
+   "id": "S12",
+   "size": "wide",
+   "set": "study",
+   "key": 30,
+   "note": "title card: WHAT IF YOU COULD / SEE ONE MINUTE AHEAD?"
+  },
+  {
+   "id": "S13",
+   "size": "insert",
+   "set": "schematic",
+   "key": 30,
+   "note": "the eight steps pop on"
+  },
+  {
+   "id": "S14",
+   "size": "insert, high",
+   "set": "schematic",
+   "key": 40,
+   "note": "step 1: episode.json typed, real field names"
+  },
+  {
+   "id": "S15",
+   "size": "insert",
+   "set": "schematic",
+   "key": 24,
+   "note": "step 2: voice.wav waveform, words.json toast"
+  },
+  {
+   "id": "S16",
+   "size": "macro",
+   "set": "schematic",
+   "key": 20,
+   "note": "step 3: word chips, cut ticks, CUT LANDS 2 FRAMES EARLY"
+  },
+  {
+   "id": "S17",
+   "size": "insert",
+   "set": "schematic",
+   "key": 20,
+   "note": "step 4: six storyboard stills pop on"
+  },
+  {
+   "id": "S18",
+   "size": "close-up",
+   "set": "schematic",
+   "key": 20,
+   "note": "one still, OK with a tick"
+  },
+  {
+   "id": "S19",
+   "size": "insert, low",
+   "set": "schematic",
+   "key": 20,
+   "note": "a film strip rolls, a frame counter runs"
+  },
+  {
+   "id": "S20",
+   "size": "medium",
+   "set": "schematic",
+   "key": 30,
+   "note": "shots.tsx typing next to the frame it draws"
+  },
+  {
+   "id": "S21",
+   "size": "insert",
+   "set": "schematic",
+   "key": 20,
+   "note": "sfx.py: hit markers sit on the cuts"
+  },
+  {
+   "id": "S22",
+   "size": "close-up",
+   "set": "schematic",
+   "key": 24,
+   "note": "dial: -14 LUFS, true peak under -1 dBTP"
+  },
+  {
+   "id": "S23",
+   "size": "wide",
+   "set": "slate",
+   "key": 12,
+   "note": "play button slate"
+  },
+  {
+   "id": "S24",
+   "size": "wide",
+   "set": "glimpse60 S15",
+   "key": 20,
+   "note": "real clip: Pip hops the puddle"
+  },
+  {
+   "id": "S25",
+   "size": "insert, top-down",
+   "set": "glimpse60 S16",
+   "key": 14,
+   "note": "real clip: the paper gets its A+"
+  },
+  {
+   "id": "S26",
+   "size": "medium, low",
+   "set": "glimpse60 S17",
+   "key": 12,
+   "note": "real clip: arms up on the roof"
+  },
+  {
+   "id": "S27",
+   "size": "medium",
+   "set": "glimpse60 S11",
+   "key": 12,
+   "note": "real clip: Pip leans back, phone buzzing"
+  },
+  {
+   "id": "S28",
+   "size": "wide",
+   "set": "schematic",
+   "key": 24,
+   "note": "THE FULL SYSTEM, five slots"
+  },
+  {
+   "id": "S29",
+   "size": "insert",
+   "set": "schematic",
+   "key": 20,
+   "note": "ENGINE lit, file names"
+  },
+  {
+   "id": "S30",
+   "size": "medium wide",
+   "set": "cast lineup",
+   "key": 12,
+   "note": "Pip, Mo, Sis, Mom, Suit"
+  },
+  {
+   "id": "S31",
+   "size": "insert",
+   "set": "schematic",
+   "key": 30,
+   "note": "seven set tiles"
+  },
+  {
+   "id": "S32",
+   "size": "insert, high",
+   "set": "schematic",
+   "key": 34,
+   "note": "six scripts, each with a tick"
+  },
+  {
+   "id": "S33",
+   "size": "insert, low",
+   "set": "schematic",
+   "key": 30,
+   "note": "five guide pages fan out"
+  },
+  {
+   "id": "S34",
+   "size": "insert",
+   "set": "schematic",
+   "key": 30,
+   "note": "ELEVENLABS and CLAUDE: YOUR OWN ACCESS, ticks"
+  },
+  {
+   "id": "S35",
+   "size": "close-up",
+   "set": "schematic",
+   "key": 22,
+   "note": "a key with a line through it: NO KEYS INSIDE"
+  },
+  {
+   "id": "S36",
+   "size": "medium",
+   "set": "schematic",
+   "key": 20,
+   "note": "ONE LINE IN, the topic line under it"
+  },
+  {
+   "id": "S37",
+   "size": "wide",
+   "set": "slate",
+   "key": 24,
+   "note": "a finished video, play bar full: ONE FINISHED VIDEO OUT"
+  },
+  {
+   "id": "S38",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 30,
+   "note": "Pip waves, GET THE FULL SYSTEM"
+  },
+  {
+   "id": "S39",
+   "size": "insert",
+   "set": "schematic",
+   "key": 20,
+   "note": "LINK IN THE DESCRIPTION, arrow down"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "feel"
+  },
+  {
+   "shot": "S3",
+   "at": "Writing"
+  },
+  {
+   "shot": "S4",
+   "at": "Recording"
+  },
+  {
+   "shot": "S5",
+   "at": "Cutting"
+  },
+  {
+   "shot": "S6",
+   "at": "Adding"
+  },
+  {
+   "shot": "S7",
+   "at": "Exporting"
+  },
+  {
+   "shot": "S8",
+   "at": "Then"
+  },
+  {
+   "shot": "S9",
+   "at": "Now"
+  },
+  {
+   "shot": "S10",
+   "at": "Type"
+  },
+  {
+   "shot": "S11",
+   "at": "What"
+  },
+  {
+   "shot": "S12",
+   "at": "see"
+  },
+  {
+   "shot": "S13",
+   "at": "The"
+  },
+  {
+   "shot": "S14",
+   "at": "writes"
+  },
+  {
+   "shot": "S15",
+   "at": "Records"
+  },
+  {
+   "shot": "S16",
+   "at": "Cuts"
+  },
+  {
+   "shot": "S17",
+   "at": "Then"
+  },
+  {
+   "shot": "S18",
+   "at": "check"
+  },
+  {
+   "shot": "S19",
+   "at": "Every"
+  },
+  {
+   "shot": "S20",
+   "at": "animated"
+  },
+  {
+   "shot": "S21",
+   "at": "sound"
+  },
+  {
+   "shot": "S22",
+   "at": "mastered"
+  },
+  {
+   "shot": "S23",
+   "at": "And"
+  },
+  {
+   "shot": "S24",
+   "at": "this+2"
+  },
+  {
+   "shot": "S25",
+   "at": "+36"
+  },
+  {
+   "shot": "S26",
+   "at": "+36"
+  },
+  {
+   "shot": "S27",
+   "at": "+36"
+  },
+  {
+   "shot": "S28",
+   "at": "full"
+  },
+  {
+   "shot": "S29",
+   "at": "engine"
+  },
+  {
+   "shot": "S30",
+   "at": "cast"
+  },
+  {
+   "shot": "S31",
+   "at": "seven"
+  },
+  {
+   "shot": "S32",
+   "at": "scripts"
+  },
+  {
+   "shot": "S33",
+   "at": "guides"
+  },
+  {
+   "shot": "S34",
+   "at": "bring"
+  },
+  {
+   "shot": "S35",
+   "at": "keys"
+  },
+  {
+   "shot": "S36",
+   "at": "One"
+  },
+  {
+   "shot": "S37",
+   "at": "finished"
+  },
+  {
+   "shot": "S38",
+   "at": "Get"
+  },
+  {
+   "shot": "S39",
+   "at": "Link"
+  }
+ ],
+ "tail": 1.0,
+ "fx": [
+  {
+   "at": "S23+2",
+   "kind": "flash",
+   "color": "#FFFFFF",
+   "o": 0.45
+  },
+  {
+   "at": "S38+2",
+   "kind": "flash",
+   "color": "#FFE7B3",
+   "o": 0.4
+  }
+ ],
+ "sound": {
+  "clips": {
+   "key_tick": [
+    "a single crisp mechanical keyboard key click, very short, no voices",
+    0.5
+   ],
+   "whoosh": [
+    "a short soft airy whoosh transition, no voices",
+    0.6
+   ],
+   "pop": [
+    "a soft bright digital UI pop, short",
+    0.5
+   ],
+   "chime": [
+    "a bright short confirmation chime, two soft notes",
+    0.8
+   ],
+   "click_cut": [
+    "a sharp short click like a clip being cut on an editing timeline",
+    0.5
+   ],
+   "thud_soft": [
+    "a soft low thud impact, short and muffled",
+    0.8
+   ],
+   "title_hit": [
+    "a cinematic whoosh rising into a deep boom impact, short",
+    1.4
+   ],
+   "music": [
+    "light modern upbeat background music for a tech product video, soft plucked synth, gentle beat, 100 bpm, no vocals",
+    17.0
+   ]
+  },
+  "events": [
+   [
+    "S4-4",
+    "pop",
+    0.25
+   ],
+   [
+    "S5-4",
+    "pop",
+    0.25
+   ],
+   [
+    "S5+21",
+    "click_cut",
+    0.5
+   ],
+   [
+    "S6-4",
+    "pop",
+    0.25
+   ],
+   [
+    "S7-4",
+    "pop",
+    0.25
+   ],
+   [
+    "S7+24",
+    "chime",
+    0.35
+   ],
+   [
+    "S8-4",
+    "whoosh",
+    0.2,
+    "peak"
+   ],
+   [
+    "S8+12",
+    "thud_soft",
+    0.3
+   ],
+   [
+    "S11+16",
+    "pop",
+    0.4
+   ],
+   [
+    "S12+8",
+    "whoosh",
+    0.3,
+    "peak"
+   ],
+   [
+    "S15+20",
+    "chime",
+    0.3
+   ],
+   [
+    "S18+16",
+    "chime",
+    0.4
+   ],
+   [
+    "S19+3",
+    "whoosh",
+    0.25,
+    "peak"
+   ],
+   [
+    "S22+23",
+    "chime",
+    0.4
+   ],
+   [
+    "S23+4",
+    "thud_soft",
+    0.35
+   ],
+   [
+    "S29+2",
+    "thud_soft",
+    0.3
+   ],
+   [
+    "S33+3",
+    "whoosh",
+    0.25,
+    "peak"
+   ],
+   [
+    "S34+2",
+    "pop",
+    0.3
+   ],
+   [
+    "S34+18",
+    "chime",
+    0.3
+   ],
+   [
+    "S35+14",
+    "thud_soft",
+    0.4
+   ],
+   [
+    "S38+4",
+    "title_hit",
+    0.5,
+    "peak"
+   ]
+  ],
+  "repeats": [
+   {
+    "at": "S10+2",
+    "clip": "key_tick",
+    "n": 16,
+    "every": 2,
+    "gain": [
+     0.2,
+     0.35
+    ],
+    "pitch": [
+     0.9,
+     1.1
+    ]
+   },
+   {
+    "at": "S13+3",
+    "clip": "pop",
+    "n": 8,
+    "every": 3,
+    "gain": [
+     0.15,
+     0.3
+    ],
+    "pitch": [
+     0.9,
+     1.2
+    ]
+   },
+   {
+    "at": "S14+2",
+    "clip": "key_tick",
+    "n": 24,
+    "every": 2,
+    "gain": [
+     0.2,
+     0.35
+    ],
+    "pitch": [
+     0.9,
+     1.1
+    ]
+   },
+   {
+    "at": "S17+3",
+    "clip": "pop",
+    "n": 6,
+    "every": 3,
+    "gain": [
+     0.12,
+     0.25
+    ],
+    "pitch": [
+     0.9,
+     1.2
+    ]
+   },
+   {
+    "at": "S21+8",
+    "clip": "click_cut",
+    "n": 4,
+    "every": 5,
+    "gain": [
+     0.25,
+     0.4
+    ],
+    "pitch": [
+     0.95,
+     1.05
+    ]
+   },
+   {
+    "at": "S28+5",
+    "clip": "pop",
+    "n": 5,
+    "every": 3,
+    "gain": [
+     0.15,
+     0.28
+    ],
+    "pitch": [
+     0.9,
+     1.2
+    ]
+   },
+   {
+    "at": "S30+3",
+    "clip": "pop",
+    "n": 5,
+    "every": 2,
+    "gain": [
+     0.12,
+     0.25
+    ],
+    "pitch": [
+     0.9,
+     1.2
+    ]
+   },
+   {
+    "at": "S31+4",
+    "clip": "pop",
+    "n": 7,
+    "every": 3,
+    "gain": [
+     0.12,
+     0.25
+    ],
+    "pitch": [
+     0.9,
+     1.2
+    ]
+   },
+   {
+    "at": "S32+6",
+    "clip": "pop",
+    "n": 6,
+    "every": 3,
+    "gain": [
+     0.12,
+     0.22
+    ],
+    "pitch": [
+     1.0,
+     1.3
+    ]
+   }
+  ],
+  "music": {
+   "clip": "music"
+  },
+  "levels": {
+   "sfx_lu": -6,
+   "music_lu": -12
+  }
+ }
+}

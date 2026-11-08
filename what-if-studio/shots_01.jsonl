@@ -1,0 +1,28 @@
+{"id":"S1","size":"wide","set":"kitchen","key":18,"note":"Pip at the island, steaming mug, morning light","at":"Right"}
+{"id":"S2","size":"close-up","set":"kitchen","key":14,"note":"Pip's hand flat on the island, thin white arrows pressing down","at":"something"}
+{"id":"S3","size":"insert, low","set":"kitchen","key":12,"note":"chair legs planted on the floor","at":"chair"}
+{"id":"S4","size":"insert, low","set":"kitchen","key":12,"note":"Pip's slippers on the tiles","at":"floor"}
+{"id":"S5","size":"macro insert","set":"kitchen","key":14,"note":"coffee steam curling off the mug","at":"coffee"}
+{"id":"S6","size":"medium","set":"kitchen","key":16,"note":"Pip breathes in, dust motes in window light","at":"air"}
+{"id":"S7","size":"close-up","set":"kitchen","key":14,"note":"Pip looks at us, one eyebrow up","at":"So"}
+{"id":"S8","size":"insert","set":"kitchen (wall)","key":16,"note":"wall switch marked G, Pip's finger hovering (new prop)","at":"gravity"}
+{"id":"S9","size":"insert","set":"kitchen (wall)","key":12,"note":"big numeral 10 pops over the switch","at":"ten"}
+{"id":"S10","size":"medium","set":"kitchen","key":14,"note":"Pip shakes his head","at":"Not"}
+{"id":"S11","size":"insert","set":"kitchen (wall)","key":12,"note":"clock face, 10 seconds highlighted","at":"Just"}
+{"id":"S12","size":"wide","set":"kitchen","key":20,"note":"Tuesday calendar on the wall, cat on the counter","at":"normal"}
+{"id":"S13","size":"close-up","set":"kitchen","key":14,"note":"Pip gulps","at":"Ready"}
+{"id":"S14","size":"insert","set":"kitchen (wall)","key":10,"note":"finger on the switch, numeral 3","at":"Three"}
+{"id":"S15","size":"insert","set":"kitchen (wall)","key":10,"note":"numeral 2","at":"Two"}
+{"id":"S16","size":"insert","set":"kitchen (wall)","key":10,"note":"numeral 1","at":"One"}
+{"id":"S17","size":"wide","set":"kitchen","key":20,"note":"switch flips, white flash, dust lifts","at":"Gone","fx":"flash"}
+{"id":"S18","size":"insert","set":"schematic","key":14,"note":"MYTH stamp slams onto a rocket-Pip drawing","at":"First"}
+{"id":"S19","size":"medium","set":"kitchen","key":16,"note":"movie version: Pip shooting up through the ceiling, red cross over it","at":"shoot"}
+{"id":"S20","size":"wide","set":"study","key":18,"note":"Mo on the sofa with popcorn, movie screen shows a launching Pip","at":"Movies"}
+{"id":"S21","size":"close-up","set":"study","key":14,"note":"Mo shakes his head","at":"but"}
+{"id":"S22","size":"wide","set":"schematic","key":20,"note":"Earth, tiny Pip standing on top, arrow pointing down","at":"Gravity"}
+{"id":"S23","size":"insert","set":"schematic","key":14,"note":"a rope pulls Pip down, then the rope snaps away","at":"rope"}
+{"id":"S24","size":"wide","set":"schematic","key":22,"note":"a curved dotted path wraps around the Earth","at":"bending"}
+{"id":"S25","size":"high wide","set":"schematic","key":22,"note":"Pip walks around the globe, path curving with it","at":"planet"}
+{"id":"S26","size":"insert","set":"kitchen (wall)","key":12,"note":"hand flips the G switch","at":"Switch"}
+{"id":"S27","size":"wide","set":"schematic","key":24,"note":"the curved path breaks and a straight line shoots off","at":"stop"}
+{"id":"S28","size":"wide","set":"schematic","key":26,"note":"straight arrow leaves the circle, label STRAIGHT LINE","at":"straight"}

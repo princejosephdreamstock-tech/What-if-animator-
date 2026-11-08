@@ -1,0 +1,852 @@
+[
+ {
+  "name": "sparkle",
+  "prompt": "a short bright magical sparkle twinkle, cartoon",
+  "secs": 0.8,
+  "used_in": [
+   "copy-paste",
+   "glimpse",
+   "glimpse60",
+   "promo1108c",
+   "rewind"
+  ],
+  "file": "sparkle-595dbfb7.mp3",
+  "cached": true,
+  "lufs": -24.8,
+  "peak": -9.5
+ },
+ {
+  "name": "pop",
+  "prompt": "a cartoon speech bubble pop, short and bright",
+  "secs": 0.5,
+  "used_in": [
+   "copy-paste",
+   "glimpse",
+   "glimpse60",
+   "promo1108c",
+   "rewind"
+  ],
+  "file": "pop-99ba70e6.mp3",
+  "cached": true,
+  "lufs": -57.5,
+  "peak": -40.6
+ },
+ {
+  "name": "cat_chirp",
+  "prompt": "a cat making a short curious chirp meow",
+  "secs": 0.6,
+  "used_in": [
+   "copy-paste",
+   "glimpse",
+   "glimpse60",
+   "rewind"
+  ],
+  "file": "cat_chirp-bb7d4731.mp3",
+  "cached": true,
+  "lufs": -12.0,
+  "peak": -3.3
+ },
+ {
+  "name": "title_boom",
+  "prompt": "a cinematic whoosh rising into a deep boom impact",
+  "secs": 1.6,
+  "used_in": [
+   "copy-paste",
+   "glimpse",
+   "glimpse60",
+   "rewind"
+  ],
+  "file": "title_boom-91f4f23e.mp3",
+  "cached": true,
+  "lufs": -11.7,
+  "peak": -0.1
+ },
+ {
+  "name": "drone_hit",
+  "prompt": "a dark ominous low drone hit, deep cinematic horror sting",
+  "secs": 2.6,
+  "used_in": [
+   "copy-paste",
+   "glimpse",
+   "glimpse60",
+   "rewind"
+  ],
+  "file": "drone_hit-75f05067.mp3",
+  "cached": true,
+  "lufs": -8.8,
+  "peak": -0.2
+ },
+ {
+  "name": "bulb_pop",
+  "prompt": "a small light bulb popping out, a tiny glass tink and fizz",
+  "secs": 0.5,
+  "used_in": [
+   "copy-paste",
+   "glimpse",
+   "glimpse60",
+   "rewind"
+  ],
+  "file": "bulb_pop-2ea0e2d7.mp3",
+  "cached": true,
+  "lufs": -52.2,
+  "peak": -40.3
+ },
+ {
+  "name": "room_tone",
+  "prompt": "quiet indoor room tone in the evening, faint distant city hum, no voices",
+  "secs": 12.5,
+  "used_in": [
+   "copy-paste",
+   "glimpse",
+   "glimpse60",
+   "rewind"
+  ],
+  "file": "room_tone-e711a45f.mp3",
+  "cached": true,
+  "lufs": -66.4,
+  "peak": -48.3
+ },
+ {
+  "name": "roof_wind",
+  "prompt": "a gentle evening breeze on a city rooftop, distant traffic",
+  "secs": 7.0,
+  "used_in": [
+   "copy-paste",
+   "glimpse",
+   "glimpse60",
+   "rewind"
+  ],
+  "file": "roof_wind-cedc7edc.mp3",
+  "cached": true,
+  "lufs": -40.1,
+  "peak": -26.1
+ },
+ {
+  "name": "music",
+  "prompt": "playful quirky cartoon background music, pizzicato strings, glockenspiel and soft bass, light and curious, 110 bpm, no vocals",
+  "secs": 17.0,
+  "used_in": [
+   "copy-paste",
+   "glimpse",
+   "glimpse60",
+   "promo1108b",
+   "promo1108c",
+   "rewind"
+  ],
+  "file": "music-4cdabe20.mp3",
+  "cached": true,
+  "lufs": -12.6,
+  "peak": 0.1
+ },
+ {
+  "name": "select_draw",
+  "prompt": "a quick digital selection sound, a soft rising electronic shimmer as a box is drawn on screen, short",
+  "secs": 0.6,
+  "used_in": [
+   "copy-paste",
+   "glimpse",
+   "glimpse60",
+   "promo1108a",
+   "promo1108c"
+  ],
+  "file": "select_draw-234903d8.mp3",
+  "cached": true,
+  "lufs": -26.6,
+  "peak": -12.2
+ },
+ {
+  "name": "copy_click",
+  "prompt": "a crisp satisfying computer copy click with a tiny soft digital chime, short",
+  "secs": 0.5,
+  "used_in": [
+   "copy-paste"
+  ],
+  "file": "copy_click-6f20900a.mp3",
+  "cached": true,
+  "lufs": -34.1,
+  "peak": -18.0
+ },
+ {
+  "name": "paste_pop",
+  "prompt": "a bright magical pop as an object appears out of thin air, a soft shimmering whoosh into a pop",
+  "secs": 0.7,
+  "used_in": [
+   "copy-paste"
+  ],
+  "file": "paste_pop-0efc15e9.mp3",
+  "cached": true,
+  "lufs": -22.1,
+  "peak": -7.0
+ },
+ {
+  "name": "paper_land",
+  "prompt": "a thick stack of paper sheets dropped flat on a wooden desk, a soft slap and rustle",
+  "secs": 0.7,
+  "used_in": [
+   "copy-paste"
+  ],
+  "file": "paper_land-e0d75d32.mp3",
+  "cached": true,
+  "lufs": -60.8,
+  "peak": -44.7
+ },
+ {
+  "name": "gasp",
+  "prompt": "two young people gasping in surprise at the same moment, cartoon, short",
+  "secs": 0.8,
+  "used_in": [
+   "copy-paste",
+   "glimpse",
+   "glimpse60"
+  ],
+  "file": "gasp-372b408b.mp3",
+  "cached": true,
+  "lufs": -20.3,
+  "peak": -3.3
+ },
+ {
+  "name": "gulp",
+  "prompt": "a nervous cartoon gulp, short",
+  "secs": 0.5,
+  "used_in": [
+   "copy-paste"
+  ],
+  "file": "gulp-c9154a14.mp3",
+  "cached": true,
+  "lufs": -20.8,
+  "peak": -5.9
+ },
+ {
+  "name": "cookie_crunch",
+  "prompt": "one crunchy bite into a chocolate chip cookie, close up",
+  "secs": 0.6,
+  "used_in": [
+   "copy-paste"
+  ],
+  "file": "cookie_crunch-265c6a17.mp3",
+  "cached": true,
+  "lufs": -15.2,
+  "peak": -0.2
+ },
+ {
+  "name": "glitch",
+  "prompt": "a short digital glitch, an electric buzz and crackle flickering like an unstable hologram",
+  "secs": 1.5,
+  "used_in": [
+   "copy-paste",
+   "glimpse",
+   "glimpse60"
+  ],
+  "file": "glitch-4bc7163d.mp3",
+  "cached": true,
+  "lufs": -7.6,
+  "peak": 1.8
+ },
+ {
+  "name": "counter_tick",
+  "prompt": "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+  "secs": 1.6,
+  "used_in": [
+   "copy-paste",
+   "glimpse",
+   "glimpse60",
+   "promo1108a"
+  ],
+  "file": "counter_tick-37ca9370.mp3",
+  "cached": true,
+  "lufs": -20.4,
+  "peak": -5.8
+ },
+ {
+  "name": "power_hum",
+  "prompt": "a deep electrical power grid hum swelling louder, transformers buzzing, rising",
+  "secs": 3.0,
+  "used_in": [
+   "copy-paste",
+   "glimpse",
+   "glimpse60"
+  ],
+  "file": "power_hum-ae629acb.mp3",
+  "cached": true,
+  "lufs": -14.2,
+  "peak": -5.1
+ },
+ {
+  "name": "power_down",
+  "prompt": "a whole city losing power, a deep electrical power-down whine dropping in pitch into silence",
+  "secs": 2.5,
+  "used_in": [
+   "copy-paste",
+   "glimpse",
+   "glimpse60"
+  ],
+  "file": "power_down-46ef6bed.mp3",
+  "cached": true,
+  "lufs": -10.4,
+  "peak": -1.8
+ },
+ {
+  "name": "switch_off",
+  "prompt": "a heavy electrical breaker switching off with a dull clunk",
+  "secs": 0.5,
+  "used_in": [
+   "copy-paste",
+   "glimpse",
+   "glimpse60"
+  ],
+  "file": "switch_off-9588c15a.mp3",
+  "cached": true,
+  "lufs": -15.9,
+  "peak": -0.7
+ },
+ {
+  "name": "glimpse_hum",
+  "prompt": "a soft electronic hum rising and falling, like a sensor charging, short, cartoon",
+  "secs": 0.7,
+  "used_in": [
+   "glimpse",
+   "glimpse60"
+  ],
+  "file": "glimpse_hum-b7137a6c.mp3",
+  "cached": true,
+  "lufs": -9.2,
+  "peak": 1.5
+ },
+ {
+  "name": "glimpse_pop",
+  "prompt": "a bright cyan magical pop as a future image locks in, a soft shimmering whoosh into a pop",
+  "secs": 0.6,
+  "used_in": [
+   "glimpse",
+   "glimpse60"
+  ],
+  "file": "glimpse_pop-c66458a7.mp3",
+  "cached": true,
+  "lufs": -46.2,
+  "peak": -27.8
+ },
+ {
+  "name": "bus_brake",
+  "prompt": "a city bus air brakes hissing, doors folding open with a pneumatic sigh",
+  "secs": 1.0,
+  "used_in": [
+   "glimpse",
+   "glimpse60"
+  ],
+  "file": "bus_brake-23860d0d.mp3",
+  "cached": true,
+  "lufs": -10.3,
+  "peak": -0.4
+ },
+ {
+  "name": "footsteps_sprint",
+  "prompt": "quick sprinting footsteps on concrete, three to four steps, urgent",
+  "secs": 0.8,
+  "used_in": [
+   "glimpse",
+   "glimpse60"
+  ],
+  "file": "footsteps_sprint-ea517872.mp3",
+  "cached": true,
+  "lufs": -20.6,
+  "peak": -0.5
+ },
+ {
+  "name": "mug_clink",
+  "prompt": "a ceramic coffee mug caught by a hand, soft clink and thud of ceramic on skin",
+  "secs": 0.5,
+  "used_in": [
+   "glimpse",
+   "glimpse60"
+  ],
+  "file": "mug_clink-7b0c998e.mp3",
+  "cached": true,
+  "lufs": -42.4,
+  "peak": -27.5
+ },
+ {
+  "name": "whoosh_fast",
+  "prompt": "a fast whoosh of air as a hand snatches something mid-fall, short",
+  "secs": 0.5,
+  "used_in": [
+   "glimpse",
+   "glimpse60"
+  ],
+  "file": "whoosh_fast-d9f308a5.mp3",
+  "cached": true,
+  "lufs": -18.4,
+  "peak": 0.2
+ },
+ {
+  "name": "phone_buzz",
+  "prompt": "a phone vibrating on a wooden desk, two short buzzes",
+  "secs": 1.0,
+  "used_in": [
+   "glimpse60"
+  ],
+  "file": "phone_buzz-951dd869.mp3",
+  "cached": true,
+  "lufs": -2.7,
+  "peak": 0.2
+ },
+ {
+  "name": "headache_throb",
+  "prompt": "a dull low pounding throb like a heartbeat in the head, slow, muffled",
+  "secs": 2.0,
+  "used_in": [
+   "glimpse60"
+  ],
+  "file": "headache_throb-7edec2cc.mp3",
+  "cached": true,
+  "lufs": -20.1,
+  "peak": -3.2
+ },
+ {
+  "name": "ring_tone",
+  "prompt": "a high thin ringing in the ears, a steady whine slowly fading in",
+  "secs": 2.5,
+  "used_in": [
+   "glimpse60"
+  ],
+  "file": "ring_tone-578e0e30.mp3",
+  "cached": true,
+  "lufs": -11.0,
+  "peak": -3.9
+ },
+ {
+  "name": "key_tick",
+  "prompt": "a single crisp mechanical keyboard key click, very short, no voices",
+  "secs": 0.5,
+  "used_in": [
+   "promo",
+   "promo1108a",
+   "promo1108b",
+   "promo1108c",
+   "promo2",
+   "promo3"
+  ],
+  "file": "key_tick-6570260e.mp3",
+  "cached": true,
+  "lufs": -27.1,
+  "peak": -8.3
+ },
+ {
+  "name": "whoosh",
+  "prompt": "a short soft airy whoosh transition, no voices",
+  "secs": 0.6,
+  "used_in": [
+   "promo",
+   "promo1108a",
+   "promo1108c",
+   "promo2",
+   "promo3"
+  ],
+  "file": "whoosh-b8174ef5.mp3",
+  "cached": true,
+  "lufs": -23.9,
+  "peak": -4.0
+ },
+ {
+  "name": "pop",
+  "prompt": "a soft bright digital UI pop, short",
+  "secs": 0.5,
+  "used_in": [
+   "promo",
+   "promo2"
+  ],
+  "file": "pop-34e8102c.mp3",
+  "cached": true,
+  "lufs": -25.1,
+  "peak": -12.9
+ },
+ {
+  "name": "chime",
+  "prompt": "a bright short confirmation chime, two soft notes",
+  "secs": 0.8,
+  "used_in": [
+   "promo",
+   "promo1108a",
+   "promo1108b",
+   "promo1108c",
+   "promo2",
+   "promo3"
+  ],
+  "file": "chime-e62d2590.mp3",
+  "cached": true,
+  "lufs": -15.6,
+  "peak": -0.9
+ },
+ {
+  "name": "click_cut",
+  "prompt": "a sharp short click like a clip being cut on an editing timeline",
+  "secs": 0.5,
+  "used_in": [
+   "promo",
+   "promo2"
+  ],
+  "file": "click_cut-06e0b0c3.mp3",
+  "cached": true,
+  "lufs": -20.0,
+  "peak": -0.9
+ },
+ {
+  "name": "thud_soft",
+  "prompt": "a soft low thud impact, short and muffled",
+  "secs": 0.8,
+  "used_in": [
+   "promo"
+  ],
+  "file": "thud_soft-e889cc18.mp3",
+  "cached": true,
+  "lufs": -39.2,
+  "peak": -20.5
+ },
+ {
+  "name": "title_hit",
+  "prompt": "a cinematic whoosh rising into a deep boom impact, short",
+  "secs": 1.4,
+  "used_in": [
+   "promo"
+  ],
+  "file": "title_hit-51d2d6a7.mp3",
+  "cached": true,
+  "lufs": -10.1,
+  "peak": 0.4
+ },
+ {
+  "name": "music",
+  "prompt": "light modern upbeat background music for a tech product video, soft plucked synth, gentle beat, 100 bpm, no vocals",
+  "secs": 17.0,
+  "used_in": [
+   "promo"
+  ],
+  "file": "music-0b9f2e6f.mp3",
+  "cached": true,
+  "lufs": -12.8,
+  "peak": -0.1
+ },
+ {
+  "name": "low_tone",
+  "prompt": "a soft low sine tone with a calm warm decay, short",
+  "secs": 1.5,
+  "used_in": [
+   "promo1108a"
+  ],
+  "file": "low_tone-30673111.mp3",
+  "cached": true,
+  "lufs": -24.8,
+  "peak": -12.0
+ },
+ {
+  "name": "music",
+  "prompt": "calm minimal electronic background music, soft pulses and warm pads, steady 90 bpm, no vocals",
+  "secs": 17.0,
+  "used_in": [
+   "promo1108a"
+  ],
+  "file": "music-fdb62b8e.mp3",
+  "cached": true,
+  "lufs": -17.9,
+  "peak": -5.0
+ },
+ {
+  "name": "chalk_tap",
+  "prompt": "a soft single chalk tap on a classroom blackboard, short, no voices",
+  "secs": 0.5,
+  "used_in": [
+   "promo1108b"
+  ],
+  "file": "chalk_tap-e1880b3f.mp3",
+  "cached": true,
+  "lufs": -27.4,
+  "peak": -6.2
+ },
+ {
+  "name": "tick",
+  "prompt": "a dry wall clock ticking steadily, a few ticks, no voices",
+  "secs": 2.0,
+  "used_in": [
+   "promo2"
+  ],
+  "file": "tick-383b14ec.mp3",
+  "cached": true,
+  "lufs": -33.4,
+  "peak": -11.6
+ },
+ {
+  "name": "music",
+  "prompt": "light modern background music for a tech product video, soft plucked synth, gentle beat, 100 bpm, no vocals",
+  "secs": 48.0,
+  "used_in": [
+   "promo2"
+  ],
+  "file": "music-86ef295a.mp3",
+  "cached": true,
+  "lufs": -12.0,
+  "peak": 0.2
+ },
+ {
+  "name": "node_snap",
+  "prompt": "a crisp precise mechanical click, a part snapping into a grid, very short, no voices",
+  "secs": 0.5,
+  "used_in": [
+   "promo3"
+  ],
+  "file": "node_snap-2243aae0.mp3",
+  "cached": true,
+  "lufs": -23.7,
+  "peak": -1.4
+ },
+ {
+  "name": "low_tone",
+  "prompt": "a low soft calm tone swelling and fading, smooth, no voices",
+  "secs": 2.0,
+  "used_in": [
+   "promo3"
+  ],
+  "file": "low_tone-2b0140da.mp3",
+  "cached": true,
+  "lufs": -36.7,
+  "peak": -27.1
+ },
+ {
+  "name": "music_calm",
+  "prompt": "calm precise minimal electronic background music for a technical product video, soft pulse, gentle bass, 90 bpm, no vocals",
+  "secs": 17.0,
+  "used_in": [
+   "promo3"
+  ],
+  "file": "music_calm-9e7c9b96.mp3",
+  "cached": true,
+  "lufs": -15.5,
+  "peak": -0.3
+ },
+ {
+  "name": "clink",
+  "prompt": "a ceramic coffee mug knocked by a hand on a wooden desk, short clink and scrape",
+  "secs": 0.7,
+  "used_in": [
+   "rewind"
+  ],
+  "file": "clink-169430e3.mp3",
+  "cached": true,
+  "lufs": -28.8,
+  "peak": -5.5
+ },
+ {
+  "name": "fall_whoosh",
+  "prompt": "a small object falling fast through the air, short soft whoosh",
+  "secs": 0.6,
+  "used_in": [
+   "rewind"
+  ],
+  "file": "fall_whoosh-07978690.mp3",
+  "cached": true,
+  "lufs": -20.6,
+  "peak": -2.2
+ },
+ {
+  "name": "shatter",
+  "prompt": "a ceramic coffee mug smashing on a wooden floor, shards scattering and liquid splash",
+  "secs": 1.3,
+  "used_in": [
+   "rewind"
+  ],
+  "file": "shatter-cde6184c.mp3",
+  "cached": true,
+  "lufs": -28.0,
+  "peak": -13.0
+ },
+ {
+  "name": "rewind",
+  "prompt": "a VHS tape rewinding fast, high whirring tape squeal with mechanical hum",
+  "secs": 1.6,
+  "used_in": [
+   "rewind"
+  ],
+  "file": "rewind-d66d6ba6.mp3",
+  "cached": true,
+  "lufs": -21.3,
+  "peak": -8.3
+ },
+ {
+  "name": "catch",
+  "prompt": "a hand catching a ceramic mug mid-air, soft slap and thud",
+  "secs": 0.5,
+  "used_in": [
+   "rewind"
+  ],
+  "file": "catch-ffb439cd.mp3",
+  "cached": true,
+  "lufs": -64.2,
+  "peak": -42.1
+ },
+ {
+  "name": "step",
+  "prompt": "a single sneaker footstep on a wooden stair, close",
+  "secs": 0.5,
+  "used_in": [
+   "rewind"
+  ],
+  "file": "step-60144e17.mp3",
+  "cached": true,
+  "lufs": -26.0,
+  "peak": -3.8
+ },
+ {
+  "name": "cat_yowl",
+  "prompt": "an angry cat yowl and hiss, short and startled",
+  "secs": 0.9,
+  "used_in": [
+   "rewind"
+  ],
+  "file": "cat_yowl-7cf1658d.mp3",
+  "cached": true,
+  "lufs": -3.8,
+  "peak": -0.2
+ },
+ {
+  "name": "tumble",
+  "prompt": "a cartoon character tumbling down wooden stairs, a quick series of bumps and thuds",
+  "secs": 1.3,
+  "used_in": [
+   "rewind"
+  ],
+  "file": "tumble-d03ef997.mp3",
+  "cached": true,
+  "lufs": -21.8,
+  "peak": -4.9
+ },
+ {
+  "name": "land",
+  "prompt": "a heavy body landing flat on a wooden floor, cartoon thud",
+  "secs": 0.6,
+  "used_in": [
+   "rewind"
+  ],
+  "file": "land-c5089052.mp3",
+  "cached": true,
+  "lufs": -50.3,
+  "peak": -29.5
+ },
+ {
+  "name": "dizzy",
+  "prompt": "cartoon dizzy birds tweeting in a circle after a bonk",
+  "secs": 1.4,
+  "used_in": [
+   "rewind"
+  ],
+  "file": "dizzy-46ba6f40.mp3",
+  "cached": true,
+  "lufs": -9.8,
+  "peak": -0.5
+ },
+ {
+  "name": "big_step",
+  "prompt": "a cartoon exaggerated careful tiptoe step, light airy whoosh",
+  "secs": 0.7,
+  "used_in": [
+   "rewind"
+  ],
+  "file": "big_step-3a4b1795.mp3",
+  "cached": true,
+  "lufs": -20.5,
+  "peak": -4.0
+ },
+ {
+  "name": "buzzer",
+  "prompt": "a game show wrong answer buzzer, short",
+  "secs": 0.8,
+  "used_in": [
+   "rewind"
+  ],
+  "file": "buzzer-0dc58156.mp3",
+  "cached": true,
+  "lufs": -8.3,
+  "peak": -0.7
+ },
+ {
+  "name": "laugh",
+  "prompt": "a small classroom of kids bursting out laughing",
+  "secs": 1.6,
+  "used_in": [
+   "rewind"
+  ],
+  "file": "laugh-7d80a59f.mp3",
+  "cached": true,
+  "lufs": -10.2,
+  "peak": -0.0
+ },
+ {
+  "name": "ding",
+  "prompt": "a correct answer ding, bright bell chime",
+  "secs": 0.8,
+  "used_in": [
+   "rewind"
+  ],
+  "file": "ding-a322cf81.mp3",
+  "cached": true,
+  "lufs": -17.9,
+  "peak": -4.8
+ },
+ {
+  "name": "shades",
+  "prompt": "cool sunglasses sliding on with a swoosh and a bright metallic glint",
+  "secs": 0.9,
+  "used_in": [
+   "rewind"
+  ],
+  "file": "shades-cdedb72d.mp3",
+  "cached": true,
+  "lufs": -21.0,
+  "peak": -7.0
+ },
+ {
+  "name": "clock_back",
+  "prompt": "a clock ticking very fast then spinning backwards, mechanical ratchet whirr",
+  "secs": 1.6,
+  "used_in": [
+   "rewind"
+  ],
+  "file": "clock_back-d5e3cec1.mp3",
+  "cached": true,
+  "lufs": -31.5,
+  "peak": -13.9
+ },
+ {
+  "name": "crack",
+  "prompt": "glass cracking sharply, the crack spreading across a pane",
+  "secs": 1.1,
+  "used_in": [
+   "rewind"
+  ],
+  "file": "crack-3cbd3c57.mp3",
+  "cached": true,
+  "lufs": -15.1,
+  "peak": 1.3
+ },
+ {
+  "name": "rewind_start",
+  "prompt": "a quick reverse swoosh, like a sound being sucked backwards",
+  "secs": 0.7,
+  "used_in": [
+   "rewind"
+  ],
+  "file": "rewind_start-bbf777d9.mp3",
+  "cached": true,
+  "lufs": -12.7,
+  "peak": 2.0
+ },
+ {
+  "name": "class_murmur",
+  "prompt": "a quiet classroom murmur, kids whispering, chairs shuffling",
+  "secs": 2.0,
+  "used_in": [
+   "rewind"
+  ],
+  "file": "class_murmur-9d579e51.mp3",
+  "cached": true,
+  "lufs": -44.6,
+  "peak": -26.1
+ }
+]

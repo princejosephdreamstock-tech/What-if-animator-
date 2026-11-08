@@ -1,0 +1,31 @@
+{"id": "S91", "size": "macro insert", "set": "sea", "key": 14, "note": "a sheet of water peels off a wave", "at": "sheets"}
+{"id": "S92", "size": "wide", "set": "sea", "key": 20, "note": "a ship rocks as the water loosens under it", "at": "Ships"}
+{"id": "S93", "size": "wide", "set": "underwater", "key": 20, "note": "fish hang in loose water (new set)", "at": "Fish"}
+{"id": "S94", "size": "wide", "set": "sea", "key": 20, "note": "timer 10 s next to the calm-looking sea", "at": "short"}
+{"id": "S95", "size": "wide", "set": "sea", "key": 20, "note": "the whole ocean shimmers and trembles", "at": "trembling"}
+{"id": "S96", "size": "wide", "set": "sky", "key": 20, "note": "a plane cruises above the clouds (new set)", "at": "planes"}
+{"id": "S97", "size": "insert", "set": "sky", "key": 12, "note": "a wing with lift arrows", "at": "wings"}
+{"id": "S98", "size": "wide", "set": "sky", "key": 20, "note": "the plane nose rises into a climb", "at": "climb"}
+{"id": "S99", "size": "medium", "set": "cabin", "key": 16, "note": "passengers lift against their seatbelts (new set)", "at": "Passengers"}
+{"id": "S100", "size": "insert", "set": "cabin", "key": 12, "note": "a drink floats out of a cup", "at": "Drinks"}
+{"id": "S101", "size": "close-up", "set": "cabin", "key": 14, "note": "pilot hands grip the controls", "at": "pilots"}
+{"id": "S102", "size": "close-up", "set": "cabin", "key": 14, "note": "a passenger with wide eyes", "at": "scare"}
+{"id": "S103", "size": "wide", "set": "sky", "key": 20, "note": "the plane small in a huge sky", "at": "far"}
+{"id": "S104", "size": "wide", "set": "rooftop", "key": 20, "note": "Pip and Mo on the parapet, the city rising behind them", "at": "rooftop"}
+{"id": "S105", "size": "wide", "set": "street", "key": 20, "note": "tables lift off a cafe terrace", "at": "Tables"}
+{"id": "S106", "size": "wide", "set": "street", "key": 20, "note": "umbrellas float up", "at": "Umbrellas"}
+{"id": "S107", "size": "wide", "set": "street", "key": 20, "note": "bikes rise from a rack", "at": "Bikes"}
+{"id": "S108", "size": "wide", "set": "street", "key": 20, "note": "laundry lifts off the line", "at": "Laundry"}
+{"id": "S109", "size": "wide", "set": "rooftop", "key": 20, "note": "the city lifting in silence", "at": "silence"}
+{"id": "S110", "size": "high wide", "set": "rooftop", "key": 22, "note": "things rise like snowfall in reverse", "at": "snowfall"}
+{"id": "S111", "size": "insert", "set": "street", "key": 12, "note": "shoes pop off feet", "at": "Shoes"}
+{"id": "S112", "size": "insert", "set": "street", "key": 12, "note": "hats fly off heads", "at": "Hats"}
+{"id": "S113", "size": "close-up", "set": "rooftop", "key": 14, "note": "Mo whispers wow", "at": "quietest"}
+{"id": "S114", "size": "wide", "set": "space", "key": 20, "note": "Earth and Moon pulling back, stars (new set)", "at": "Zoom"}
+{"id": "S115", "size": "wide", "set": "space", "key": 20, "note": "the Moon on its orbit", "at": "Moon"}
+{"id": "S116", "size": "insert", "set": "space", "key": 12, "note": "arrow showing the Moon moving sideways", "at": "sideways"}
+{"id": "S117", "size": "wide", "set": "space", "key": 20, "note": "the orbit path bends around Earth", "at": "bends"}
+{"id": "S118", "size": "wide", "set": "space", "key": 20, "note": "the Moon flies off on a straight line", "at": "flies"}
+{"id": "S119", "size": "insert", "set": "space", "key": 12, "note": "ruler shows 13 cm gap, about a hand", "at": "thirteen"}
+{"id": "S120", "size": "wide", "set": "space", "key": 20, "note": "space station over Earth", "at": "station"}
+{"id": "S121", "size": "wide", "set": "space", "key": 20, "note": "the station drifts off its curved path", "at": "drifts"}

@@ -1,0 +1,729 @@
+{
+ "slug": "promo1108c",
+ "title": "ONE LINE IN ONE VIDEO OUT",
+ "fps": 30,
+ "total": 1906,
+ "segments": [
+  {
+   "shot": "S1",
+   "a": 0,
+   "b": 40,
+   "t0": 0,
+   "t1": 40,
+   "line": ""
+  },
+  {
+   "shot": "S2",
+   "a": 40,
+   "b": 80,
+   "t0": 0,
+   "t1": 40,
+   "line": ""
+  },
+  {
+   "shot": "S3",
+   "a": 80,
+   "b": 124,
+   "t0": 0,
+   "t1": 44,
+   "line": ""
+  },
+  {
+   "shot": "S4",
+   "a": 124,
+   "b": 184,
+   "t0": 0,
+   "t1": 60,
+   "line": "Still dragging clips on a timeline at"
+  },
+  {
+   "shot": "S5",
+   "a": 184,
+   "b": 206,
+   "t0": 0,
+   "t1": 22,
+   "line": "midnight?"
+  },
+  {
+   "shot": "S6",
+   "a": 206,
+   "b": 227,
+   "t0": 0,
+   "t1": 21,
+   "line": "Writing,"
+  },
+  {
+   "shot": "S7",
+   "a": 227,
+   "b": 248,
+   "t0": 0,
+   "t1": 21,
+   "line": "recording,"
+  },
+  {
+   "shot": "S8",
+   "a": 248,
+   "b": 267,
+   "t0": 0,
+   "t1": 19,
+   "line": "cutting,"
+  },
+  {
+   "shot": "S9",
+   "a": 267,
+   "b": 285,
+   "t0": 0,
+   "t1": 18,
+   "line": "mixing,"
+  },
+  {
+   "shot": "S10",
+   "a": 285,
+   "b": 390,
+   "t0": 0,
+   "t1": 105,
+   "line": "exporting, then doing it all again tomorrow. This is for"
+  },
+  {
+   "shot": "S11",
+   "a": 390,
+   "b": 451,
+   "t0": 0,
+   "t1": 61,
+   "line": "faceless creators who are comfortable with"
+  },
+  {
+   "shot": "S12",
+   "a": 451,
+   "b": 483,
+   "t0": 0,
+   "t1": 32,
+   "line": "a terminal. You"
+  },
+  {
+   "shot": "S13",
+   "a": 483,
+   "b": 550,
+   "t0": 0,
+   "t1": 67,
+   "line": "type one topic line. Then the real"
+  },
+  {
+   "shot": "S14",
+   "a": 550,
+   "b": 602,
+   "t0": 0,
+   "t1": 52,
+   "line": "stages run. First,"
+  },
+  {
+   "shot": "S15",
+   "a": 602,
+   "b": 675,
+   "t0": 0,
+   "t1": 73,
+   "line": "it writes the script from your line. Next,"
+  },
+  {
+   "shot": "S16",
+   "a": 675,
+   "b": 704,
+   "t0": 0,
+   "t1": 29,
+   "line": "it records the voice"
+  },
+  {
+   "shot": "S17",
+   "a": 704,
+   "b": 767,
+   "t0": 0,
+   "t1": 63,
+   "line": "and times every single word. Then"
+  },
+  {
+   "shot": "S18",
+   "a": 767,
+   "b": 797,
+   "t0": 0,
+   "t1": 30,
+   "line": "it plans a shot list,"
+  },
+  {
+   "shot": "S19",
+   "a": 797,
+   "b": 865,
+   "t0": 0,
+   "t1": 68,
+   "line": "cut right on the words. Every frame"
+  },
+  {
+   "shot": "S20",
+   "a": 865,
+   "b": 907,
+   "t0": 0,
+   "t1": 42,
+   "line": "is animated in code,"
+  },
+  {
+   "shot": "S21",
+   "a": 907,
+   "b": 977,
+   "t0": 0,
+   "t1": 70,
+   "line": "using your own cast and sets. The"
+  },
+  {
+   "shot": "S22",
+   "a": 977,
+   "b": 1025,
+   "t0": 0,
+   "t1": 48,
+   "line": "sound is built to match, then"
+  },
+  {
+   "shot": "S23",
+   "a": 1025,
+   "b": 1108,
+   "t0": 0,
+   "t1": 83,
+   "line": "mastered to a clean level. Every stage is"
+  },
+  {
+   "shot": "S24",
+   "a": 1108,
+   "b": 1168,
+   "t0": 0,
+   "t1": 60,
+   "line": "a plain script you own. And out"
+  },
+  {
+   "shot": "S25",
+   "a": 1168,
+   "b": 1222,
+   "t0": 0,
+   "t1": 54,
+   "line": "comes your finished video."
+  },
+  {
+   "shot": "S26",
+   "a": 1222,
+   "b": 1233,
+   "t0": 0,
+   "t1": 11,
+   "line": "Take"
+  },
+  {
+   "shot": "S27",
+   "a": 1233,
+   "b": 1265,
+   "t0": 0,
+   "t1": 32,
+   "line": "a good look."
+  },
+  {
+   "shot": "S28",
+   "a": 1265,
+   "b": 1301,
+   "t0": 0,
+   "t1": 36,
+   "line": ""
+  },
+  {
+   "shot": "S29",
+   "a": 1301,
+   "b": 1354,
+   "t0": 0,
+   "t1": 53,
+   "line": "You get"
+  },
+  {
+   "shot": "S30",
+   "a": 1354,
+   "b": 1393,
+   "t0": 0,
+   "t1": 39,
+   "line": "the files you own: the"
+  },
+  {
+   "shot": "S31",
+   "a": 1393,
+   "b": 1414,
+   "t0": 0,
+   "t1": 21,
+   "line": "engine, the"
+  },
+  {
+   "shot": "S32",
+   "a": 1414,
+   "b": 1434,
+   "t0": 0,
+   "t1": 20,
+   "line": "cast, the"
+  },
+  {
+   "shot": "S33",
+   "a": 1434,
+   "b": 1453,
+   "t0": 0,
+   "t1": 19,
+   "line": "sets, the"
+  },
+  {
+   "shot": "S34",
+   "a": 1453,
+   "b": 1475,
+   "t0": 0,
+   "t1": 22,
+   "line": "scripts and"
+  },
+  {
+   "shot": "S35",
+   "a": 1475,
+   "b": 1506,
+   "t0": 0,
+   "t1": 31,
+   "line": "the guides. You"
+  },
+  {
+   "shot": "S36",
+   "a": 1506,
+   "b": 1620,
+   "t0": 0,
+   "t1": 114,
+   "line": "bring your own keys for the voice and the AI writer. No keys come"
+  },
+  {
+   "shot": "S37",
+   "a": 1620,
+   "b": 1700,
+   "t0": 0,
+   "t1": 80,
+   "line": "inside the package, so yours stay yours. One"
+  },
+  {
+   "shot": "S38",
+   "a": 1700,
+   "b": 1743,
+   "t0": 0,
+   "t1": 43,
+   "line": "line in. One finished"
+  },
+  {
+   "shot": "S39",
+   "a": 1743,
+   "b": 1794,
+   "t0": 0,
+   "t1": 51,
+   "line": "video out. Get the full"
+  },
+  {
+   "shot": "S40",
+   "a": 1794,
+   "b": 1839,
+   "t0": 0,
+   "t1": 45,
+   "line": "system. The link is in"
+  },
+  {
+   "shot": "S41",
+   "a": 1839,
+   "b": 1906,
+   "t0": 0,
+   "t1": 67,
+   "line": "the about section."
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "key": 14,
+   "len": 40,
+   "first": 0,
+   "line": "",
+   "note": "sample clip: Pip walks the roof at dusk"
+  },
+  {
+   "id": "S2",
+   "size": "close-up",
+   "key": 14,
+   "len": 40,
+   "first": 40,
+   "line": "",
+   "note": "sample clip: Pip's face, slow push in"
+  },
+  {
+   "id": "S3",
+   "size": "medium low angle",
+   "key": 14,
+   "len": 44,
+   "first": 80,
+   "line": "",
+   "note": "sample clip: Pip and Mo against the sky"
+  },
+  {
+   "id": "S4",
+   "size": "insert",
+   "key": 14,
+   "len": 60,
+   "first": 124,
+   "line": "Still dragging clips on a timeline at",
+   "note": "timeline sticker, a clip slides, 12:00 tag"
+  },
+  {
+   "id": "S5",
+   "size": "close-up",
+   "key": 14,
+   "len": 22,
+   "first": 184,
+   "line": "midnight?",
+   "note": "moon sticker, tired Pip, clock tag"
+  },
+  {
+   "id": "S6",
+   "size": "medium",
+   "key": 18,
+   "len": 21,
+   "first": 206,
+   "line": "Writing,",
+   "note": "page writing itself, WRITE tag"
+  },
+  {
+   "id": "S7",
+   "size": "insert",
+   "key": 18,
+   "len": 21,
+   "first": 227,
+   "line": "recording,",
+   "note": "mic and sound bars, REC tag"
+  },
+  {
+   "id": "S8",
+   "size": "close-up",
+   "key": 18,
+   "len": 19,
+   "first": 248,
+   "line": "cutting,",
+   "note": "film strip and snipping scissors"
+  },
+  {
+   "id": "S9",
+   "size": "top-down insert",
+   "key": 14,
+   "len": 18,
+   "first": 267,
+   "line": "mixing,",
+   "note": "mixer sliders moving"
+  },
+  {
+   "id": "S10",
+   "size": "medium",
+   "key": 24,
+   "len": 105,
+   "first": 285,
+   "line": "exporting, then doing it all again tomorrow. This is for",
+   "note": "export box with a filling bar"
+  },
+  {
+   "id": "S11",
+   "size": "close-up",
+   "key": 14,
+   "len": 61,
+   "first": 390,
+   "line": "faceless creators who are comfortable with",
+   "note": "blank faceless head sticker"
+  },
+  {
+   "id": "S12",
+   "size": "wide",
+   "key": 14,
+   "len": 32,
+   "first": 451,
+   "line": "a terminal. You",
+   "note": "empty terminal, blinking cursor"
+  },
+  {
+   "id": "S13",
+   "size": "close-up",
+   "key": 30,
+   "len": 67,
+   "first": 483,
+   "line": "type one topic line. Then the real",
+   "note": "one topic line typed in"
+  },
+  {
+   "id": "S14",
+   "size": "wide",
+   "key": 40,
+   "len": 52,
+   "first": 550,
+   "line": "stages run. First,",
+   "note": "four stage stickers pop in a row"
+  },
+  {
+   "id": "S15",
+   "size": "medium",
+   "key": 24,
+   "len": 73,
+   "first": 602,
+   "line": "it writes the script from your line. Next,",
+   "note": "script page writes, SCRIPT tag"
+  },
+  {
+   "id": "S16",
+   "size": "close-up",
+   "key": 18,
+   "len": 29,
+   "first": 675,
+   "line": "it records the voice",
+   "note": "mic and voice waves"
+  },
+  {
+   "id": "S17",
+   "size": "top-down insert",
+   "key": 18,
+   "len": 63,
+   "first": 704,
+   "line": "and times every single word. Then",
+   "note": "word chips on a strip, clock"
+  },
+  {
+   "id": "S18",
+   "size": "medium",
+   "key": 24,
+   "len": 30,
+   "first": 767,
+   "line": "it plans a shot list,",
+   "note": "shot list ticks, SHOTS tag"
+  },
+  {
+   "id": "S19",
+   "size": "close-up",
+   "key": 18,
+   "len": 68,
+   "first": 797,
+   "line": "cut right on the words. Every frame",
+   "note": "film strip, scissors, ON THE WORD tag"
+  },
+  {
+   "id": "S20",
+   "size": "wide",
+   "key": 18,
+   "len": 42,
+   "first": 865,
+   "line": "is animated in code,",
+   "note": "code sticker and a screen"
+  },
+  {
+   "id": "S21",
+   "size": "medium",
+   "key": 18,
+   "len": 70,
+   "first": 907,
+   "line": "using your own cast and sets. The",
+   "note": "Pip bust on a sticker disc, YOURS tag"
+  },
+  {
+   "id": "S22",
+   "size": "close-up",
+   "key": 18,
+   "len": 48,
+   "first": 977,
+   "line": "sound is built to match, then",
+   "note": "sound bars, SOUND tag"
+  },
+  {
+   "id": "S23",
+   "size": "insert",
+   "key": 30,
+   "len": 83,
+   "first": 1025,
+   "line": "mastered to a clean level. Every stage is",
+   "note": "level meter rises, tick lands"
+  },
+  {
+   "id": "S24",
+   "size": "wide",
+   "key": 30,
+   "len": 60,
+   "first": 1108,
+   "line": "a plain script you own. And out",
+   "note": "three script file chips"
+  },
+  {
+   "id": "S25",
+   "size": "close-up",
+   "key": 14,
+   "len": 54,
+   "first": 1168,
+   "line": "comes your finished video.",
+   "note": "screen reveal with sparkles"
+  },
+  {
+   "id": "S26",
+   "size": "wide",
+   "key": 14,
+   "len": 11,
+   "first": 1222,
+   "line": "Take",
+   "note": "sample clip again: Mo crosses the roof"
+  },
+  {
+   "id": "S27",
+   "size": "close-up",
+   "key": 14,
+   "len": 32,
+   "first": 1233,
+   "line": "a good look.",
+   "note": "sample clip again: Mo's face"
+  },
+  {
+   "id": "S28",
+   "size": "medium low angle",
+   "key": 14,
+   "len": 36,
+   "first": 1265,
+   "line": "",
+   "note": "sample clip again: Pip and Mo"
+  },
+  {
+   "id": "S29",
+   "size": "medium",
+   "key": 14,
+   "len": 53,
+   "first": 1301,
+   "line": "You get",
+   "note": "sample clip again: Pip at a night desk"
+  },
+  {
+   "id": "S30",
+   "size": "insert",
+   "key": 14,
+   "len": 39,
+   "first": 1354,
+   "line": "the files you own: the",
+   "note": "package box, YOURS tag"
+  },
+  {
+   "id": "S31",
+   "size": "close-up",
+   "key": 18,
+   "len": 21,
+   "first": 1393,
+   "line": "engine, the",
+   "note": "turning gears, ENGINE tag"
+  },
+  {
+   "id": "S32",
+   "size": "medium",
+   "key": 18,
+   "len": 20,
+   "first": 1414,
+   "line": "cast, the",
+   "note": "Pip and Mo busts, CAST tag"
+  },
+  {
+   "id": "S33",
+   "size": "wide",
+   "key": 30,
+   "len": 19,
+   "first": 1434,
+   "line": "sets, the",
+   "note": "three little room cards, SETS tag"
+  },
+  {
+   "id": "S34",
+   "size": "insert",
+   "key": 30,
+   "len": 22,
+   "first": 1453,
+   "line": "scripts and",
+   "note": "terminal runs the run script"
+  },
+  {
+   "id": "S35",
+   "size": "close-up",
+   "key": 14,
+   "len": 31,
+   "first": 1475,
+   "line": "the guides. You",
+   "note": "open book, GUIDES tag"
+  },
+  {
+   "id": "S36",
+   "size": "medium",
+   "key": 40,
+   "len": 114,
+   "first": 1506,
+   "line": "bring your own keys for the voice and the AI writer. No keys come",
+   "note": "two keys, VOICE and WRITER tags"
+  },
+  {
+   "id": "S37",
+   "size": "insert",
+   "key": 40,
+   "len": 80,
+   "first": 1620,
+   "line": "inside the package, so yours stay yours. One",
+   "note": "package, key crossed out, NONE INSIDE tag"
+  },
+  {
+   "id": "S38",
+   "size": "close-up",
+   "key": 24,
+   "len": 43,
+   "first": 1700,
+   "line": "line in. One finished",
+   "note": "the one topic line, cursor blinking"
+  },
+  {
+   "id": "S39",
+   "size": "medium",
+   "key": 18,
+   "len": 51,
+   "first": 1743,
+   "line": "video out. Get the full",
+   "note": "screen with sparkle"
+  },
+  {
+   "id": "S40",
+   "size": "wide",
+   "key": 24,
+   "len": 45,
+   "first": 1794,
+   "line": "system. The link is in",
+   "note": "package, gear and book in a row"
+  },
+  {
+   "id": "S41",
+   "size": "close-up",
+   "key": 24,
+   "len": 67,
+   "first": 1839,
+   "line": "the about section.",
+   "note": "Pip on a disc, LINK IN ABOUT SECTION tag"
+  }
+ ],
+ "fx": [
+  {
+   "kind": "flash",
+   "color": "#FFFFFF",
+   "o": 0.4,
+   "f": 1170
+  },
+  {
+   "kind": "flash",
+   "color": "#2BA6A0",
+   "o": 0.3,
+   "f": 1841
+  }
+ ],
+ "audio": {
+  "voice": "promo1108c/voice.wav",
+  "voiceVol": 0.8,
+  "sfx": "promo1108c/sfx.wav",
+  "sfxVol": 0.7728,
+  "music": "promo1108c/music.wav",
+  "musicVol": 0.1283
+ }
+}

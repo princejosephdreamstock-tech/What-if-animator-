@@ -1,0 +1,587 @@
+{
+ "slug": "promo1108a",
+ "title": "INSIDE THE LINE ONE EPISODE, BUILT",
+ "fps": 30,
+ "total": 1763,
+ "segments": [
+  {
+   "shot": "S1",
+   "a": 0,
+   "b": 51,
+   "t0": 0,
+   "t1": 51,
+   "line": "Making an animated video by"
+  },
+  {
+   "shot": "S2",
+   "a": 51,
+   "b": 80,
+   "t0": 0,
+   "t1": 29,
+   "line": "hand is a pile"
+  },
+  {
+   "shot": "S3",
+   "a": 80,
+   "b": 113,
+   "t0": 0,
+   "t1": 33,
+   "line": "of small jobs."
+  },
+  {
+   "shot": "S4",
+   "a": 113,
+   "b": 172,
+   "t0": 0,
+   "t1": 59,
+   "line": "Now picture a factory line. One"
+  },
+  {
+   "shot": "S5",
+   "a": 172,
+   "b": 231,
+   "t0": 0,
+   "t1": 59,
+   "line": "topic line goes in at the left."
+  },
+  {
+   "shot": "S6",
+   "a": 231,
+   "b": 304,
+   "t0": 0,
+   "t1": 73,
+   "line": "First station, the script. Your"
+  },
+  {
+   "shot": "S7",
+   "a": 304,
+   "b": 353,
+   "t0": 0,
+   "t1": 49,
+   "line": "writing key turns the line into"
+  },
+  {
+   "shot": "S8",
+   "a": 353,
+   "b": 383,
+   "t0": 0,
+   "t1": 30,
+   "line": "narration."
+  },
+  {
+   "shot": "S9",
+   "a": 383,
+   "b": 472,
+   "t0": 0,
+   "t1": 89,
+   "line": "Second station, the voice. Your voice key"
+  },
+  {
+   "shot": "S10",
+   "a": 472,
+   "b": 499,
+   "t0": 0,
+   "t1": 27,
+   "line": "records it, and"
+  },
+  {
+   "shot": "S11",
+   "a": 499,
+   "b": 547,
+   "t0": 0,
+   "t1": 48,
+   "line": "every word gets a time."
+  },
+  {
+   "shot": "S12",
+   "a": 547,
+   "b": 616,
+   "t0": 0,
+   "t1": 69,
+   "line": "Third station, the shot list."
+  },
+  {
+   "shot": "S13",
+   "a": 616,
+   "b": 682,
+   "t0": 0,
+   "t1": 66,
+   "line": "Cuts land on the spoken words, and shot"
+  },
+  {
+   "shot": "S14",
+   "a": 682,
+   "b": 731,
+   "t0": 0,
+   "t1": 49,
+   "line": "sizes keep changing."
+  },
+  {
+   "shot": "S15",
+   "a": 731,
+   "b": 813,
+   "t0": 0,
+   "t1": 82,
+   "line": "Fourth station, the frames. Every picture"
+  },
+  {
+   "shot": "S16",
+   "a": 813,
+   "b": 848,
+   "t0": 0,
+   "t1": 35,
+   "line": "is drawn in code, then"
+  },
+  {
+   "shot": "S17",
+   "a": 848,
+   "b": 876,
+   "t0": 0,
+   "t1": 28,
+   "line": "animated."
+  },
+  {
+   "shot": "S18",
+   "a": 876,
+   "b": 928,
+   "t0": 0,
+   "t1": 52,
+   "line": "Fifth station, the sound."
+  },
+  {
+   "shot": "S19",
+   "a": 928,
+   "b": 963,
+   "t0": 0,
+   "t1": 35,
+   "line": "Ticks, whooshes and"
+  },
+  {
+   "shot": "S20",
+   "a": 963,
+   "b": 1031,
+   "t0": 0,
+   "t1": 68,
+   "line": "a music bed are built to match the cuts."
+  },
+  {
+   "shot": "S21",
+   "a": 1031,
+   "b": 1106,
+   "t0": 0,
+   "t1": 75,
+   "line": "Last station, the master. The mix"
+  },
+  {
+   "shot": "S22",
+   "a": 1106,
+   "b": 1185,
+   "t0": 0,
+   "t1": 79,
+   "line": "is levelled so the whole video sounds even. And"
+  },
+  {
+   "shot": "S23",
+   "a": 1185,
+   "b": 1258,
+   "t0": 0,
+   "t1": 73,
+   "line": "a finished video rolls off the end of the line,"
+  },
+  {
+   "shot": "S24",
+   "a": 1258,
+   "b": 1314,
+   "t0": 0,
+   "t1": 56,
+   "line": "ready to upload. You get the"
+  },
+  {
+   "shot": "S25",
+   "a": 1314,
+   "b": 1337,
+   "t0": 0,
+   "t1": 23,
+   "line": "engine, the"
+  },
+  {
+   "shot": "S26",
+   "a": 1337,
+   "b": 1382,
+   "t0": 0,
+   "t1": 45,
+   "line": "cast, the sets, the"
+  },
+  {
+   "shot": "S27",
+   "a": 1382,
+   "b": 1434,
+   "t0": 0,
+   "t1": 52,
+   "line": "scripts and the guides. You"
+  },
+  {
+   "shot": "S28",
+   "a": 1434,
+   "b": 1451,
+   "t0": 0,
+   "t1": 17,
+   "line": "bring your own"
+  },
+  {
+   "shot": "S29",
+   "a": 1451,
+   "b": 1514,
+   "t0": 0,
+   "t1": 63,
+   "line": "keys for the voice and the writing."
+  },
+  {
+   "shot": "S30",
+   "a": 1514,
+   "b": 1590,
+   "t0": 0,
+   "t1": 76,
+   "line": "No keys come inside. One line in,"
+  },
+  {
+   "shot": "S31",
+   "a": 1590,
+   "b": 1637,
+   "t0": 0,
+   "t1": 47,
+   "line": "one finished video out."
+  },
+  {
+   "shot": "S32",
+   "a": 1637,
+   "b": 1679,
+   "t0": 0,
+   "t1": 42,
+   "line": "Get the full system."
+  },
+  {
+   "shot": "S33",
+   "a": 1679,
+   "b": 1763,
+   "t0": 0,
+   "t1": 84,
+   "line": "Link in the about section."
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "insert, top-down",
+   "key": 14,
+   "len": 51,
+   "first": 0,
+   "line": "Making an animated video by",
+   "note": "blank page, coral cursor blinking"
+  },
+  {
+   "id": "S2",
+   "size": "medium",
+   "key": 20,
+   "len": 29,
+   "first": 51,
+   "line": "hand is a pile",
+   "note": "Pip small beside a stack of task boxes"
+  },
+  {
+   "id": "S3",
+   "size": "close-up",
+   "key": 10,
+   "len": 33,
+   "first": 80,
+   "line": "of small jobs.",
+   "note": "Pip tired inside target rings"
+  },
+  {
+   "id": "S4",
+   "size": "wide",
+   "key": 30,
+   "len": 59,
+   "first": 113,
+   "line": "Now picture a factory line. One",
+   "note": "the empty line of stations snaps in"
+  },
+  {
+   "id": "S5",
+   "size": "insert",
+   "key": 24,
+   "len": 59,
+   "first": 172,
+   "line": "topic line goes in at the left.",
+   "note": "topic line typed into the input"
+  },
+  {
+   "id": "S6",
+   "size": "medium",
+   "key": 22,
+   "len": 73,
+   "first": 231,
+   "line": "First station, the script. Your",
+   "note": "script station writes narration rows"
+  },
+  {
+   "id": "S7",
+   "size": "close-up insert",
+   "key": 16,
+   "len": 49,
+   "first": 304,
+   "line": "writing key turns the line into",
+   "note": "coral key slides into the socket"
+  },
+  {
+   "id": "S8",
+   "size": "wide",
+   "key": 20,
+   "len": 30,
+   "first": 353,
+   "line": "narration.",
+   "note": "six beat boxes snap into a grid"
+  },
+  {
+   "id": "S9",
+   "size": "medium",
+   "key": 18,
+   "len": 89,
+   "first": 383,
+   "line": "Second station, the voice. Your voice key",
+   "note": "voice station and waveform"
+  },
+  {
+   "id": "S10",
+   "size": "close-up insert",
+   "key": 20,
+   "len": 27,
+   "first": 472,
+   "line": "records it, and",
+   "note": "mic with sound arcs and REC dot"
+  },
+  {
+   "id": "S11",
+   "size": "insert, top-down",
+   "key": 24,
+   "len": 48,
+   "first": 499,
+   "line": "every word gets a time.",
+   "note": "word blocks with times, playhead sweeps"
+  },
+  {
+   "id": "S12",
+   "size": "wide",
+   "key": 22,
+   "len": 69,
+   "first": 547,
+   "line": "Third station, the shot list.",
+   "note": "shot list rows with sizes"
+  },
+  {
+   "id": "S13",
+   "size": "insert",
+   "key": 20,
+   "len": 66,
+   "first": 616,
+   "line": "Cuts land on the spoken words, and shot",
+   "note": "coral cuts drop onto word blocks"
+  },
+  {
+   "id": "S14",
+   "size": "medium",
+   "key": 24,
+   "len": 49,
+   "first": 682,
+   "line": "sizes keep changing.",
+   "note": "three nested frames, selection steps"
+  },
+  {
+   "id": "S15",
+   "size": "wide",
+   "key": 30,
+   "len": 82,
+   "first": 731,
+   "line": "Fourth station, the frames. Every picture",
+   "note": "code types beside the frames node"
+  },
+  {
+   "id": "S16",
+   "size": "medium",
+   "key": 30,
+   "len": 35,
+   "first": 813,
+   "line": "is drawn in code, then",
+   "note": "code panel and a boat drawn on"
+  },
+  {
+   "id": "S17",
+   "size": "wide, high angle",
+   "key": 20,
+   "len": 28,
+   "first": 848,
+   "line": "animated.",
+   "note": "four animation cells with small Pip"
+  },
+  {
+   "id": "S18",
+   "size": "medium",
+   "key": 22,
+   "len": 52,
+   "first": 876,
+   "line": "Fifth station, the sound.",
+   "note": "sound node and speaker arcs"
+  },
+  {
+   "id": "S19",
+   "size": "insert, top-down",
+   "key": 20,
+   "len": 35,
+   "first": 928,
+   "line": "Ticks, whooshes and",
+   "note": "mixer faders slide"
+  },
+  {
+   "id": "S20",
+   "size": "wide",
+   "key": 24,
+   "len": 68,
+   "first": 963,
+   "line": "a music bed are built to match the cuts.",
+   "note": "music bed with cut ticks"
+  },
+  {
+   "id": "S21",
+   "size": "medium",
+   "key": 20,
+   "len": 75,
+   "first": 1031,
+   "line": "Last station, the master. The mix",
+   "note": "master level meter settles"
+  },
+  {
+   "id": "S22",
+   "size": "close-up insert",
+   "key": 20,
+   "len": 79,
+   "first": 1106,
+   "line": "is levelled so the whole video sounds even. And",
+   "note": "waveform squeezed between lines"
+  },
+  {
+   "id": "S23",
+   "size": "wide",
+   "key": 20,
+   "len": 73,
+   "first": 1185,
+   "line": "a finished video rolls off the end of the line,",
+   "note": "finished card slides off the line, Mo watches"
+  },
+  {
+   "id": "S24",
+   "size": "insert",
+   "key": 24,
+   "len": 56,
+   "first": 1258,
+   "line": "ready to upload. You get the",
+   "note": "big video card, play mark and tick"
+  },
+  {
+   "id": "S25",
+   "size": "medium",
+   "key": 20,
+   "len": 23,
+   "first": 1314,
+   "line": "engine, the",
+   "note": "engine gear turning"
+  },
+  {
+   "id": "S26",
+   "size": "wide",
+   "key": 24,
+   "len": 45,
+   "first": 1337,
+   "line": "cast, the sets, the",
+   "note": "cast beside set thumbnails"
+  },
+  {
+   "id": "S27",
+   "size": "close-up insert",
+   "key": 24,
+   "len": 52,
+   "first": 1382,
+   "line": "scripts and the guides. You",
+   "note": "scripts and guides documents"
+  },
+  {
+   "id": "S28",
+   "size": "medium",
+   "key": 22,
+   "len": 17,
+   "first": 1434,
+   "line": "bring your own",
+   "note": "Pip beside two empty key sockets"
+  },
+  {
+   "id": "S29",
+   "size": "insert",
+   "key": 22,
+   "len": 63,
+   "first": 1451,
+   "line": "keys for the voice and the writing.",
+   "note": "two keys slide into sockets"
+  },
+  {
+   "id": "S30",
+   "size": "medium, low angle",
+   "key": 24,
+   "len": 76,
+   "first": 1514,
+   "line": "No keys come inside. One line in,",
+   "note": "package with a crossed out key outline"
+  },
+  {
+   "id": "S31",
+   "size": "wide",
+   "key": 40,
+   "len": 47,
+   "first": 1590,
+   "line": "one finished video out.",
+   "note": "whole line, pulse travels, ends marked"
+  },
+  {
+   "id": "S32",
+   "size": "insert",
+   "key": 20,
+   "len": 42,
+   "first": 1637,
+   "line": "Get the full system.",
+   "note": "FULL SYSTEM plate snaps in"
+  },
+  {
+   "id": "S33",
+   "size": "medium",
+   "key": 36,
+   "len": 84,
+   "first": 1679,
+   "line": "Link in the about section.",
+   "note": "call to action line types out"
+  }
+ ],
+ "fx": [
+  {
+   "kind": "flash",
+   "color": "#FFFFFF",
+   "o": 0.3,
+   "f": 1187
+  }
+ ],
+ "audio": {
+  "voice": "promo1108a/voice.wav",
+  "voiceVol": 0.8,
+  "sfx": "promo1108a/sfx.wav",
+  "sfxVol": 0.6282,
+  "music": "promo1108a/music.wav",
+  "musicVol": 0.1117
+ }
+}

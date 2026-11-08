@@ -1,0 +1,12 @@
+Making an animated video by hand is a pile of small jobs.
+Now picture a factory line. One topic line goes in at the left.
+First station, the script. Your writing key turns the line into narration.
+Second station, the voice. Your voice key records it, and every word gets a time.
+Third station, the shot list. Cuts land on the spoken words, and shot sizes keep changing.
+Fourth station, the frames. Every picture is drawn in code, then animated.
+Fifth station, the sound. Ticks, whooshes and a music bed are built to match the cuts.
+Last station, the master. The mix is levelled so the whole video sounds even.
+And a finished video rolls off the end of the line, ready to upload.
+You get the engine, the cast, the sets, the scripts and the guides.
+You bring your own keys for the voice and the writing. No keys come inside.
+One line in, one finished video out. Get the full system. Link in the about section.

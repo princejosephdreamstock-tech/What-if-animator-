@@ -1,0 +1,196 @@
+{
+ "slug": "promo1108b",
+ "title": "ONE TOPIC LINE A FINISHED VIDEO",
+ "fps": 30,
+ "total": 775,
+ "segments": [
+  {
+   "shot": "S1",
+   "a": 0,
+   "b": 82,
+   "t0": 0,
+   "t1": 82,
+   "line": "You say one line cannot make a finished video."
+  },
+  {
+   "shot": "S2",
+   "a": 82,
+   "b": 160,
+   "t0": 0,
+   "t1": 78,
+   "line": "Fine. Watch one topic line go in."
+  },
+  {
+   "shot": "S3",
+   "a": 160,
+   "b": 230,
+   "t0": 0,
+   "t1": 70,
+   "line": "Claude writes the script, shot list,"
+  },
+  {
+   "shot": "S4",
+   "a": 230,
+   "b": 278,
+   "t0": 0,
+   "t1": 48,
+   "line": "cuts and sound plan."
+  },
+  {
+   "shot": "S5",
+   "a": 278,
+   "b": 350,
+   "t0": 0,
+   "t1": 72,
+   "line": "Then a voice records every line. Every"
+  },
+  {
+   "shot": "S6",
+   "a": 350,
+   "b": 428,
+   "t0": 0,
+   "t1": 78,
+   "line": "frame is drawn in code and rendered. The"
+  },
+  {
+   "shot": "S7",
+   "a": 428,
+   "b": 486,
+   "t0": 0,
+   "t1": 58,
+   "line": "audio is mixed and mastered."
+  },
+  {
+   "shot": "S8",
+   "a": 486,
+   "b": 546,
+   "t0": 0,
+   "t1": 60,
+   "line": "Now you watch the finished video."
+  },
+  {
+   "shot": "S9",
+   "a": 546,
+   "b": 657,
+   "t0": 0,
+   "t1": 111,
+   "line": "Bring your own voice and writing keys. None are included."
+  },
+  {
+   "shot": "S10",
+   "a": 657,
+   "b": 775,
+   "t0": 0,
+   "t1": 118,
+   "line": "Get the system. Link in the about section."
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "key": 30,
+   "len": 82,
+   "first": 0,
+   "line": "You say one line cannot make a finished video.",
+   "note": "Pip the skeptic, arms folded, shakes his head"
+  },
+  {
+   "id": "S2",
+   "size": "insert, close",
+   "key": 30,
+   "len": 78,
+   "first": 82,
+   "line": "Fine. Watch one topic line go in.",
+   "note": "chalk board, one topic line typed in"
+  },
+  {
+   "id": "S3",
+   "size": "medium",
+   "key": 16,
+   "len": 70,
+   "first": 160,
+   "line": "Claude writes the script, shot list,",
+   "note": "Mo types, a chip swaps script then shot list"
+  },
+  {
+   "id": "S4",
+   "size": "close-up, push in",
+   "key": 40,
+   "len": 48,
+   "first": 230,
+   "line": "cuts and sound plan.",
+   "note": "board steps tick off, cuts then sound plan, circled"
+  },
+  {
+   "id": "S5",
+   "size": "medium, low",
+   "key": 24,
+   "len": 72,
+   "first": 278,
+   "line": "Then a voice records every line. Every",
+   "note": "Mo with headphones at a mic, bars pulse"
+  },
+  {
+   "id": "S6",
+   "size": "insert, top-down",
+   "key": 50,
+   "len": 78,
+   "first": 350,
+   "line": "frame is drawn in code and rendered. The",
+   "note": "code lines typed, a tree drawn stroke by stroke"
+  },
+  {
+   "id": "S7",
+   "size": "extreme close-up",
+   "key": 30,
+   "len": 58,
+   "first": 428,
+   "line": "audio is mixed and mastered.",
+   "note": "Mo head, level meter settles on the target line"
+  },
+  {
+   "id": "S8",
+   "size": "medium",
+   "key": 36,
+   "len": 60,
+   "first": 486,
+   "line": "Now you watch the finished video.",
+   "note": "the finished clip on the board, Pip watches"
+  },
+  {
+   "id": "S9",
+   "size": "wide",
+   "key": 50,
+   "len": 111,
+   "first": 546,
+   "line": "Bring your own voice and writing keys. None are included.",
+   "note": "two chalk keys, voice and writing, none included"
+  },
+  {
+   "id": "S10",
+   "size": "medium",
+   "key": 20,
+   "len": 118,
+   "first": 657,
+   "line": "Get the system. Link in the about section.",
+   "note": "Mo points up at the link plaque, Pip smiles"
+  }
+ ],
+ "fx": [
+  {
+   "kind": "flash",
+   "color": "#E8E1CF",
+   "o": 0.3,
+   "f": 488
+  }
+ ],
+ "audio": {
+  "voice": "promo1108b/voice.wav",
+  "voiceVol": 0.8,
+  "sfx": "promo1108b/sfx.wav",
+  "sfxVol": 0.8671,
+  "music": "promo1108b/music.wav",
+  "musicVol": 0.1019
+ }
+}

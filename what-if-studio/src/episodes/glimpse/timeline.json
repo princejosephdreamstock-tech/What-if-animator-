@@ -1,0 +1,283 @@
+{
+ "slug": "glimpse",
+ "title": "WHAT IF YOU COULD GLIMPSE ONE MINUTE AHEAD?",
+ "fps": 30,
+ "total": 641,
+ "segments": [
+  {
+   "shot": "S1",
+   "a": 0,
+   "b": 29,
+   "t0": 0,
+   "t1": 29,
+   "line": "Coffee tips."
+  },
+  {
+   "shot": "S2",
+   "a": 29,
+   "b": 52,
+   "t0": 0,
+   "t1": 23,
+   "line": "Glimpse.",
+   "look": "glimpse"
+  },
+  {
+   "shot": "S3",
+   "a": 52,
+   "b": 80,
+   "t0": 0,
+   "t1": 28,
+   "line": "You catch it."
+  },
+  {
+   "shot": "S4",
+   "a": 80,
+   "b": 115,
+   "t0": 0,
+   "t1": 35,
+   "line": "Bus pulls off."
+  },
+  {
+   "shot": "S5",
+   "a": 115,
+   "b": 137,
+   "t0": 0,
+   "t1": 22,
+   "line": "Glimpse.",
+   "look": "glimpse"
+  },
+  {
+   "shot": "S6",
+   "a": 137,
+   "b": 162,
+   "t0": 0,
+   "t1": 25,
+   "line": "You make it."
+  },
+  {
+   "shot": "S7",
+   "a": 162,
+   "b": 193,
+   "t0": 0,
+   "t1": 31,
+   "line": "Friend speaks."
+  },
+  {
+   "shot": "S8",
+   "a": 193,
+   "b": 249,
+   "t0": 0,
+   "t1": 56,
+   "line": "Glimpse. You said it first.",
+   "look": "glimpse"
+  },
+  {
+   "shot": "S9",
+   "a": 249,
+   "b": 306,
+   "t0": 0,
+   "t1": 57,
+   "line": "What if you could glimpse one minute ahead?"
+  },
+  {
+   "shot": "S10",
+   "a": 306,
+   "b": 338,
+   "t0": 0,
+   "t1": 32,
+   "line": "Sounds amazing."
+  },
+  {
+   "shot": "S11",
+   "a": 338,
+   "b": 534,
+   "t0": 0,
+   "t1": 196,
+   "line": "Your brain runs on twenty watts. One minute of future simulation needs twelve hundred— a space heater in your skull."
+  },
+  {
+   "shot": "S12",
+   "a": 534,
+   "b": 560,
+   "t0": 0,
+   "t1": 26,
+   "line": "That's real."
+  },
+  {
+   "shot": "S13",
+   "a": 560,
+   "b": 641,
+   "t0": 0,
+   "t1": 81,
+   "line": "So what happens when the power fails?"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "medium",
+   "key": 18,
+   "len": 29,
+   "first": 0,
+   "line": "Coffee tips.",
+   "note": "Pip at the island, coffee mug tipping over the edge"
+  },
+  {
+   "id": "S2",
+   "size": "macro insert, high angle",
+   "key": 10,
+   "len": 23,
+   "first": 29,
+   "line": "Glimpse.",
+   "note": "the mug caught mid-air, a cyan selection box around it, GLIMPSE chip"
+  },
+  {
+   "id": "S3",
+   "size": "wide",
+   "key": 24,
+   "len": 28,
+   "first": 52,
+   "line": "You catch it.",
+   "note": "Pip sets the mug down, exhales; cat on the counter looks up"
+  },
+  {
+   "id": "S4",
+   "size": "medium wide",
+   "key": 20,
+   "len": 35,
+   "first": 80,
+   "line": "Bus pulls off.",
+   "note": "bus visible through the doorway pulling away; Pip sprints into frame"
+  },
+  {
+   "id": "S5",
+   "size": "close-up",
+   "key": 14,
+   "len": 22,
+   "first": 115,
+   "line": "Glimpse.",
+   "note": "Pip's eyes, a cyan GLIMPSE chip pulses, a ghost bus door holds in the reflection"
+  },
+  {
+   "id": "S6",
+   "size": "low angle, medium",
+   "key": 22,
+   "len": 25,
+   "first": 137,
+   "line": "You make it.",
+   "note": "Pip catches the bus door, hauls himself on; the bus lurches forward"
+  },
+  {
+   "id": "S7",
+   "size": "medium",
+   "key": 18,
+   "len": 31,
+   "first": 162,
+   "line": "Friend speaks.",
+   "note": "Mo at the desk turns to speak; Pip's hand already raising"
+  },
+  {
+   "id": "S8",
+   "size": "two-shot",
+   "key": 20,
+   "len": 56,
+   "first": 193,
+   "line": "Glimpse. You said it first.",
+   "note": "Mo's mouth opens, Pip's voice comes out first; both freeze, staring"
+  },
+  {
+   "id": "S9",
+   "size": "title, wide",
+   "key": 52,
+   "len": 57,
+   "first": 249,
+   "line": "What if you could glimpse one minute ahead?",
+   "note": "the premise over the city at dusk; Pip on the parapet, a faint cyan afterimage trailing his hand"
+  },
+  {
+   "id": "S10",
+   "size": "medium, low angle",
+   "key": 16,
+   "len": 32,
+   "first": 306,
+   "line": "Sounds amazing.",
+   "note": "Pip looks at his hand, the afterimage fading; he smiles, then frowns"
+  },
+  {
+   "id": "S11",
+   "size": "schematic",
+   "key": 60,
+   "len": 196,
+   "first": 338,
+   "line": "Your brain runs on twenty watts. One minute of future simulation needs twelve hundred— a space heater in your skull.",
+   "note": "brain icon, 20 W label, 60× arrow, 1,200 W counting up, space heater icon glows orange"
+  },
+  {
+   "id": "S12",
+   "size": "extreme close-up",
+   "key": 14,
+   "len": 26,
+   "first": 534,
+   "line": "That's real.",
+   "note": "Pip, worried; the cyan rim light shifts to red, the sky begins to turn"
+  },
+  {
+   "id": "S13",
+   "size": "wide, low angle",
+   "key": 48,
+   "len": 81,
+   "first": 560,
+   "line": "So what happens when the power fails?",
+   "note": "the city's lights go out in a sweep toward him, string lights die one by one, the sky goes red"
+  }
+ ],
+ "fx": [
+  {
+   "kind": "flash",
+   "color": "#00F5FF",
+   "o": 0.5,
+   "f": 37
+  },
+  {
+   "kind": "flash",
+   "color": "#00F5FF",
+   "o": 0.4,
+   "f": 121
+  },
+  {
+   "kind": "flash",
+   "color": "#00F5FF",
+   "o": 0.45,
+   "f": 203
+  },
+  {
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "f": 249
+  },
+  {
+   "kind": "flash",
+   "color": "#FF3344",
+   "f": 534
+  },
+  {
+   "kind": "flash",
+   "color": "#FF3344",
+   "f": 560
+  },
+  {
+   "kind": "shake",
+   "len": 12,
+   "amp": 12,
+   "f": 560
+  }
+ ],
+ "audio": {
+  "voiceVol": 0.8,
+  "sfxVol": 0.4247,
+  "musicVol": 0.117,
+  "voice": "glimpse/voice.wav",
+  "sfx": "glimpse/sfx.wav",
+  "music": "glimpse/music.wav"
+ }
+}

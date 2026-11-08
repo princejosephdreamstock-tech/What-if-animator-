@@ -1,0 +1,559 @@
+{
+ "slug": "promo3",
+ "title": "ONE LINE IN ONE VIDEO OUT",
+ "fps": 30,
+ "total": 1312,
+ "segments": [
+  {
+   "shot": "S1",
+   "a": 0,
+   "b": 44,
+   "t0": 0,
+   "t1": 44,
+   "line": "One animated video means"
+  },
+  {
+   "shot": "S2",
+   "a": 44,
+   "b": 62,
+   "t0": 0,
+   "t1": 18,
+   "line": "writing,"
+  },
+  {
+   "shot": "S3",
+   "a": 62,
+   "b": 79,
+   "t0": 0,
+   "t1": 17,
+   "line": "recording,"
+  },
+  {
+   "shot": "S4",
+   "a": 79,
+   "b": 93,
+   "t0": 0,
+   "t1": 14,
+   "line": "drawing,"
+  },
+  {
+   "shot": "S5",
+   "a": 93,
+   "b": 111,
+   "t0": 0,
+   "t1": 18,
+   "line": "mixing and"
+  },
+  {
+   "shot": "S6",
+   "a": 111,
+   "b": 198,
+   "t0": 0,
+   "t1": 87,
+   "line": "exporting. Every single time."
+  },
+  {
+   "shot": "S7",
+   "a": 198,
+   "b": 238,
+   "t0": 0,
+   "t1": 40,
+   "line": "What if it all ran as one"
+  },
+  {
+   "shot": "S8",
+   "a": 238,
+   "b": 274,
+   "t0": 0,
+   "t1": 36,
+   "line": "connected chain?"
+  },
+  {
+   "shot": "S9",
+   "a": 274,
+   "b": 367,
+   "t0": 0,
+   "t1": 93,
+   "line": "Type one topic line. It slides in from the left."
+  },
+  {
+   "shot": "S10",
+   "a": 367,
+   "b": 405,
+   "t0": 0,
+   "t1": 38,
+   "line": "First, Claude writes"
+  },
+  {
+   "shot": "S11",
+   "a": 405,
+   "b": 430,
+   "t0": 0,
+   "t1": 25,
+   "line": "the script,"
+  },
+  {
+   "shot": "S12",
+   "a": 430,
+   "b": 455,
+   "t0": 0,
+   "t1": 25,
+   "line": "the shot list, the"
+  },
+  {
+   "shot": "S13",
+   "a": 455,
+   "b": 471,
+   "t0": 0,
+   "t1": 16,
+   "line": "cuts and"
+  },
+  {
+   "shot": "S14",
+   "a": 471,
+   "b": 521,
+   "t0": 0,
+   "t1": 50,
+   "line": "the sound plan. Next,"
+  },
+  {
+   "shot": "S15",
+   "a": 521,
+   "b": 599,
+   "t0": 0,
+   "t1": 78,
+   "line": "the voice is recorded from that script. Then every"
+  },
+  {
+   "shot": "S16",
+   "a": 599,
+   "b": 627,
+   "t0": 0,
+   "t1": 28,
+   "line": "frame is drawn in"
+  },
+  {
+   "shot": "S17",
+   "a": 627,
+   "b": 643,
+   "t0": 0,
+   "t1": 16,
+   "line": "code and"
+  },
+  {
+   "shot": "S18",
+   "a": 643,
+   "b": 672,
+   "t0": 0,
+   "t1": 29,
+   "line": "rendered. The"
+  },
+  {
+   "shot": "S19",
+   "a": 672,
+   "b": 705,
+   "t0": 0,
+   "t1": 33,
+   "line": "audio is mixed and"
+  },
+  {
+   "shot": "S20",
+   "a": 705,
+   "b": 736,
+   "t0": 0,
+   "t1": 31,
+   "line": "mastered, and"
+  },
+  {
+   "shot": "S21",
+   "a": 736,
+   "b": 785,
+   "t0": 0,
+   "t1": 49,
+   "line": "the diagram is complete. A"
+  },
+  {
+   "shot": "S22",
+   "a": 785,
+   "b": 853,
+   "t0": 0,
+   "t1": 68,
+   "line": "finished video comes out on the right."
+  },
+  {
+   "shot": "S23",
+   "a": 853,
+   "b": 908,
+   "t0": 0,
+   "t1": 55,
+   "line": "Every stage you just watched is"
+  },
+  {
+   "shot": "S24",
+   "a": 908,
+   "b": 972,
+   "t0": 0,
+   "t1": 64,
+   "line": "a real step in the system. You get the"
+  },
+  {
+   "shot": "S25",
+   "a": 972,
+   "b": 994,
+   "t0": 0,
+   "t1": 22,
+   "line": "engine,"
+  },
+  {
+   "shot": "S26",
+   "a": 994,
+   "b": 1013,
+   "t0": 0,
+   "t1": 19,
+   "line": "the cast, the"
+  },
+  {
+   "shot": "S27",
+   "a": 1013,
+   "b": 1085,
+   "t0": 0,
+   "t1": 72,
+   "line": "sets, the scripts and the guides. You"
+  },
+  {
+   "shot": "S28",
+   "a": 1085,
+   "b": 1131,
+   "t0": 0,
+   "t1": 46,
+   "line": "supply your own keys for"
+  },
+  {
+   "shot": "S29",
+   "a": 1131,
+   "b": 1174,
+   "t0": 0,
+   "t1": 43,
+   "line": "the voice and the writing."
+  },
+  {
+   "shot": "S30",
+   "a": 1174,
+   "b": 1220,
+   "t0": 0,
+   "t1": 46,
+   "line": "No keys are included."
+  },
+  {
+   "shot": "S31",
+   "a": 1220,
+   "b": 1312,
+   "t0": 0,
+   "t1": 92,
+   "line": "One line in, one video out."
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "key": 20,
+   "len": 44,
+   "first": 0,
+   "line": "One animated video means",
+   "note": "Pip small beside a blank sheet with a dimension mark"
+  },
+  {
+   "id": "S2",
+   "size": "insert",
+   "key": 20,
+   "len": 18,
+   "first": 44,
+   "line": "writing,",
+   "note": "a page filling with lines"
+  },
+  {
+   "id": "S3",
+   "size": "close-up insert",
+   "key": 20,
+   "len": 17,
+   "first": 62,
+   "line": "recording,",
+   "note": "a microphone with sound rings"
+  },
+  {
+   "id": "S4",
+   "size": "medium",
+   "key": 20,
+   "len": 14,
+   "first": 79,
+   "line": "drawing,",
+   "note": "six frames drawing on"
+  },
+  {
+   "id": "S5",
+   "size": "macro insert",
+   "key": 20,
+   "len": 18,
+   "first": 93,
+   "line": "mixing and",
+   "note": "mixer sliders moving"
+  },
+  {
+   "id": "S6",
+   "size": "medium",
+   "key": 20,
+   "len": 87,
+   "first": 111,
+   "line": "exporting. Every single time.",
+   "note": "export bar fills, loop arrow draws"
+  },
+  {
+   "id": "S7",
+   "size": "close-up",
+   "key": 20,
+   "len": 40,
+   "first": 198,
+   "line": "What if it all ran as one",
+   "note": "Pip wonders, coral question mark"
+  },
+  {
+   "id": "S8",
+   "size": "wide",
+   "key": 20,
+   "len": 36,
+   "first": 238,
+   "line": "connected chain?",
+   "note": "empty chain builds on the grid"
+  },
+  {
+   "id": "S9",
+   "size": "medium",
+   "key": 20,
+   "len": 93,
+   "first": 274,
+   "line": "Type one topic line. It slides in from the left.",
+   "note": "topic line types and slides into the first box"
+  },
+  {
+   "id": "S10",
+   "size": "wide",
+   "key": 20,
+   "len": 38,
+   "first": 367,
+   "line": "First, Claude writes",
+   "note": "stage one lights coral"
+  },
+  {
+   "id": "S11",
+   "size": "close",
+   "key": 20,
+   "len": 25,
+   "first": 405,
+   "line": "the script,",
+   "note": "script page writes on"
+  },
+  {
+   "id": "S12",
+   "size": "medium",
+   "key": 20,
+   "len": 25,
+   "first": 430,
+   "line": "the shot list, the",
+   "note": "shot list rows draw on"
+  },
+  {
+   "id": "S13",
+   "size": "close",
+   "key": 20,
+   "len": 16,
+   "first": 455,
+   "line": "cuts and",
+   "note": "cuts on a timeline"
+  },
+  {
+   "id": "S14",
+   "size": "macro",
+   "key": 20,
+   "len": 50,
+   "first": 471,
+   "line": "the sound plan. Next,",
+   "note": "sound plan bars"
+  },
+  {
+   "id": "S15",
+   "size": "medium",
+   "key": 20,
+   "len": 78,
+   "first": 521,
+   "line": "the voice is recorded from that script. Then every",
+   "note": "voice waveform with playhead"
+  },
+  {
+   "id": "S16",
+   "size": "close",
+   "key": 20,
+   "len": 28,
+   "first": 599,
+   "line": "frame is drawn in",
+   "note": "twelve frames draw one by one"
+  },
+  {
+   "id": "S17",
+   "size": "medium",
+   "key": 20,
+   "len": 16,
+   "first": 627,
+   "line": "code and",
+   "note": "code types, shape draws"
+  },
+  {
+   "id": "S18",
+   "size": "wide",
+   "key": 20,
+   "len": 29,
+   "first": 643,
+   "line": "rendered. The",
+   "note": "render tiles fill, counter runs"
+  },
+  {
+   "id": "S19",
+   "size": "close",
+   "key": 20,
+   "len": 33,
+   "first": 672,
+   "line": "audio is mixed and",
+   "note": "three mix lanes"
+  },
+  {
+   "id": "S20",
+   "size": "macro",
+   "key": 20,
+   "len": 31,
+   "first": 705,
+   "line": "mastered, and",
+   "note": "level meter hits the target mark"
+  },
+  {
+   "id": "S21",
+   "size": "wide",
+   "key": 20,
+   "len": 49,
+   "first": 736,
+   "line": "the diagram is complete. A",
+   "note": "chain complete, coral flow"
+  },
+  {
+   "id": "S22",
+   "size": "medium",
+   "key": 20,
+   "len": 68,
+   "first": 785,
+   "line": "finished video comes out on the right.",
+   "note": "finished clip pops out on the right"
+  },
+  {
+   "id": "S23",
+   "size": "wide",
+   "key": 20,
+   "len": 55,
+   "first": 853,
+   "line": "Every stage you just watched is",
+   "note": "Pip and Mo small beside the diagram"
+  },
+  {
+   "id": "S24",
+   "size": "medium",
+   "key": 20,
+   "len": 64,
+   "first": 908,
+   "line": "a real step in the system. You get the",
+   "note": "stage names ticked off"
+  },
+  {
+   "id": "S25",
+   "size": "close",
+   "key": 20,
+   "len": 22,
+   "first": 972,
+   "line": "engine,",
+   "note": "engine gear turns"
+  },
+  {
+   "id": "S26",
+   "size": "medium",
+   "key": 20,
+   "len": 19,
+   "first": 994,
+   "line": "the cast, the",
+   "note": "the cast: Pip and Mo"
+  },
+  {
+   "id": "S27",
+   "size": "wide",
+   "key": 20,
+   "len": 72,
+   "first": 1013,
+   "line": "sets, the scripts and the guides. You",
+   "note": "sets, scripts and guides tiles pop in"
+  },
+  {
+   "id": "S28",
+   "size": "close",
+   "key": 20,
+   "len": 46,
+   "first": 1085,
+   "line": "supply your own keys for",
+   "note": "a key slides toward a slot"
+  },
+  {
+   "id": "S29",
+   "size": "medium",
+   "key": 20,
+   "len": 43,
+   "first": 1131,
+   "line": "the voice and the writing.",
+   "note": "two key slots, voice and writing"
+  },
+  {
+   "id": "S30",
+   "size": "insert",
+   "key": 20,
+   "len": 46,
+   "first": 1174,
+   "line": "No keys are included.",
+   "note": "package with no key, struck through"
+  },
+  {
+   "id": "S31",
+   "size": "wide",
+   "key": 20,
+   "len": 92,
+   "first": 1220,
+   "line": "One line in, one video out.",
+   "note": "one line in, one video out"
+  }
+ ],
+ "fx": [
+  {
+   "kind": "flash",
+   "color": "#2BA6A0",
+   "o": 0.3,
+   "f": 744
+  },
+  {
+   "kind": "flash",
+   "color": "#E8F1F3",
+   "o": 0.25,
+   "f": 1222
+  }
+ ],
+ "audio": {
+  "voice": "promo3/voice.wav",
+  "voiceVol": 0.8,
+  "sfx": "promo3/sfx.wav",
+  "sfxVol": 0.6809,
+  "music": "promo3/music.wav",
+  "musicVol": 0.1312
+ }
+}
